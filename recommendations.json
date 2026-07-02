@@ -19,7 +19,6 @@
     "idx_prem_us_organized_final_625d534a",
     "idx_prem_dhanytv_0a8fc7d5",
     "idx_prem_dhanytv_258f178b",
-    "idx_prem_dhanytv_c05a594b",
     "idx_Alarabiya.ae@SD",
     "idx_BabyFirst.us@Brazil",
     "idx_Bravo.us@West",
@@ -49,7 +48,8 @@
     "idx_CCTV9.cn",
     "idx_CCTV13.cn",
     "idx_CCTV17.cn",
-    "idx_RotanaCinema.eg"
+    "idx_RotanaCinema.eg",
+    "idx_FranceInter.fr"
   ],
   "trending": [
     "idx_CBC.az",
@@ -71,7 +71,7 @@
     "idx_prem_us_organized_final_625d534a",
     "idx_prem_dhanytv_0a8fc7d5",
     "idx_prem_dhanytv_258f178b",
-    "idx_prem_dhanytv_c05a594b"
+    "idx_Alarabiya.ae@SD"
   ],
   "recentlyAdded": [
     "yt_yt_tv360_nigeria",
@@ -730,8 +730,7 @@
       "idx_ABCNews.au",
       "idx_M4TV.au",
       "idx_Racingcom.au",
-      "idx_9Rush.au",
-      "free_plex_27bac519"
+      "idx_9Rush.au"
     ],
     "Austria": [
       "idx_ORF1.at",
@@ -806,8 +805,7 @@
       "idx_ISTVHD.br",
       "idx_RedeBrasil.br",
       "idx_TVERS.br",
-      "idx_TVCultura.br",
-      "free_pluto_392f6261"
+      "idx_TVCultura.br"
     ],
     "Bulgaria": [
       "idx_EuroNewsBulgaria.bg",
@@ -1225,7 +1223,6 @@
       "idx_TeleFormula.mx",
       "idx_noticiasnrt.com",
       "idx_Lasestrellas.tv",
-      "free_pluto_802fc6e1",
       "free_plex_5790ba8e",
       "free_plex_1dabd945",
       "free_plex_1d8ea1da",
@@ -1237,7 +1234,8 @@
       "free_plex_dc9965b9",
       "free_plex_c551638a",
       "free_plex_6c90b4c5",
-      "free_plex_989c9cd1"
+      "free_plex_989c9cd1",
+      "free_plex_2b8df36e"
     ],
     "Moldova": [
       "idx_Moldova1.md",
@@ -2737,15 +2735,15 @@
       "radio_dfcef843-6bf9-40f6-b3fe-2b224df86e48",
       "radio_98adecf7-2683-4408-9be7-02d3f9098eb8",
       "radio_78012206-1aa1-11e9-a80b-52543be04c81",
+      "radio_9617a958-0601-11e8-ae97-52543be04c81",
       "radio_da5f481e-f7d6-49b3-b213-514027740d39",
       "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
-      "radio_9617a958-0601-11e8-ae97-52543be04c81",
       "radio_1c3e8be2-5b14-4933-bad3-87cbc227cba4",
       "radio_d28420a4-eccf-47a2-ace1-088c7e7cb7e0",
       "radio_2dffb353-5341-4438-b67b-83de8c3efbab",
       "radio_313046e3-b203-4b9d-bc3e-393da7d97126",
-      "radio_240d28b9-7858-48d2-a816-9cf8e1875fe8",
       "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
+      "radio_240d28b9-7858-48d2-a816-9cf8e1875fe8",
       "radio_ea8059be-d119-4de3-b27b-0d9bd6aedb17"
     ],
     "Entretenimiento": [
@@ -3228,9 +3226,9 @@
       "free_pluto_25e8b8bb",
       "free_pluto_1968b88c",
       "free_pluto_25fe89b6",
+      "free_pluto_3078ce32",
       "free_pluto_857d33e8",
-      "free_pluto_727bd23c",
-      "free_pluto_84f22702"
+      "free_pluto_727bd23c"
     ],
     "United kingdom": [
       "free_pluto_409770c2",
@@ -3253,9 +3251,6 @@
       "free_pluto_57a81bbb",
       "free_pluto_0a7133df",
       "free_pluto_8039ec97"
-    ],
-    "Nz": [
-      "free_plex_83217edd"
     ],
     "Animals": [
       "free_roku_85fe8b54",
@@ -3322,10 +3317,10 @@
       "free_roku_6bb77cc3",
       "free_roku_4674c396",
       "free_roku_ea53315c",
+      "free_roku_8f67890e",
       "free_roku_11c741c9",
       "free_roku_f0c98afc",
-      "free_roku_2ae6bf30",
-      "free_roku_cd2bb607"
+      "free_roku_2ae6bf30"
     ],
     "Crime drama": [
       "free_roku_7ce50e3c"
@@ -3541,19 +3536,6 @@
       "free_tubi_5368882d",
       "free_tubi_7a55d314"
     ],
-    "Local news": [
-      "free_tubi_f1c63592",
-      "free_tubi_4869f467",
-      "free_tubi_03fe5924",
-      "free_tubi_ad986fb4",
-      "free_tubi_b6928dea",
-      "free_tubi_62387222",
-      "free_tubi_1c66e6a0",
-      "free_tubi_b2d28e9b",
-      "free_tubi_f41e68eb",
-      "free_tubi_a8afde88",
-      "free_tubi_3448ec45"
-    ],
     "Pop culture": [
       "free_tubi_eddbbd59",
       "free_tubi_697d097a",
@@ -3570,6 +3552,17 @@
     "Horror": [
       "free_tubi_0d0ccf1f",
       "free_tubi_11f8dba5"
+    ],
+    "Local news": [
+      "free_tubi_4869f467",
+      "free_tubi_03fe5924",
+      "free_tubi_c7e73b12",
+      "free_tubi_ad986fb4",
+      "free_tubi_c96986f0",
+      "free_tubi_3c7e7bed",
+      "free_tubi_4e7e9dac",
+      "free_tubi_efb904e8",
+      "free_tubi_b6928dea"
     ],
     "Tv dramas": [
       "free_tubi_78b13383",
