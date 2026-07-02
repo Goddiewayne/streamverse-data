@@ -37028,8 +37028,6 @@
       "radio_216ee092-939d-43b6-8562-c646f73ad89f",
       "radio_96185693-0601-11e8-ae97-52543be04c81",
       "radio_961756e4-0601-11e8-ae97-52543be04c81",
-      "radio_675bd925-8b13-43fe-a1b9-43bb0f90fbbd",
-      "radio_9619ea14-0601-11e8-ae97-52543be04c81",
       "radio_999ff951-68eb-4f4a-bec9-ed972b99d258",
       "radio_83dcfac4-b3c3-4731-afc1-a80dd271dffa",
       "radio_e5a0255c-1a28-4e9c-8ece-466ed39be2af",
@@ -37048,10 +37046,9 @@
       "radio_9619f126-0601-11e8-ae97-52543be04c81",
       "radio_f8a910c3-fd87-4376-af20-1af5bfec6ab4",
       "radio_caf01ffe-e18a-4158-bf9e-e947aa50d2b9",
-      "radio_961f659a-0601-11e8-ae97-52543be04c81",
-      "br_rainews_it"
+      "radio_961f659a-0601-11e8-ae97-52543be04c81"
     ],
-    "count": 564
+    "count": 561
   },
   {
     "country": "CA",
@@ -40687,7 +40684,6 @@
       "radio_4ad5bdc7-01e5-47c9-a1f9-751671b4707e",
       "radio_c4077677-dc2f-11e9-a8ba-52543be04c81",
       "radio_96063f25-0601-11e8-ae97-52543be04c81",
-      "radio_cae35448-1285-4f12-b3e0-2f4fdde00002",
       "radio_962b27a3-0601-11e8-ae97-52543be04c81",
       "radio_9608ade8-0601-11e8-ae97-52543be04c81",
       "radio_96200095-0601-11e8-ae97-52543be04c81",
@@ -40707,7 +40703,7 @@
       "yt_yt_gb_news",
       "br_reuters_now"
     ],
-    "count": 275
+    "count": 274
   },
   {
     "country": "TR",

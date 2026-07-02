@@ -37896,10 +37896,9 @@
       "br_reuters_now",
       "br_cbs_news_us",
       "br_tve24_es",
-      "br_rainews_it",
       "br_ait_national_ng"
     ],
-    "count": 1155
+    "count": 1154
   },
   {
     "category": "United states",
@@ -41327,7 +41326,6 @@
       "radio_df369586-40fc-11e9-aa55-52543be04c81",
       "radio_2ce23ee2-95c5-407d-9df8-54c3cdde2825",
       "radio_0de82079-04e7-407b-b616-e0726eba5244",
-      "radio_675bd925-8b13-43fe-a1b9-43bb0f90fbbd",
       "radio_b96225b2-8536-4b9b-8add-03582fd2e6a2",
       "radio_743889d5-5472-4e9f-ac61-5f0f04e7efa8",
       "radio_f4bfa5d0-a403-11e8-abb8-52543be04c81",
@@ -41340,7 +41338,6 @@
       "radio_948408f4-0060-44fa-a26c-bf313f6c774d",
       "radio_b20de429-e1b3-4624-a1ac-12e2bf0cadb0",
       "radio_aa408a3b-3d07-415d-8af1-a60b64e07043",
-      "radio_9619ea14-0601-11e8-ae97-52543be04c81",
       "radio_9627ddc0-0601-11e8-ae97-52543be04c81",
       "radio_bce9aa64-8fd5-434e-8c9d-3ee67c594a06",
       "radio_960c2914-0601-11e8-ae97-52543be04c81",
@@ -41353,7 +41350,6 @@
       "radio_9e8ccaf9-99b1-4b80-ac33-66b3b5057745",
       "radio_9614225b-0601-11e8-ae97-52543be04c81",
       "radio_96063f25-0601-11e8-ae97-52543be04c81",
-      "radio_cae35448-1285-4f12-b3e0-2f4fdde00002",
       "radio_95eff2f9-cb7a-4fe4-bb07-8c700719f8b6",
       "radio_baae978e-a9d0-422c-8ad4-ec803da4ef8c",
       "radio_83dcfac4-b3c3-4731-afc1-a80dd271dffa",
@@ -41952,7 +41948,7 @@
       "radio_b1a564ae-5f48-48f9-ac09-666756caaf17",
       "radio_00c5f7bd-03af-441e-8be4-465be329aed9"
     ],
-    "count": 687
+    "count": 684
   },
   {
     "category": "Canada",

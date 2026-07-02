@@ -24,14 +24,12 @@
     "idx_BabyFirst.us@Brazil",
     "idx_Bravo.us@West",
     "idx_CBSSportsGolazoNetwork.us@SD",
-    "idx_CCTV13.cn@HD",
     "idx_DeluxeMusic.de@SD",
     "idx_DisneyChannel.bg@SD",
     "idx_DisneyJr.tr@SD",
     "idx_FoxBusinessNetwork.us@SD",
     "idx_FoxSports.ar@SD",
     "idx_France5.fr@SD",
-    "idx_France24.fr@Arabic",
     "idx_NHLNetwork.us@SD",
     "idx_Rai2.it@SD",
     "idx_RealMadridTV.es@SD",
@@ -42,14 +40,16 @@
     "idx_TRTBelgesel.tr@SD",
     "idx_TRTHaber.tr@SD",
     "idx_TSN3.ca@SD",
+    "idx_TV5.mn@SD",
     "idx_YahooFinance.us@SD",
+    "idx_CCTV1.cn",
+    "idx_CCTV2.cn",
     "idx_CCTV5.cn",
-    "idx_RotanaCinema.eg",
-    "idx_FranceInter.fr",
-    "idx_ZDF.de",
-    "idx_3sat.de",
-    "idx_KIKA.de",
-    "idx_DDIndia.in"
+    "idx_CCTV8.cn",
+    "idx_CCTV9.cn",
+    "idx_CCTV13.cn",
+    "idx_CCTV17.cn",
+    "idx_RotanaCinema.eg"
   ],
   "trending": [
     "idx_CBC.az",
@@ -74,6 +74,7 @@
     "idx_prem_dhanytv_c05a594b"
   ],
   "recentlyAdded": [
+    "yt_yt_tv360_nigeria",
     "yt_yt_news_central",
     "yt_yt_ait_nigeria",
     "yt_yt_newzroom_afrika",
@@ -92,7 +93,6 @@
     "br_cbs_news_us",
     "br_tve_es",
     "br_tve24_es",
-    "br_rainews_it",
     "br_ait_national_ng"
   ],
   "topPicks": [

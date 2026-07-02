@@ -54,26 +54,8 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_CCTV1.cn@HD",
-    "displayName": "Cctv1",
-    "logoUrl": "https://i.imgur.com/TpA3cUl.png",
-    "category": "General",
-    "country": "CN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_CCTV2.cn@SD",
-    "displayName": "Cctv2",
-    "logoUrl": "https://i.imgur.com/ILamhwU.png",
-    "category": "Business",
-    "country": "CN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
     "channelId": "idx_CCTV3.cn@SD",
-    "displayName": "Cctv3",
+    "displayName": "CCTV 3",
     "logoUrl": "https://i.imgur.com/iFlkIuw.png",
     "category": "Entertainment",
     "country": "CN",
@@ -82,7 +64,7 @@
   },
   {
     "channelId": "idx_CCTV6.cn@HD",
-    "displayName": "Cctv6",
+    "displayName": "CCTV 6",
     "logoUrl": "https://i.imgur.com/rFiaef7.png",
     "category": "Movies",
     "country": "CN",
@@ -90,46 +72,10 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_CCTV8.cn@SD",
-    "displayName": "Cctv8",
-    "logoUrl": "https://i.imgur.com/GyHaZ8X.png",
-    "category": "Culture",
-    "country": "CN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_CCTV9.cn@SD",
-    "displayName": "Cctv9",
-    "logoUrl": "https://i.imgur.com/3tivvMm.png",
-    "category": "Documentary",
-    "country": "CN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_CCTV13.cn@HD",
-    "displayName": "Cctv13",
-    "logoUrl": "https://i.imgur.com/6MTar6J.png",
-    "category": "News",
-    "country": "CN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
     "channelId": "idx_CCTV14.cn@HD",
-    "displayName": "Cctv14",
+    "displayName": "CCTV 14",
     "logoUrl": "https://i.imgur.com/c5SXW7i.png",
     "category": "Kids",
-    "country": "CN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_CCTV17.cn@HD",
-    "displayName": "Cctv17",
-    "logoUrl": "https://i.imgur.com/jSQURxS.png",
-    "category": "Education",
     "country": "CN",
     "priority": 0,
     "reason": "Broadcaster"
@@ -145,7 +91,7 @@
   },
   {
     "channelId": "idx_France2.fr@SD",
-    "displayName": "France2",
+    "displayName": "France 2",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png",
     "category": "General",
     "country": "FR",
@@ -154,7 +100,7 @@
   },
   {
     "channelId": "idx_France3.fr@National",
-    "displayName": "France3",
+    "displayName": "France 3",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png",
     "category": "General",
     "country": "FR",
@@ -163,7 +109,7 @@
   },
   {
     "channelId": "idx_France24.fr@English",
-    "displayName": "France24",
+    "displayName": "France 24",
     "logoUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png",
     "category": "News",
     "country": "FR",
@@ -190,7 +136,7 @@
   },
   {
     "channelId": "idx_NDTV24x7.in@SD",
-    "displayName": "Ndtv24x7",
+    "displayName": "NDTV 24 X 7",
     "logoUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_24X7/images/LOGO_HD/image.png",
     "category": "News",
     "country": "IN",
@@ -306,6 +252,15 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_RaiNews24.it@SD",
+    "displayName": "RAI News 24",
+    "logoUrl": "https://i.imgur.com/n2u57y3.png",
+    "category": "News",
+    "country": "IT",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
     "channelId": "idx_RTDocumentary.ru@Russian",
     "displayName": "RT Documentary",
     "logoUrl": "https://i.imgur.com/aeu5zIC.png",
@@ -378,6 +333,15 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_TV5.mn@SD",
+    "displayName": "TV5",
+    "logoUrl": "https://i.imgur.com/asGQfGN.png",
+    "category": "General",
+    "country": "MN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
     "channelId": "idx_TVC.ng@SD",
     "displayName": "TVC",
     "logoUrl": "https://i.imgur.com/ReV8R5S.png",
@@ -414,9 +378,63 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_CCTV1.cn",
+    "displayName": "CCTV 1",
+    "logoUrl": "https://i.imgur.com/uHU6Vc0.png",
+    "category": "China",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CCTV2.cn",
+    "displayName": "CCTV 2",
+    "logoUrl": "https://i.imgur.com/6C9JEYt.png",
+    "category": "China",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
     "channelId": "idx_CCTV5.cn",
-    "displayName": "Cctv5",
+    "displayName": "CCTV 5",
     "logoUrl": "https://i.imgur.com/Mut2omN.png",
+    "category": "China",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CCTV8.cn",
+    "displayName": "CCTV 8",
+    "logoUrl": "https://i.imgur.com/Qg1opg9.png",
+    "category": "China",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CCTV9.cn",
+    "displayName": "CCTV 9",
+    "logoUrl": "https://i.imgur.com/Ruyzhu5.png",
+    "category": "China",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CCTV13.cn",
+    "displayName": "CCTV 13",
+    "logoUrl": "https://i.imgur.com/pPO8uJN.png",
+    "category": "China",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CCTV17.cn",
+    "displayName": "CCTV 17",
+    "logoUrl": "https://i.imgur.com/XMsoHut.png",
     "category": "China",
     "country": "CN",
     "priority": 0,
@@ -496,7 +514,7 @@
   },
   {
     "channelId": "idx_RT.ru",
-    "displayName": "Ru-r3",
+    "displayName": "RU-R 3",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
     "category": "News",
     "country": "RU",
@@ -505,7 +523,7 @@
   },
   {
     "channelId": "idx_prem_new-bd-channels_61e9c06e",
-    "displayName": "Ne-w1",
+    "displayName": "NE-W 1",
     "logoUrl": "https://s3.aynaott.com/storage/671cfb22f8d0362ae01403b6e748f2e2",
     "category": "News",
     "country": "NE",
@@ -567,14 +585,6 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_prem_final_iptv_dead_676c1a5a",
-    "displayName": "Tv5monde",
-    "category": "English",
-    "country": "FI",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
     "channelId": "idx_prem_dhanytv_0a8fc7d5",
     "displayName": "History",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/HistoryHD_Logo_2015_4C_Black_type.png",
@@ -621,7 +631,7 @@
   },
   {
     "channelId": "idx_prem_dhanytv_c05a594b",
-    "displayName": "Cctv4",
+    "displayName": "CCTV 4",
     "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest/scale-to-width-down/250?cb\u003d20200119091533",
     "category": "China",
     "country": "DH",
@@ -630,7 +640,7 @@
   },
   {
     "channelId": "idx_prem_ar-m_f623e75a",
-    "displayName": "Ar-d1",
+    "displayName": "AR-D 1",
     "logoUrl": "https://i.imgur.com/8MRNFb9.png",
     "category": "Mendoza",
     "country": "AR",
@@ -639,7 +649,7 @@
   },
   {
     "channelId": "idx_prem_br_7ae992d9",
-    "displayName": "Br-c4",
+    "displayName": "BR-C 4",
     "logoUrl": "https://images.pluto.tv/channels/62310f66d5888f0007534342/colorLogoPNG_1778002391431.png",
     "category": "Premium",
     "country": "BR",
@@ -657,7 +667,7 @@
   },
   {
     "channelId": "free_pluto_1968b88c",
-    "displayName": "Us-b1",
+    "displayName": "US-B 1",
     "logoUrl": "https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png",
     "category": "United states",
     "country": "US",
@@ -666,7 +676,7 @@
   },
   {
     "channelId": "free_pluto_466447c4",
-    "displayName": "Us-s10",
+    "displayName": "US-S 10",
     "logoUrl": "https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png",
     "category": "United states",
     "country": "US",
@@ -731,15 +741,6 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/24_Horas_logo.svg/512px-24_Horas_logo.svg.png",
     "category": "News",
     "country": "ES",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "br_rainews_it",
-    "displayName": "RAI 24",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rai_News_24_logo.svg/512px-Rai_News_24_logo.svg.png",
-    "category": "News",
-    "country": "IT",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -834,18 +835,9 @@
   },
   {
     "channelId": "idx_France5.fr@SD",
-    "displayName": "France5",
+    "displayName": "France 5",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
     "category": "General",
-    "country": "FR",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_France24.fr@Arabic",
-    "displayName": "France24",
-    "logoUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png",
-    "category": "News",
     "country": "FR",
     "priority": 1,
     "reason": "Multi-source"
@@ -892,6 +884,15 @@
     "logoUrl": "https://i.imgur.com/AYza8KO.png",
     "category": "Sports",
     "country": "CA",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_YahooFinance.us@SD",
+    "displayName": "Yahoo Finance",
+    "logoUrl": "https://i.imgur.com/43oHsHL.png",
+    "category": "Business",
+    "country": "US",
     "priority": 1,
     "reason": "Multi-source"
   }
