@@ -3,7 +3,7 @@
   "pipelineVersion": "2.0.0",
   "catalogueVersion": 1,
   "previousCatalogueVersion": -1,
-  "generatedAtMs": 1782974715450,
+  "generatedAtMs": 1782975002337,
   "channelCount": 50140,
   "liveChannelCount": 50140,
   "providerCount": 7,
@@ -17,7 +17,7 @@
       "checksumSha256": "95592d79473885c72784c9cb345154df659fe60a1af98b39e17fd671ead1456f",
       "checksumMd5": "2d8894cfb4dcffa058509c0d1efbf444",
       "artifactType": "CHANNELS",
-      "generatedAtMs": 1782974712465
+      "generatedAtMs": 1782974999337
     },
     {
       "name": "channels.json.gz",
@@ -27,7 +27,7 @@
       "checksumSha256": "0589ddb497dbb040b102eafc7c885a25636a511b72517a9f7c7dfc1fe3b8c430",
       "checksumMd5": "bdb218513d695434558936011c7f8c31",
       "artifactType": "CHANNELS",
-      "generatedAtMs": 1782974713126
+      "generatedAtMs": 1782974999990
     },
     {
       "name": "live_channels.json",
@@ -37,7 +37,7 @@
       "checksumSha256": "95592d79473885c72784c9cb345154df659fe60a1af98b39e17fd671ead1456f",
       "checksumMd5": "2d8894cfb4dcffa058509c0d1efbf444",
       "artifactType": "LIVE_CHANNELS",
-      "generatedAtMs": 1782974713830
+      "generatedAtMs": 1782975000667
     },
     {
       "name": "live_channels.json.gz",
@@ -47,7 +47,7 @@
       "checksumSha256": "0589ddb497dbb040b102eafc7c885a25636a511b72517a9f7c7dfc1fe3b8c430",
       "checksumMd5": "bdb218513d695434558936011c7f8c31",
       "artifactType": "LIVE_CHANNELS",
-      "generatedAtMs": 1782974714467
+      "generatedAtMs": 1782975001296
     },
     {
       "name": "search_index.json",
@@ -57,7 +57,7 @@
       "checksumSha256": "71b930b4c02eaffdf71251936dfab6a21ec373349f0241659d2faf814cf741e1",
       "checksumMd5": "01d9476ed8b49b4cb610367e799a7854",
       "artifactType": "SEARCH_INDEX",
-      "generatedAtMs": 1782974714825
+      "generatedAtMs": 1782975001687
     },
     {
       "name": "search_index.json.gz",
@@ -67,7 +67,7 @@
       "checksumSha256": "fcdde8f7a08846ea05d19b33a30fc435e11cca5f29c951b876ef09640e7c9617",
       "checksumMd5": "35dd352874e0ed7684c3ebba1de247cc",
       "artifactType": "SEARCH_INDEX",
-      "generatedAtMs": 1782974715102
+      "generatedAtMs": 1782975001966
     },
     {
       "name": "categories.json",
@@ -77,7 +77,7 @@
       "checksumSha256": "a36bdaa4cbee17c5acdc7445b830b893cc730899bb00b3b2bfe8d78d8d73dcdf",
       "checksumMd5": "ae3a5aa4e8f80a071f5af180a3dcd37f",
       "artifactType": "CATEGORIES",
-      "generatedAtMs": 1782974715151
+      "generatedAtMs": 1782975002026
     },
     {
       "name": "categories.json.gz",
@@ -87,7 +87,7 @@
       "checksumSha256": "d957aa06cdf6657b3e9bae7bf408a82e5517aaeb4f5f38cac9253e5377f69975",
       "checksumMd5": "02af5016b7e08a3ce4f89744d7f93eb8",
       "artifactType": "CATEGORIES",
-      "generatedAtMs": 1782974715186
+      "generatedAtMs": 1782975002059
     },
     {
       "name": "regions.json",
@@ -97,7 +97,7 @@
       "checksumSha256": "4d009cdeb12c29134d1819ca1617189ffe1aab802a09f752bb0247d15c545873",
       "checksumMd5": "12a171e60406b1e8cf1eea8ac13e021b",
       "artifactType": "REGIONS",
-      "generatedAtMs": 1782974715232
+      "generatedAtMs": 1782975002117
     },
     {
       "name": "regions.json.gz",
@@ -107,7 +107,7 @@
       "checksumSha256": "9e6399892c5549df2e99b8a0f7e92eb7dd8f6a84b29f6b88a37fa346867e249a",
       "checksumMd5": "ee61ecb619752f8d2e39bc34cc84be06",
       "artifactType": "REGIONS",
-      "generatedAtMs": 1782974715265
+      "generatedAtMs": 1782975002148
     },
     {
       "name": "recommendations.json",
@@ -117,7 +117,7 @@
       "checksumSha256": "504ac9e9db4c345b20491681ea311c1ac22b768b6d52e048c017b2bb38d35c36",
       "checksumMd5": "bd22cddeda3555f7552fbf6960e1be86",
       "artifactType": "RECOMMENDATIONS",
-      "generatedAtMs": 1782974715322
+      "generatedAtMs": 1782975002209
     },
     {
       "name": "recommendations.json.gz",
@@ -127,7 +127,7 @@
       "checksumSha256": "1ea04e417b31c2b21fdb60d5c7c53b6e39c9d9006f84fa539b95188cf16078a8",
       "checksumMd5": "fa030bdd2817917b430a6b31c07e3a3b",
       "artifactType": "RECOMMENDATIONS",
-      "generatedAtMs": 1782974715326
+      "generatedAtMs": 1782975002213
     },
     {
       "name": "providers.json",
@@ -137,7 +137,7 @@
       "checksumSha256": "7b8880d89dbe1fadcf8ec294943138d329cc877670b3923042778076cb5944b1",
       "checksumMd5": "eaf11d42e42cdf5636c62ccfc5ba8cd0",
       "artifactType": "PROVIDERS",
-      "generatedAtMs": 1782974715390
+      "generatedAtMs": 1782975002272
     },
     {
       "name": "providers.json.gz",
@@ -147,7 +147,7 @@
       "checksumSha256": "f94ed3a5a75a6b9ef90ce0c629fd0c14ca8e1d04f824cb3d369b0bc1b1f28451",
       "checksumMd5": "41eb04eb2f22cd6a0f95fd0f6506ce31",
       "artifactType": "PROVIDERS",
-      "generatedAtMs": 1782974715391
+      "generatedAtMs": 1782975002272
     },
     {
       "name": "featured.json",
@@ -157,7 +157,7 @@
       "checksumSha256": "070ccaa1bde0515ff9c95ec332afa319ea24b1fde71eb791a2699ef0c65ec347",
       "checksumMd5": "6254222dac70edb92560db2d0b2496c4",
       "artifactType": "FEATURED",
-      "generatedAtMs": 1782974715421
+      "generatedAtMs": 1782975002304
     },
     {
       "name": "featured.json.gz",
@@ -167,7 +167,7 @@
       "checksumSha256": "1ad6a5f77871efe1b3ce4a2e5e26a13c9bf904c51625b57dd1788c6df49f4136",
       "checksumMd5": "34941647f3b41fda4359b0a20bea5362",
       "artifactType": "FEATURED",
-      "generatedAtMs": 1782974715422
+      "generatedAtMs": 1782975002305
     },
     {
       "name": "aliases.json",
@@ -177,7 +177,7 @@
       "checksumSha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
       "checksumMd5": "99914b932bd37a50b983c5e7c90ae93b",
       "artifactType": "ALIASES",
-      "generatedAtMs": 1782974715434
+      "generatedAtMs": 1782975002319
     },
     {
       "name": "aliases.json.gz",
@@ -187,7 +187,7 @@
       "checksumSha256": "15a60fe9599316b767a8b8be4d0141d2445efdcb8290884c3ee08b162d404981",
       "checksumMd5": "dd2045819bcb94721bb3ae1ade179aa0",
       "artifactType": "ALIASES",
-      "generatedAtMs": 1782974715435
+      "generatedAtMs": 1782975002319
     }
   ],
   "integrity": {
