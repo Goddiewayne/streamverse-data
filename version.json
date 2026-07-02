@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 2,
+  "pipelineVersion": "2.0.0",
+  "catalogueVersion": 1,
+  "previousCatalogueVersion": -1,
+  "generatedAtMs": 1782964894042,
+  "channelCount": 50514,
+  "liveChannelCount": 50514,
+  "providerCount": 7,
+  "sourceCount": 54160,
+  "artifacts": [
+    {
+      "name": "channels.json",
+      "relativePath": "channels.json",
+      "uncompressedBytes": 45365281,
+      "compressedBytes": 45365281,
+      "checksumSha256": "3da7842169509a0ec73af1058c584c73cc52534858bdf6ed2fb19d5864e45a14",
+      "checksumMd5": "4c5dc0f3861c4060de3b511aa2929886",
+      "artifactType": "CHANNELS",
+      "generatedAtMs": 1782964890921
+    },
+    {
+      "name": "channels.json.gz",
+      "relativePath": "channels.json.gz",
+      "uncompressedBytes": 45365281,
+      "compressedBytes": 4748920,
+      "checksumSha256": "d48bf2ab676115e1aa7382a92b55343b21427d806046a96c81cf9a7fca35eecd",
+      "checksumMd5": "4bcb03bd6cd982d5460b57f45b725e0b",
+      "artifactType": "CHANNELS",
+      "generatedAtMs": 1782964891576
+    },
+    {
+      "name": "live_channels.json",
+      "relativePath": "live_channels.json",
+      "uncompressedBytes": 45365281,
+      "compressedBytes": 45365281,
+      "checksumSha256": "3da7842169509a0ec73af1058c584c73cc52534858bdf6ed2fb19d5864e45a14",
+      "checksumMd5": "4c5dc0f3861c4060de3b511aa2929886",
+      "artifactType": "LIVE_CHANNELS",
+      "generatedAtMs": 1782964892343
+    },
+    {
+      "name": "live_channels.json.gz",
+      "relativePath": "live_channels.json.gz",
+      "uncompressedBytes": 45365281,
+      "compressedBytes": 4748920,
+      "checksumSha256": "d48bf2ab676115e1aa7382a92b55343b21427d806046a96c81cf9a7fca35eecd",
+      "checksumMd5": "4bcb03bd6cd982d5460b57f45b725e0b",
+      "artifactType": "LIVE_CHANNELS",
+      "generatedAtMs": 1782964892995
+    },
+    {
+      "name": "search_index.json",
+      "relativePath": "search_index.json",
+      "uncompressedBytes": 16781716,
+      "compressedBytes": 16781716,
+      "checksumSha256": "cc6781af75bd377ff629229d2704e0059cf69d5f6606bf834a34906665446906",
+      "checksumMd5": "36ad64b03ca60d1f4caafbc90985e594",
+      "artifactType": "SEARCH_INDEX",
+      "generatedAtMs": 1782964893412
+    },
+    {
+      "name": "search_index.json.gz",
+      "relativePath": "search_index.json.gz",
+      "uncompressedBytes": 16781716,
+      "compressedBytes": 1606154,
+      "checksumSha256": "7db8036fe83480b5313b0e23c0f4fd0afffcd7ae3d38bfdfeb4671a27ac34247",
+      "checksumMd5": "02fa4797ae1b4bc4dad849ca925ae470",
+      "artifactType": "SEARCH_INDEX",
+      "generatedAtMs": 1782964893633
+    },
+    {
+      "name": "categories.json",
+      "relativePath": "categories.json",
+      "uncompressedBytes": 1945773,
+      "compressedBytes": 1945773,
+      "checksumSha256": "45749f28f70d6be54963b460af5c730e9a0827ed5d6b20b5637cd495ac43dc85",
+      "checksumMd5": "f25a347e5b5df23da64ef8dd460c0e5d",
+      "artifactType": "CATEGORIES",
+      "generatedAtMs": 1782964893688
+    },
+    {
+      "name": "categories.json.gz",
+      "relativePath": "categories.json.gz",
+      "uncompressedBytes": 1945773,
+      "compressedBytes": 355598,
+      "checksumSha256": "3b6c070eb4da53aecfd29a7b5f7429764df70f4966c195acc31e96c9120f3297",
+      "checksumMd5": "37b89fe4f40bce44df41b8e51898d273",
+      "artifactType": "CATEGORIES",
+      "generatedAtMs": 1782964893727
+    },
+    {
+      "name": "regions.json",
+      "relativePath": "regions.json",
+      "uncompressedBytes": 1908982,
+      "compressedBytes": 1908982,
+      "checksumSha256": "3c3037a49f5eb545251bd2c3334e2539aabf98d7875429518e3b5439a1dcc6e0",
+      "checksumMd5": "00c5b94d86a49faa969e8c6d062caa1e",
+      "artifactType": "REGIONS",
+      "generatedAtMs": 1782964893775
+    },
+    {
+      "name": "regions.json.gz",
+      "relativePath": "regions.json.gz",
+      "uncompressedBytes": 1908982,
+      "compressedBytes": 332876,
+      "checksumSha256": "a888bf020b93d2a1b6603fd42dbe13df09bf6c4a8506c70de51de0d5053c3208",
+      "checksumMd5": "a6fafacf38210d692ed98aea2e6e614b",
+      "artifactType": "REGIONS",
+      "generatedAtMs": 1782964893806
+    },
+    {
+      "name": "recommendations.json",
+      "relativePath": "recommendations.json",
+      "uncompressedBytes": 139009,
+      "compressedBytes": 139009,
+      "checksumSha256": "675b88f4b6fbe516268ea8b4c9f14c3afb5e1208e45beb2b4e5cf872c6e19125",
+      "checksumMd5": "6e8bbddbcafca8c6e2e91e7c6b1ab585",
+      "artifactType": "RECOMMENDATIONS",
+      "generatedAtMs": 1782964893858
+    },
+    {
+      "name": "recommendations.json.gz",
+      "relativePath": "recommendations.json.gz",
+      "uncompressedBytes": 139009,
+      "compressedBytes": 32890,
+      "checksumSha256": "9500270d621845d95988f2852d51e00bb3771d0b33be17ff718ccfaa41b7c078",
+      "checksumMd5": "3ebb4ee8b0e9321121f5aeb4f192e189",
+      "artifactType": "RECOMMENDATIONS",
+      "generatedAtMs": 1782964893862
+    },
+    {
+      "name": "providers.json",
+      "relativePath": "providers.json",
+      "uncompressedBytes": 1013,
+      "compressedBytes": 1013,
+      "checksumSha256": "be16451ae11c6265e75fe6166b9fbc737969ecab18dd16cc1f955567dd234123",
+      "checksumMd5": "bd38d6a4b8ad33e43744db50f6213858",
+      "artifactType": "PROVIDERS",
+      "generatedAtMs": 1782964893928
+    },
+    {
+      "name": "providers.json.gz",
+      "relativePath": "providers.json.gz",
+      "uncompressedBytes": 1013,
+      "compressedBytes": 244,
+      "checksumSha256": "bb14e8641a2a7fbf402a70ca7cd9bb09403d156b406573497d2d3c6b1ffac664",
+      "checksumMd5": "8ee434ec0a0df53565b10857c97f25fe",
+      "artifactType": "PROVIDERS",
+      "generatedAtMs": 1782964893929
+    },
+    {
+      "name": "featured.json",
+      "relativePath": "featured.json",
+      "uncompressedBytes": 21604,
+      "compressedBytes": 21604,
+      "checksumSha256": "b2444dbaab69063c466569d4ab301e3a9f8938e066117c0abb0732f2b4eda0f4",
+      "checksumMd5": "863c3abd86595f4168b3fe8f69e3be51",
+      "artifactType": "FEATURED",
+      "generatedAtMs": 1782964893956
+    },
+    {
+      "name": "featured.json.gz",
+      "relativePath": "featured.json.gz",
+      "uncompressedBytes": 21604,
+      "compressedBytes": 3063,
+      "checksumSha256": "ae4c1d6cdca8483d99929cb54e7797b35f0286dd19fbe93b925ad8603a297bd7",
+      "checksumMd5": "642bf32865a1d614014326a1c01b771b",
+      "artifactType": "FEATURED",
+      "generatedAtMs": 1782964893957
+    },
+    {
+      "name": "aliases.json",
+      "relativePath": "aliases.json",
+      "uncompressedBytes": 2,
+      "compressedBytes": 2,
+      "checksumSha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "checksumMd5": "99914b932bd37a50b983c5e7c90ae93b",
+      "artifactType": "ALIASES",
+      "generatedAtMs": 1782964893970
+    },
+    {
+      "name": "aliases.json.gz",
+      "relativePath": "aliases.json.gz",
+      "uncompressedBytes": 2,
+      "compressedBytes": 22,
+      "checksumSha256": "15a60fe9599316b767a8b8be4d0141d2445efdcb8290884c3ee08b162d404981",
+      "checksumMd5": "dd2045819bcb94721bb3ae1ade179aa0",
+      "artifactType": "ALIASES",
+      "generatedAtMs": 1782964893971
+    }
+  ],
+  "integrity": {
+    "rootHash": "",
+    "signed": false,
+    "signature": ""
+  },
+  "changelog": ""
+}

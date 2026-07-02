@@ -1,0 +1,51 @@
+[
+  {
+    "sourceType": "BROADCASTER",
+    "providerName": "BROADCASTER",
+    "channelCount": 86,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "FREE_CHANNEL",
+    "providerName": "FREE_CHANNEL",
+    "channelCount": 7539,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "YOUTUBE_TV",
+    "providerName": "YOUTUBE_TV",
+    "channelCount": 47,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "SPORTS_EVENTS",
+    "providerName": "SPORTS_EVENTS",
+    "channelCount": 876,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "WORLD_TV",
+    "providerName": "WORLD_TV",
+    "channelCount": 297,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "GLOBAL_INDEX",
+    "providerName": "GLOBAL_INDEX",
+    "channelCount": 44591,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "RADIO",
+    "providerName": "RADIO",
+    "channelCount": 724,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  }
+]

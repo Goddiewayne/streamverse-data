@@ -1,0 +1,4925 @@
+{
+  "popular": [
+    "idx_Alarabiya.ae@SD",
+    "idx_AriseNews.uk",
+    "idx_BloombergTelevision.us",
+    "idx_DWEnglish.de",
+    "idx_CGTN.cn",
+    "idx_RT.ru",
+    "idx_prem_br_7ae992d9",
+    "radio_59813592-9a30-4e5c-bfc6-665724728582",
+    "radio_7478cbd8-9217-4e39-8da7-a0d4385685ce",
+    "world_sabc-news",
+    "world_cgtn",
+    "world_cbc-news",
+    "world_bloomberg-tv",
+    "world_france-2",
+    "world_france-3",
+    "world_starz",
+    "world_nfl-network",
+    "idx_00sReplay.us@SD",
+    "idx_1TV.ge@SD",
+    "idx_2M.ma@SD",
+    "idx_2TV.ge@SD",
+    "idx_3CatInfo.es@SD",
+    "idx_iptv_eccbc87e4b5c",
+    "idx_3sat.de@SD",
+    "idx_4FunTV.pl@SD",
+    "idx_5Cops.us@UK",
+    "idx_7thHeaven.se@DK",
+    "idx_7thHeaven.se@NO",
+    "idx_7thHeaven.se@SE",
+    "idx_9Go.au@Sydney",
+    "idx_9Life.au@Sydney",
+    "idx_12TVParma.it@SD",
+    "idx_13C.cl@SD",
+    "idx_13E.cl@SD",
+    "idx_13Kids.cl@SD",
+    "idx_13P.cl@SD",
+    "idx_13Realities.cl@SD",
+    "idx_13T.cl@SD",
+    "idx_16AnnieIncinta.de@IT",
+    "idx_16tvBudapest.hu@SD",
+    "idx_Channel24.ua@SD",
+    "idx_48Hours.us@CA",
+    "idx_50CentAction.us@SD",
+    "idx_70sCinema.us@SD",
+    "idx_80sRewind.us@SD",
+    "idx_88Stereo.cr@SD",
+    "idx_90sKids.us@SD",
+    "idx_90sKidsTV2.us@SD",
+    "idx_90sThrowback.us@SD",
+    "idx_360News.ru@SD"
+  ],
+  "trending": [
+    "idx_Alarabiya.ae@SD",
+    "idx_AriseNews.uk",
+    "idx_BloombergTelevision.us",
+    "idx_DWEnglish.de",
+    "idx_CGTN.cn",
+    "idx_RT.ru",
+    "idx_prem_br_7ae992d9",
+    "radio_59813592-9a30-4e5c-bfc6-665724728582",
+    "radio_7478cbd8-9217-4e39-8da7-a0d4385685ce",
+    "world_sabc-news",
+    "world_cgtn",
+    "world_cbc-news",
+    "world_bloomberg-tv",
+    "world_france-2",
+    "world_france-3",
+    "world_starz",
+    "world_nfl-network",
+    "idx_00sReplay.us@SD",
+    "idx_1TV.ge@SD",
+    "idx_2M.ma@SD"
+  ],
+  "recentlyAdded": [
+    "br_cctv2_cn",
+    "br_cctv3_cn",
+    "br_cctv5_cn",
+    "br_cctv6_cn",
+    "br_cctv8_cn",
+    "br_cctv9_cn",
+    "br_cctv14_cn",
+    "br_cctv17_cn",
+    "br_tve_es",
+    "br_tve24_es",
+    "br_rai1_it",
+    "br_rai3_it",
+    "br_rai4_it",
+    "br_rainews_it",
+    "br_abc_tv_au",
+    "br_ndtv_in",
+    "br_caracol_co",
+    "br_arte_fr_de",
+    "br_rtp_pt",
+    "br_ait_national_ng"
+  ],
+  "topPicks": [
+    "idx_00sReplay.us@SD",
+    "idx_1Plus1International.ua@HD",
+    "idx_1Plus1Marafon.ua@SD",
+    "idx_123tv.de@SD",
+    "idx_1AlmereTV.nl@SD",
+    "idx_1KZNTV.za@SD",
+    "idx_1TV.ge@SD",
+    "idx_1TwenteTV.nl@SD",
+    "idx_2GB.au@SD",
+    "idx_2M.ma@SD",
+    "idx_2MMonde.ma@HD",
+    "idx_2MMonde.ma@SD",
+    "idx_2MMonde.ma@Plus1",
+    "idx_2STV.sn@SD",
+    "idx_2TV.ge@SD",
+    "idx_2x2.ru@SD",
+    "idx_3ABNCanada.ca@SD",
+    "idx_DareToDreamNetwork.us@SD",
+    "idx_3ABNEnglish.us@SD",
+    "idx_3ABNFrench.us@SD",
+    "idx_3ABNInternational.us@SD",
+    "idx_3ABNKids.us@SD",
+    "idx_3ABNLatino.us@SD",
+    "idx_3ABNPraiseHimMusicNetwork.us@SD",
+    "idx_3ABNProclaimNetwork.us@SD",
+    "idx_3ABNTVUganda.ug@SD",
+    "idx_3AW.au@SD",
+    "idx_3CatCameresdeltemps.es@SD",
+    "idx_3CatElbunquer.es@SD",
+    "idx_3CatExclusiu1.es@SD"
+  ],
+  "byCategory": {
+    "Movies": [
+      "idx_00sReplay.us@SD",
+      "idx_24HourFreeMovies.us@SD",
+      "idx_30ATVClassicMovies.us@SD",
+      "idx_70sCinema.us@SD",
+      "idx_80sRewind.us@SD",
+      "idx_90sThrowback.us@SD",
+      "idx_312Kino.kg@SD",
+      "idx_Action24.gr@SD",
+      "idx_Action.fr@HD",
+      "idx_AdrenalinaPuraTV.us@Brazil",
+      "idx_AdrenalinaPuraTV.us@SD",
+      "idx_AfghanNobelMovies.ca@SD",
+      "idx_Aflam.sa@SD",
+      "idx_AfraFilm.ir@SD",
+      "idx_AfriwoodBlockbuster.za@SD",
+      "idx_AlankarTV.in@SD",
+      "idx_DUST.us@SD",
+      "idx_AllTimeMovies.in@SD",
+      "idx_AMC.us@EastHD",
+      "idx_AMC.us@East"
+    ],
+    "General": [
+      "idx_1Plus1International.ua@HD",
+      "idx_1Plus1Marafon.ua@SD",
+      "idx_1AlmereTV.nl@SD",
+      "idx_1TV.ge@SD",
+      "idx_1TwenteTV.nl@SD",
+      "idx_2M.ma@SD",
+      "idx_2MMonde.ma@HD",
+      "idx_2MMonde.ma@SD",
+      "idx_2MMonde.ma@Plus1",
+      "idx_2TV.ge@SD",
+      "idx_3HD.th@SD",
+      "idx_3sat.de@SD",
+      "idx_3sat.de@HD",
+      "idx_3StonesTV.ke@SD",
+      "idx_5tv.ar@SD",
+      "idx_Canal7TeleValencia.es@SD",
+      "idx_8LaMarinaTV.es@SD",
+      "idx_8NTV.mx@SD",
+      "idx_9laLomaTV.es@SD",
+      "idx_Channel11.ua@SD"
+    ],
+    "Shop": [
+      "idx_123tv.de@SD",
+      "idx_30ATheBeachShow.us@SD",
+      "idx_1001Noites.br@SD",
+      "idx_BajoTechoTV.do@SD",
+      "idx_CasaItalia53.it@SD",
+      "idx_CJOnStyle.kr@SD",
+      "idx_CJOnStylePlus.kr@SD",
+      "idx_ExpoChannel.au@SD",
+      "idx_GemShoppingNetwork.us@SD",
+      "idx_GemsTV.uk@SD",
+      "idx_GM24.it@SD",
+      "idx_GongyoungHomeShopping.kr@SD",
+      "idx_GSMyShop.kr@SD",
+      "idx_GSShop.kr@SD",
+      "idx_GSTV.jp@SD",
+      "idx_Handystar.de@SD",
+      "idx_HighTV.gr@SD",
+      "idx_HomeShopping.kr@SD",
+      "idx_HomeShoppingRussia.ru@SD",
+      "idx_HSE.de@SD"
+    ],
+    "Entertainment;Family;General": [
+      "idx_1KZNTV.za@SD",
+      "idx_AsiaTV.lk@HD",
+      "idx_TshwaneTV.za@SD"
+    ],
+    "News": [
+      "idx_2GB.au@SD",
+      "idx_3AW.au@SD",
+      "idx_4DmasNoticiasTV.py@SD",
+      "idx_4TVNews.in@SD",
+      "idx_6PR.au@SD",
+      "idx_6TVTelugu.in@SD",
+      "idx_7Info.ci@SD",
+      "idx_10TV.in@SD",
+      "idx_13SiamThai.th@SD",
+      "idx_22ScopeNews.in@SD",
+      "idx_247CanaldeNoticias.ar@SD",
+      "idx_247TV.bo@SD",
+      "idx_24KZ.kz@SD",
+      "idx_24News.in@SD",
+      "idx_24TV.tr@SD",
+      "idx_Channel24.ua@SD",
+      "idx_30ALionelNation.us@SD",
+      "idx_92NewsHD.pk@SD",
+      "idx_99TV.in@SD",
+      "idx_101tvMalaga.es@SD"
+    ],
+    "Culture": [
+      "idx_2STV.sn@SD",
+      "idx_13C.cl@SD",
+      "idx_APlus.mx@SD",
+      "idx_APlusIvoire.ci@SD",
+      "idx_KIIOLD104.us@SD",
+      "idx_AbaiTV.kz@SD",
+      "idx_AMP2.us@SD",
+      "idx_AfroMagicChannel.ci@SD",
+      "idx_AfrocultureTV.ci@SD",
+      "idx_AmaniTV.sn@SD",
+      "idx_ART.gr@SD",
+      "idx_Arte1.br@SD",
+      "idx_AsiriTV.pe@SD",
+      "idx_Athaqafia.ma@SD",
+      "idx_ATR.ua@SD",
+      "idx_AuroraArte.it@SD",
+      "idx_BalchiTV.aw@SD",
+      "idx_BAMTV.be@SD",
+      "idx_Bonairetv.bq@SD",
+      "idx_BXArts.us@SD"
+    ],
+    "Entertainment": [
+      "idx_2x2.ru@SD",
+      "idx_4UTV.tr@SD",
+      "idx_5AABTV.ca@SD",
+      "idx_5Cops.us@UK",
+      "idx_78TV.bg@SD",
+      "idx_7thHeaven.se@DK",
+      "idx_7thHeaven.se@NO",
+      "idx_7thHeaven.se@SE",
+      "idx_8TV.my@SD",
+      "idx_9Gem.au@Sydney",
+      "idx_13E.cl@SD",
+      "idx_13Realities.cl@SD",
+      "idx_13T.cl@SD",
+      "idx_13Ulica.pl@SD",
+      "idx_16AnnieIncinta.de@IT",
+      "idx_20.it@SD",
+      "idx_30ASidewalks.us@SD",
+      "idx_30ATelevisionChannel.us@SD",
+      "idx_48Hours.us@CA",
+      "idx_48Hours.us@US"
+    ],
+    "Religious": [
+      "idx_3ABNCanada.ca@SD",
+      "idx_DareToDreamNetwork.us@SD",
+      "idx_3ABNEnglish.us@SD",
+      "idx_3ABNFrench.us@SD",
+      "idx_3ABNInternational.us@SD",
+      "idx_3ABNLatino.us@SD",
+      "idx_3ABNProclaimNetwork.us@SD",
+      "idx_3ABNTVUganda.ug@SD",
+      "idx_4E.gr@SD",
+      "idx_151BPB.cl@SD",
+      "idx_A2iReligion.sn@SD",
+      "idx_ARCanal.pa@SD",
+      "idx_AadinathTV.in@SD",
+      "idx_AaseervathamTV.in@SD",
+      "idx_Aastha.in@SD",
+      "idx_AasthaBhajan.in@SD",
+      "idx_AasthaGujarati.in@SD",
+      "idx_AasthaKannada.in@SD",
+      "idx_AasthaPrime1.in@SD",
+      "idx_AasthaTamil.in@SD"
+    ],
+    "Animation;Kids;Religious": [
+      "idx_3ABNKids.us@SD",
+      "idx_KuriakosKids.pt@SD"
+    ],
+    "Music;Religious": [
+      "idx_3ABNPraiseHimMusicNetwork.us@SD",
+      "idx_MyGospelTV.fr@SD",
+      "idx_NuevaVidaFM.pr@SD",
+      "idx_SpiritTV.us@SD",
+      "idx_TraceGospel.fr@SD"
+    ],
+    "Public;Weather": [
+      "idx_3CatCameresdeltemps.es@SD"
+    ],
+    "Comedy;Public": [
+      "idx_3CatElbunquer.es@SD"
+    ],
+    "News;Public": [
+      "idx_3CatExclusiu1.es@SD",
+      "idx_3CatExclusiu2.es@SD",
+      "idx_3CatExclusiu3.es@SD",
+      "idx_3CatInfo.es@SD",
+      "idx_24Horas.es@SD",
+      "idx_24HorasCanarias.es@SD",
+      "idx_24HorasCatalunya.es@SD",
+      "idx_CanalSurNoticias.es@SD"
+    ],
+    "Classic;Comedy;Public;Series": [
+      "idx_3CatPlatsbruts.es@SD"
+    ],
+    "Undefined": [
+      "idx_iptv_eccbc87e4b5c",
+      "idx_iptv_a87ff679a2f3",
+      "idx_4Afghanistan.fr@SD",
+      "idx_iptv_e4da3b7fbbce",
+      "idx_Seven.ru@SD",
+      "idx_iptv_c9f0f895fb98",
+      "idx_iptv_c81e728d9d4c",
+      "idx_iptv_1679091c5a88",
+      "idx_iptv_c4ca4238a0b9",
+      "idx_iptv_7fc56270e7a7",
+      "idx_iptv_0cc175b9c0f1",
+      "idx_WCIV361.us@HD",
+      "idx_WSYX61.us@HD",
+      "idx_WJLATV71.us@HD",
+      "idx_WDIODT101.us@HD",
+      "idx_WLOS131.us@HD",
+      "idx_WPDETV151.us@HD",
+      "idx_WKEF451.us@SD",
+      "idx_AdinkraTV.gh@SD",
+      "idx_AftabTV.ir@SD"
+    ],
+    "Kids": [
+      "idx_4FunKids.pl@SD",
+      "idx_13Kids.cl@SD",
+      "idx_90sKids.us@SD",
+      "idx_90sKidsTV2.us@SD",
+      "idx_ABCKids.au@Sydney",
+      "idx_AfarinBaxcha.iq@SD",
+      "idx_AfarinTV.iq@SD",
+      "idx_AghapyKids.us@SD",
+      "idx_AmouYazidTV.dz@SD",
+      "idx_Ani.ru@SD",
+      "idx_Aqlvoy.uz@SD",
+      "idx_ARBGunes.az@SD",
+      "idx_AsTartarugasNinja.us@BR",
+      "idx_AtfalMawahebTV.sa@SD",
+      "idx_AvatarAlendadeAang.us@BR",
+      "idx_AvatarLaLeyendadeAang.us@LatAm",
+      "idx_BabySharkTV.us@Poland",
+      "idx_BabySharkTV.us@SD",
+      "idx_BabyFirst.us@Brazil",
+      "idx_BabyFirst.us@US"
+    ],
+    "Music": [
+      "idx_4FunTV.pl@SD",
+      "idx_4Kurd.fr@SD",
+      "idx_7RadioVisione.it@HD",
+      "idx_7SMusic.in@SD",
+      "idx_7YOUME.it@HD",
+      "idx_8XM.pk@SD",
+      "idx_9XJalwa.in@SD",
+      "idx_9XJhakaas.in@SD",
+      "idx_9XTashan.in@SD",
+      "idx_9XM.in@SD",
+      "idx_13Festival.cl@SD",
+      "idx_15PlusMusic.ru@HD",
+      "idx_30AMusic.us@SD",
+      "idx_51RadioTV.it@SD",
+      "idx_7080TV.it@SD",
+      "idx_88Stereo.cr@SD",
+      "idx_981PearlFM.sx@SD",
+      "idx_360TuneBox.nl@SD",
+      "idx_A2iMusic.sn@SD",
+      "idx_AaryaaTV.in@SD"
+    ],
+    "Family": [
+      "idx_6WiseTv.us@SD",
+      "idx_AlSouriyaTV.sy@HD",
+      "idx_AMGTV.us@SD",
+      "idx_AVAFamily.ir@SD",
+      "idx_CanalIPe.pe@SD",
+      "idx_CanalPlusFamily.fr@SD",
+      "idx_DiemaFamily.bg@SD",
+      "idx_DoveChannel.us@SD",
+      "idx_EmanTv.iq@HD",
+      "idx_Freeform.us@East",
+      "idx_Freeform.us@West",
+      "idx_GreatAmericanFamily.us@SD",
+      "idx_GreenTV.bd@SD",
+      "idx_HallmarkChannel.us@East",
+      "idx_LTNFamily.pk@SD",
+      "idx_MBC5.ae@SD",
+      "idx_Mixkurdy.iq@HD",
+      "idx_MyFamily.id@SD",
+      "idx_PositivTV.us@SD",
+      "idx_SevimliTV.uz@SD"
+    ],
+    "Entertainment;Kids": [
+      "idx_9Go.au@Sydney",
+      "idx_UniqueTV.in@SD",
+      "idx_VeronicaDisneyJr.nl@SD"
+    ],
+    "Lifestyle": [
+      "idx_9Life.au@Sydney",
+      "idx_13P.cl@SD",
+      "idx_30ALuxeLifeDiscovered.us@SD",
+      "idx_366TV.ua@SD",
+      "idx_AlmaTV.it@SD",
+      "idx_AntenaMonden.ro@SD",
+      "idx_AutenticTravel.de@SD",
+      "idx_AyushTV.in@SD",
+      "idx_BBCHomeGarden.us@SD",
+      "idx_BBCLifestyle.uk@Asia",
+      "idx_BBCLifestyle.uk@Poland",
+      "idx_BBCTravel.us@Germany",
+      "idx_BetterHealthTV.us@SD",
+      "idx_BizTV.us@SD",
+      "idx_BiznetLifestyle.id@SD",
+      "idx_CaTine.ro@SD",
+      "idx_CBCSofra.eg@SD",
+      "idx_CCTV12.cn@SD",
+      "idx_CCTVHealth.cn@HD",
+      "idx_CCTVWomensFashion.cn@SD"
+    ],
+    "Lifestyle;Relax": [
+      "idx_10Bold.au@Sydney"
+    ],
+    "Comedy": [
+      "idx_13Humor.cl@SD",
+      "idx_30ARidiculousTV.us@SD",
+      "idx_AFVEspanol.us@SD",
+      "idx_AllehassenChris.de@DACH",
+      "idx_alphaFunny.ru@HD",
+      "idx_AFV.us@SD",
+      "idx_Awkward.se@DK",
+      "idx_BeavisandButtHead.se@DK",
+      "idx_BeavisandButtHead.se@NO",
+      "idx_BeavisandButtHead.se@SE",
+      "idx_Becker.de@DACH",
+      "idx_BETThrowbacks.us@SD",
+      "idx_BlackFamilySitcoms.us@SD",
+      "idx_BroadCity.se@DK",
+      "idx_BroadCity.se@NO",
+      "idx_BroadCity.se@SE",
+      "idx_bTVComedy.bg@SD",
+      "idx_CameraSmileTV.us@SD",
+      "idx_CarolineintheCity.se@DK",
+      "idx_CarolineintheCity.se@NO"
+    ],
+    "Classic": [
+      "idx_13Rec.cl@SD",
+      "idx_BeverlyHillbillies.us@US",
+      "idx_CCTVNostalgiaTheater.cn@HD",
+      "idx_CinevaultWesterns.us@SD",
+      "idx_ClassicTV.ir@SD",
+      "idx_ClassicTVCrimeDrama.us@SD",
+      "idx_ClassicTVDrama.us@SD",
+      "idx_ClassicTVFamilies.us@US",
+      "idx_FilmRiseClassicTV.us@SD",
+      "idx_GEMClassic.tr@SD",
+      "idx_Gunsmoke.de@GB",
+      "idx_HogansHeroes.us@SD",
+      "idx_MacGyver.us@BR",
+      "idx_MacGyver.us@LatAm",
+      "idx_Nostalgia.bg@SD",
+      "idx_Nostalgia.ru@SD",
+      "idx_PlutoTVClassicTV.de@GB",
+      "idx_ClassicTVFamilies.us@CA",
+      "idx_PlutoTVClassicTVVariety.us@CA",
+      "idx_PlutoTVDesenhosClassicos.us@BR"
+    ],
+    "Movies;Series": [
+      "idx_Twentyseven.it@SD",
+      "idx_50CentAction.us@SD",
+      "idx_AmediaHit.ru@SD",
+      "idx_AmediaPremium.ru@SD",
+      "idx_AXNAsia.sg@Thailand",
+      "idx_BattlestarGalactica.us@SD",
+      "idx_Bolt.ru@SD",
+      "idx_Bonanza.us@CA",
+      "idx_Bonanza.us@SD",
+      "idx_ClassicMovieWesterns.us@SD",
+      "idx_EbonyTVbyLionsgate.us@SD",
+      "idx_FilmUADrama.ua@SD",
+      "idx_Medium.de@ES",
+      "idx_MissionImpossible.de@DACH",
+      "idx_MissionImpossible.de@FR",
+      "idx_MissionImpossible.de@GB",
+      "idx_MissionImpossible.de@IT",
+      "idx_MoreTVScifi.de@GB",
+      "idx_OuterSphere.us@SD",
+      "idx_PantallaClasicaEC.ec@SD"
+    ],
+    "Outdoor": [
+      "idx_30ADarcizzleOffshore.us@SD",
+      "idx_AgroTV.bg@SD",
+      "idx_AgroTV.pe@SD",
+      "idx_AgroTV.ro@SD",
+      "idx_AgroTVMoldova.md@SD",
+      "idx_AgroBrasilTV.br@SD",
+      "idx_AgrotendenciaTV.cr@SD",
+      "idx_AKCTV.us@SD",
+      "idx_AKCTVMeettheBreeds.us@SD",
+      "idx_AKCTVPuppies.us@SD",
+      "idx_ANIMALKINGDOM.de@SD",
+      "idx_ARDBTV.kh@SD",
+      "idx_CanaldoCriador.br@SD",
+      "idx_CanalRural.br@SD",
+      "idx_ChacraTV.ar@SD",
+      "idx_CiudadMagica.ar@SD",
+      "idx_Dikij.ru@SD",
+      "idx_DuckHuntingTV.us@SD",
+      "idx_ElMundodelCampo.co@SD",
+      "idx_HorseCountryTV.uk@SD"
+    ],
+    "Entertainment;News": [
+      "idx_30AGeorgiaHollywoodReview.us@SD",
+      "idx_ELatinAmerica.us@South",
+      "idx_EntertainmentTonight.us@SD",
+      "idx_HollyWire.us@SD",
+      "idx_PSN.mx@SD",
+      "idx_TVZoom.br@SD",
+      "idx_VerginaTV.gr@SD",
+      "idx_prem_us_organized_final_d9bfe9d4"
+    ],
+    "Sports": [
+      "idx_30AGolfKingdom.us@SD",
+      "idx_ASpor.tr@SD",
+      "idx_ACCNetwork.us@SD",
+      "idx_ACCDigitalNetwork.us@SD",
+      "idx_ACISportTV.it@SD",
+      "idx_ACLCornholeTV.us@SD",
+      "idx_Adjarasport1.ge@SD",
+      "idx_AlIraqiaSport.iq@SD",
+      "idx_AlfaSport.cy@SD",
+      "idx_AlkassFive.qa@SD",
+      "idx_AlkassFour.qa@SD",
+      "idx_AlkassOne.qa@SD",
+      "idx_AlkassSeven.qa@SD",
+      "idx_AlkassSHOOF.qa@SD",
+      "idx_AlkassSHOOF2.qa@SD",
+      "idx_AlkassSix.qa@SD",
+      "idx_AlkassThree.qa@SD",
+      "idx_AlkassTwo.qa@SD",
+      "idx_AntenaSport.ro@SD",
+      "idx_ArenaFight.rs@SD"
+    ],
+    "Business": [
+      "idx_30AInvestmentPitch.us@SD",
+      "idx_AgendaMineraTV.bo@SD",
+      "idx_AlArabiyaBusiness.ae@SD",
+      "idx_AlephBusiness.ro@SD",
+      "idx_Ameritrade.us@SD",
+      "idx_AusbizTV.au@SD",
+      "idx_BilyonaryoNewsChannel.ph@SD",
+      "idx_BloombergHT.tr@SD",
+      "idx_BloombergTV.us@US",
+      "idx_BloombergTV.us@Asia",
+      "idx_BloombergTV.us@AsiaLiveEvent",
+      "idx_BloombergTV.us@Australia",
+      "idx_BloombergTVBulgaria.bg@SD",
+      "idx_BloombergTV.us@EMEALiveEvent",
+      "idx_BloombergTV.us@Europe",
+      "idx_BloombergTVMongolia.mn@SD",
+      "idx_BloombergTV.us@LiveEvent",
+      "idx_BloombergTV.us@PoliticsLiveEvent",
+      "idx_BloombergTV.us@Plus",
+      "idx_BloombergTV.us@Plus-Poland"
+    ],
+    "Documentary;News": [
+      "idx_30ALoomeredTV.us@SD",
+      "idx_AlArabiyaPrograms.ae@SD",
+      "idx_BTBInfo.pl@SD",
+      "idx_IndiaTVAapKiAdalat.in@SD",
+      "idx_TV8.md@SD"
+    ],
+    "Auto": [
+      "idx_30AWeLoveCars.us@SD",
+      "idx_100AutoMotoTV.bg@SD",
+      "idx_CanalMotor.no@SD",
+      "idx_Drive.ru@SD",
+      "idx_GarageTVLatinAmerica.ar@SD",
+      "idx_MotorTrend.us@SD",
+      "idx_Motorvision.de@SD",
+      "idx_MotorvisionPlus.de@SD",
+      "idx_PlutoTVCars.us@CA",
+      "idx_PlutoTVCars.us@SD",
+      "idx_PlutoTVMotor.de@ES",
+      "idx_PlutoTVMotor.se@DK",
+      "idx_PlutoTVMotor.se@NO",
+      "idx_PlutoTVMotor.se@SE",
+      "idx_PowerNationTV.us@SD",
+      "idx_ShiftTV.hr@SD",
+      "idx_SPEEDVISION.us@SD",
+      "idx_wedotvAuta.pl@FAST",
+      "idx_prem_us_organized_final_e6860d77",
+      "idx_prem_us_organized_final_ed54479f"
+    ],
+    "Business;News": [
+      "idx_100NEWS.ua@SD",
+      "idx_AsharqNews.sa@SD",
+      "idx_AsharqRadio.sa@SD",
+      "idx_BFMBusiness.fr@SD",
+      "idx_BTTV.in@SD",
+      "idx_CanalE.ar@SD",
+      "idx_CNBCUK.uk@SD",
+      "idx_CNBCMongolia.mn@SD"
+    ],
+    "Documentary": [
+      "idx_365daysTV.ru@SD",
+      "idx_AdventureEarth.de@SD",
+      "idx_AlJazeeraDocumentary.qa@SD",
+      "idx_ArchivosForenses.us@Spain",
+      "idx_AsharqDocumentary.sa@SD",
+      "idx_Atlas.us@SD",
+      "idx_AutenticHistory.de@SD",
+      "idx_Backstage.us@SD",
+      "idx_BBCEarth.uk@Poland",
+      "idx_BBCEarth.uk@US",
+      "idx_BBCEarth.uk@Greece",
+      "idx_BondiRescue.de@GB",
+      "idx_BritBoxMysteries.us@SD",
+      "idx_CazadordeHomicidas.us@Spain",
+      "idx_CCTV9.cn@SD",
+      "idx_CCTVWeaponTechnology.cn@HD",
+      "idx_CGTNDocumentary.cn@SD",
+      "idx_CGTNDocumentary.tr@SD",
+      "idx_ClickTVChile.cl@SD",
+      "idx_CNAOriginals.sg@SD"
+    ],
+    "Education": [
+      "idx_A2iNaija.sn@SD",
+      "idx_AlAlamiya2.sd@SD",
+      "idx_AlHiwarTV.uk@SD",
+      "idx_ALTV.th@SD",
+      "idx_ARDalpha.de@SD",
+      "idx_KETS21.us@HD",
+      "idx_CVCEducation.us@SD",
+      "idx_BUTV10.us@SD",
+      "idx_BVG.in@SD",
+      "idx_CampusTV.hn@SD",
+      "idx_ILCECanal15SummaSaberes.mx@SD",
+      "idx_Canal15.ni@SD",
+      "idx_CanalEducacao.br@SD",
+      "idx_CanalEducativo.cu@SD",
+      "idx_CanalEducativo2.cu@SD",
+      "idx_CFTUDT.ca@SD",
+      "idx_CanalUniversidad.ar@SD",
+      "idx_CCTV7.cn@SD",
+      "idx_CCTV10.cn@SD",
+      "idx_CCTVWorldGeography.cn@SD"
+    ],
+    "General;Public": [
+      "idx_APunt.es@SD",
+      "idx_AragonTVInternacional.es@SD",
+      "idx_BonDiaTV.es@SD",
+      "idx_CanalExtremadura.es@SD",
+      "idx_CanalExtremaduraSatelite.es@SD",
+      "idx_CanalSurAndalucia.es@SD",
+      "idx_CanalSur2.es@SD",
+      "idx_CMMTV.es@HD",
+      "idx_ETB1.es@SD",
+      "idx_ETB2.es@SD",
+      "idx_ETBEvents1.es@SD",
+      "idx_GaliciaTVEuropa.es@SD",
+      "idx_La1.es@SD",
+      "idx_La1Canarias.es@SD",
+      "idx_La1Catalunya.es@SD",
+      "idx_La2Canarias.es@SD",
+      "idx_La2Catalunya.es@SD"
+    ],
+    "News;Weather": [
+      "idx_WMURTV91.us@HD",
+      "idx_WBRZTV21.us@HD",
+      "idx_prem_us_organized_final_0d6d176c"
+    ],
+    "Education;Kids": [
+      "idx_ABCEntertains.au@Sydney",
+      "idx_KnowledgeNetwork.ca@SD",
+      "idx_NCMEducationalKidsChannel.us@SD",
+      "idx_PBSKids.us@SD",
+      "idx_PBSKids247.us@SD",
+      "idx_PBSKidsAlaska.us@SD",
+      "idx_PBSKidsEasternCentral.us@SD",
+      "idx_PBSKidsHawaii.us@SD",
+      "idx_PBSKidsMountain.us@SD",
+      "idx_PBSKidsPacific.us@SD",
+      "idx_prem_us_organized_final_5fc35ddf",
+      "idx_prem_us_organized_final_6874e0e3",
+      "idx_prem_us_organized_final_1104f6a8",
+      "idx_prem_us_organized_final_0b138c27"
+    ],
+    "Movies;Religious": [
+      "idx_ABNBibleMoviesChannel.us@SD"
+    ],
+    "Legislative": [
+      "idx_TheCityofMarina.us@SD",
+      "idx_ThePeninsulaChannel.us@SD",
+      "idx_AccessVisionChannel17.us@SD",
+      "idx_ACTV.us@SD",
+      "idx_Althingi.is@SD",
+      "idx_ARTV.pt@SD",
+      "idx_ATL26.us@SD",
+      "idx_ATXN1.us@SD",
+      "idx_BBCParliament.uk@SD",
+      "idx_BATVGovernmentTV.us@SD",
+      "idx_CVCGovernment.us@SD",
+      "idx_BrevardGovernmentAccessTV.us@SD",
+      "idx_BPTV.us@SD",
+      "idx_CameradeiDeputati.it@SD",
+      "idx_CanaldelCongreso451.mx@SD",
+      "idx_CanalGov.br@SD",
+      "idx_CanalParlamento.es@SD",
+      "idx_CanalParlamentodelCongresodeJalisco.mx@SD",
+      "idx_CDTV.cl@SD",
+      "idx_CFMTVChannel98.us@SD"
+    ],
+    "Weather": [
+      "idx_AccuWeatherNOW.us@SD",
+      "idx_FoxWeather.us@SD",
+      "idx_Meteonews.ch@SD",
+      "idx_SkyNewsWeather.uk@SD",
+      "idx_TheWeatherNetwork.ca@SD",
+      "idx_WeatherSpy.us@Poland",
+      "idx_WeatherNation.us@SD",
+      "idx_Weathernews.jp@SD",
+      "idx_WeatherSpy.au@SD",
+      "idx_WeatherSpy.in@SD",
+      "idx_WeatherSpy.mx@SD",
+      "idx_WeatherSpy.us@SD",
+      "idx_FoxWeather.us",
+      "idx_KTCADT5.us",
+      "idx_WeatherNation.us",
+      "idx_TheWeatherNetwork.ca",
+      "idx_prem_us_organized_final_a098c4fc",
+      "idx_prem_final_iptv_active_80061894",
+      "free_roku_ed47687b",
+      "free_roku_25bf67c9"
+    ],
+    "General;Music": [
+      "idx_ACWUGTV.ug@SD",
+      "idx_RTVGlasDrine.ba@SD",
+      "idx_TVRFolclor.ro@SD"
+    ],
+    "Animation": [
+      "idx_ADNTVPlus.fr@SD",
+      "idx_AniOne.hk@SD",
+      "idx_AnimationPlus.us@SD",
+      "idx_AnimaxAsia.sg@SD",
+      "idx_AnimaxAsia.sg@India",
+      "idx_AnimeVision.es@SD",
+      "idx_AnimeVisionClassics.es@SD",
+      "idx_AnimexHIDIVE.us@SD",
+      "idx_AnimeZoneTV.do@SD",
+      "idx_AniplusAsia.sg@SD",
+      "idx_KMBYLD275.us@SD",
+      "idx_Crunchyroll.us@SD",
+      "idx_Daria.de@FR",
+      "idx_DreamWorksChannelLatinAmerica.us@SD",
+      "idx_DreikoTV.pa@SD",
+      "idx_EnerGeek.cl@SD",
+      "idx_EnerGeekFAN.cl@SD",
+      "idx_eSportsMaxTV.ve@SD",
+      "idx_ETCTV.cl@SD",
+      "idx_FilmRiseAnime.us@SD"
+    ],
+    "Kids;Sports": [
+      "idx_ADOTV.bj@SD"
+    ],
+    "News;Sports": [
+      "idx_Africa24Sport.fr@SD",
+      "idx_SinPoTV.id@HD",
+      "idx_prem_us_organized_final_c91a97fd"
+    ],
+    "Comedy;Family;Movies": [
+      "idx_alphaCinema.ru@HD"
+    ],
+    "Comedy;Movies": [
+      "idx_alphaMoretime.ru@HD",
+      "idx_PlutoTVComediasRomanticas.de@ES",
+      "idx_PlutoTVComediesCultes.de@FR",
+      "idx_PlutoTVComedyMovies.de@GB",
+      "idx_PlutoTVComedyMovies.us@CA",
+      "idx_PlutoTVHumor.se@DK",
+      "idx_PlutoTVKomedi.se@SE",
+      "idx_PlutoTVKomedie.se@NO",
+      "idx_PlutoTVKultComedies.de@DACH",
+      "idx_ViasatKinoComedy.ua@SD"
+    ],
+    "Culture;Documentary;Entertainment;General;Movies;Music": [
+      "idx_AlternaTV.ar@SD"
+    ],
+    "Entertainment;General": [
+      "idx_AmericaTeVe.pr@SD",
+      "idx_MCN6MainChannel.us@SD",
+      "idx_NTV.br@SD",
+      "idx_prem_test_2824af24"
+    ],
+    "Cooking": [
+      "idx_AmericasTestKitchen.us@SD",
+      "idx_BBCFood.us@SD",
+      "idx_bonappetit.us@SD",
+      "idx_ChefChampion.us@SD",
+      "idx_ChefRocShow.us@SD",
+      "idx_CookingPanda.us@SD",
+      "idx_DensFoodChannel.id@SD",
+      "idx_FoodTime.ru@SD",
+      "idx_GEMFood.tr@SD",
+      "idx_GordonRamsaysHellsKitchen.us@SD",
+      "idx_GustoTV.ca@Poland",
+      "idx_GustoTV.ca@SD",
+      "idx_HelloTaste.ro@SD",
+      "idx_Hungry.us@SD",
+      "idx_JordanKitchen.jo@SD",
+      "idx_KitchenTV.rs@SD",
+      "idx_KukhnyaTV.ru@SD",
+      "idx_KulinarTV.ru@SD",
+      "idx_MadDogandMerrill.us@SD",
+      "idx_MasalaTV.pk@SD"
+    ],
+    "Culture;Music": [
+      "idx_AndyHaryana.in@SD",
+      "idx_OndambientalTV.co@SD",
+      "idx_PamirTV.ca@SD",
+      "idx_RadioSuyaiTV.cl@HD"
+    ],
+    "Comedy;Series": [
+      "idx_AngerManagementChannel.us@SD",
+      "idx_PlutoTVSeriesComedia.us@BR",
+      "idx_PlutoTVSitcoms.de@DACH",
+      "idx_PlutoTVSitcoms.de@GB",
+      "idx_TheChatShowChannel.uk@SD",
+      "idx_TheConners.us@SD"
+    ],
+    "Business;Culture;Lifestyle": [
+      "idx_apartTV.lu@SD"
+    ],
+    "General;Religious": [
+      "idx_ApprovalTV.ng@HD",
+      "idx_KBSV231.us@SD",
+      "idx_BXInspire.us@SD",
+      "idx_CaritasTV.py@SD",
+      "idx_HolyQuranRadio.sa@SD",
+      "idx_prem_us_organized_final_2e6d2a2c"
+    ],
+    "General;News": [
+      "idx_ArirangTV.kr@SD",
+      "idx_ArirangTV.kr@HD",
+      "idx_BXInform.us@SD",
+      "idx_Canal1MarMenorTorrePacheco.es@SD",
+      "idx_Canal33Tijuana.mx@SD",
+      "idx_HTV9.vn@HD",
+      "idx_NH.nl@SD",
+      "idx_NTDTVEnglish.us@USA",
+      "idx_NTDTVEnglish.us@UK",
+      "idx_PROTVChisinau.md@SD",
+      "idx_StarKentrikisElladas.gr@SD",
+      "idx_STVNewsandGeneral.cn@SD",
+      "idx_FamypancTV.es@HD",
+      "idx_TVKStella.pl@SD",
+      "idx_VinhLongTV1.vn@HD",
+      "idx_prem_us_organized_final_0510f7f9"
+    ],
+    "Classic;Movies": [
+      "idx_ARTFLIXMovieClassics.us@SD",
+      "idx_BollywoodClassic.ro@HD",
+      "idx_BollywoodClassic.ro@SD",
+      "idx_MovifyKino.lv@SD",
+      "idx_PlutoTVDanskeklassikere.se@DK",
+      "idx_PlutoTVRetroActionMovies.us@CA",
+      "idx_Smotrim100Klassika.ru@SD",
+      "idx_XtremaCineClasico.ar@SD",
+      "idx_ZBCinema.in@HD"
+    ],
+    "Travel": [
+      "idx_ArubaTV.aw@SD",
+      "idx_BamBarBiaTV.ua@SD",
+      "idx_BeachTVFloridaAlabama.us@SD",
+      "idx_BeachTVKeyWestFloridaKeys.us@SD",
+      "idx_BeachTVMyrtleBeachTheGrandStrand.us@SD",
+      "idx_BeachTVPanamaCity.us@SD",
+      "idx_BHATV.bz@SD",
+      "idx_DiscoverPakistan.pk@SD",
+      "idx_GlazamiTurista.ru@SD",
+      "idx_Go2Travel.us@SD",
+      "idx_GoUSATV.us@SD",
+      "idx_GoTraveler.us@SD",
+      "idx_INTRAVEL.nl@Philippines",
+      "idx_JamaicaTravelChannel.jm@SD",
+      "idx_Journy.us@SD",
+      "idx_LivingAsiaChannel.ph@HD",
+      "idx_MaldivesTV.mv@SD",
+      "idx_KNOVCD411.us@HD",
+      "idx_OEPMTV.do@SD",
+      "idx_PalmBeachesTV.us@SD"
+    ],
+    "Documentary;Education": [
+      "idx_AsharqDiscovery.sa@SD"
+    ],
+    "General;Legislative": [
+      "idx_ATXN2.us@SD"
+    ],
+    "Culture;General": [
+      "idx_ATXN3.us@SD",
+      "idx_zenith.fr@HD"
+    ],
+    "Animation;Kids;Series": [
+      "idx_Avatar.de@GB",
+      "idx_Avatar.se@DK"
+    ],
+    "Classic;Series": [
+      "idx_AWTV.br@HD",
+      "idx_Becker.se@DK",
+      "idx_Becker.se@NO",
+      "idx_Becker.se@SE",
+      "idx_CinCin.de@IT",
+      "idx_DiagnosisMurder.se@DK",
+      "idx_DiagnosisMurder.se@NO",
+      "idx_DiagnosisMurder.se@SE",
+      "idx_Dynasty.de@GB",
+      "idx_Dynasty.de@IT",
+      "idx_HappyDays.se@DK",
+      "idx_HappyDays.se@NO",
+      "idx_HappyDays.se@SE",
+      "idx_JAG.se@DK",
+      "idx_JAG.se@NO",
+      "idx_JAG.se@SE",
+      "idx_MacGyver.se@DK",
+      "idx_MacGyver.se@NO",
+      "idx_MacGyver.se@SE",
+      "idx_Matlock.se@DK"
+    ],
+    "Kids;Music": [
+      "idx_BabyTime.ru@SD",
+      "idx_ZharaKidsTV.ru@SD"
+    ],
+    "Animation;Kids": [
+      "idx_MrBeanAnimated.uk@FR",
+      "idx_CartoonClassics.pl@FAST",
+      "idx_DetectiveConan.us@Spain",
+      "idx_DetectiveConan.us@France",
+      "idx_DisneyChannelLatinAmerica.ar@Panregional",
+      "idx_DisneyChannelLatinAmerica.ar@Center",
+      "idx_DisneyChannelLatinAmerica.ar@Mexico",
+      "idx_DisneyChannelLatinAmerica.ar@North",
+      "idx_DisneyChannelLatinAmerica.ar@PanregionalHD",
+      "idx_DisneyJr.tr@SD",
+      "idx_DisneyJrLatinAmerica.ar@NorthHD",
+      "idx_DisneyJrLatinAmerica.ar@South",
+      "idx_DisneyJrLatinAmerica.ar@SouthHD",
+      "idx_ExtremaKidsTV.cr@HD",
+      "idx_HasbroLegends.us@SD",
+      "idx_JapanimTV.be@SD",
+      "idx_JiangxiChildrensChannel.cn@SD",
+      "idx_MeTVToons.us@SD",
+      "idx_MrBeanAnimated.uk@English",
+      "idx_MrBeanAnimated.uk@IT"
+    ],
+    "Culture;Documentary": [
+      "idx_BBCFour.uk@UK",
+      "idx_DiscoveringChina.cn@SD",
+      "idx_HRT3.hr@SD",
+      "idx_HRT3.hr@HD"
+    ],
+    "Animation;General;Kids": [
+      "idx_BBCFourCBeebies.uk@HD"
+    ],
+    "Animation;Family;Kids": [
+      "idx_BBCThreeCBBC.uk@HD"
+    ],
+    "Entertainment;Music": [
+      "idx_BEATTV.nl@SD",
+      "idx_GexTV.cr@HD",
+      "idx_GlobalTelevision.bd@SD",
+      "idx_GOTV.py@SD",
+      "idx_RadioCarnavalTV.es@SD",
+      "idx_ZorTV.uz@SD"
+    ],
+    "Relax": [
+      "idx_BetterLifeNatureChannel.us@SD",
+      "idx_FunBoxUHD.nl@SD",
+      "idx_MyZenTV.fr@SD",
+      "idx_ZenLIFEbyStingray.ca@HD"
+    ],
+    "News;Science": [
+      "idx_BFMTechCo.fr@SD"
+    ],
+    "Business;Documentary": [
+      "idx_BloombergOriginals.us@Poland",
+      "idx_BloombergOriginals.us@SD",
+      "idx_BloombergOriginals.us@US"
+    ],
+    "Cooking;Lifestyle": [
+      "idx_Boligkjopiblinde.se@NO",
+      "idx_Boligkobiblinde.se@DK",
+      "idx_BuyingBlindDenmark.se@SE",
+      "idx_FoodFood.in@SD",
+      "idx_GamberoRossoChannel.it@SD",
+      "idx_Kochenpatoppen.se@DK",
+      "idx_MasterChefDanmarksstorstemadtalenter.se@DK",
+      "idx_Medknivenforstruben.se@DK",
+      "idx_PlutoTVCocina.de@ES",
+      "idx_PlutoTVCucina.de@IT",
+      "idx_PlutoTVCuisine.de@FR",
+      "idx_PlutoTVKFOOD.us@BR",
+      "idx_Skonneombygninger.se@DK",
+      "idx_StugfixarnaNorge.se@SE",
+      "idx_TilMiddagHos.se@DK",
+      "idx_TV5MONDEChefs.fr@SD"
+    ],
+    "Classic;Music": [
+      "idx_BRIDGEClassic.ru@SD",
+      "idx_PersianaNostalgia.fr@SD"
+    ],
+    "Education;Science": [
+      "idx_CanThoTV2.vn@SD"
+    ],
+    "Education;General": [
+      "idx_CanalFDR.br@SD",
+      "idx_DerryTV23.us@SD"
+    ],
+    "Education;Lifestyle": [
+      "idx_CanalSaude.br@SD",
+      "idx_DogTV.us@SD"
+    ],
+    "Culture;Entertainment": [
+      "idx_Capital21.mx@SD",
+      "idx_JayaMax.in@SD",
+      "idx_JayaTV.in@HD"
+    ],
+    "Culture;News": [
+      "idx_CatamarcaTV.ar@SD",
+      "idx_ChannelOne.us@SD",
+      "idx_DDMizoram.in@SD",
+      "idx_KBPXLD465.us@SD",
+      "idx_KTV2.kw@SD",
+      "idx_NHKWorldJapan.jp@SD",
+      "idx_NHKWorldJapan.jp@HD",
+      "idx_OstWest.de@SD",
+      "idx_STZTV.br@SD",
+      "idx_prem_test_933cbb0c"
+    ],
+    "Education;Outdoor": [
+      "idx_CCTV17.cn@HD",
+      "idx_DDKisan.in@SD"
+    ],
+    "General;Lifestyle;Music;News": [
+      "idx_CEACOMTV.bo@SD"
+    ],
+    "Education;Entertainment": [
+      "idx_CharanaTV.lk@SD",
+      "idx_EdutainmentTV.mn@SD"
+    ],
+    "Entertainment;Travel": [
+      "idx_ChileChannel.cl@SD"
+    ],
+    "Culture;Documentary;Travel": [
+      "idx_ChinaTravel.cn@SD"
+    ],
+    "Auto;Series": [
+      "idx_Choppertown.us@SD"
+    ],
+    "Kids;Religious": [
+      "idx_ChristianYouthChannelCYC.us@SD",
+      "idx_DiosTeVeKids.hn@SD",
+      "idx_GodStandsKidsClubTV.pk@Arabic",
+      "idx_GodStandsKidsClubTV.pk@Chinese",
+      "idx_GodStandsKidsClubTV.pk@English",
+      "idx_GodStandsKidsClubTV.pk@Urdu",
+      "idx_KoogiTV.eg@SD",
+      "idx_LogosTVKids.es@SD",
+      "idx_Sat7Kids.cy@SD"
+    ],
+    "Culture;Education": [
+      "idx_CiftciTV.tr@SD",
+      "idx_ClassicArtsShowcase.us@SD",
+      "idx_JaliscoTV.mx@SD",
+      "idx_LiceumTV.hu@SD",
+      "idx_MCN6ArtsChannel.us@SD",
+      "idx_ShanghaiEducationTelevisionStation.cn@SD",
+      "idx_TheIndonesiaChannel.id@SD",
+      "idx_TVERS.br@SD",
+      "idx_UnisulTV.br@SD",
+      "idx_prem_us_organized_final_affc5e4d"
+    ],
+    "Kids;Public": [
+      "idx_ClanInternacional.es@SD",
+      "idx_Clan.es@SD"
+    ],
+    "Business;Series": [
+      "idx_CNBCe.tr@SD"
+    ],
+    "Animation;Comedy": [
+      "idx_ComedyCentralSouthPark.de@DACH",
+      "idx_ComedyCentralSouthPark.us@BR",
+      "idx_ComedyCentralSouthPark.us@LatAm",
+      "idx_PlutoTVAdultAnimation.de@DACH",
+      "idx_PlutoTVAnimation.de@GB",
+      "idx_SouthPark.de@ES",
+      "idx_SouthPark.de@GB",
+      "idx_SouthPark.de@IT",
+      "idx_SouthPark.se@DK",
+      "idx_SouthPark.se@NO",
+      "idx_SouthPark.se@SE",
+      "idx_SouthPark.us@CA",
+      "idx_SouthParkArmageddon.de@DACH",
+      "idx_SouthParkArmageddon.se@DK",
+      "idx_SouthParkArmageddon.se@NO",
+      "idx_SouthParkArmageddon.se@SE",
+      "idx_SouthParkEnFrancais.us@CA",
+      "idx_SouthParkRockinOut.se@DK",
+      "idx_SouthParkRockinOut.se@NO",
+      "idx_SouthParkRockinOut.se@SE"
+    ],
+    "Movies;News": [
+      "idx_CosmosTv.ar@SD",
+      "idx_IndywoodTV.in@SD"
+    ],
+    "Science": [
+      "idx_CosmosTV.py@SD",
+      "idx_EkoTV.ua@SD",
+      "idx_EXCTV.ve@SD",
+      "idx_IlmvaTabiat.tj@SD",
+      "idx_InWonder.nl@SD",
+      "idx_SmithsonianChannel.us@East",
+      "idx_SmithsonianChannelSelects.us@SD",
+      "idx_TECTV.ar@SD",
+      "idx_Wonder.uk@SD",
+      "idx_prem_us_organized_final_23b026fd",
+      "idx_prem_us_organized_final_6ff45e6f",
+      "idx_prem_us_organized_final_0c89f715",
+      "idx_prem_test_609d3da5",
+      "yt_yt_nasa"
+    ],
+    "Culture;Travel": [
+      "idx_CostaRicaChannel.cr@SD"
+    ],
+    "Lifestyle;Outdoor": [
+      "idx_CottageLife.ca@SD"
+    ],
+    "Family;General": [
+      "idx_CWBTV.br@SD",
+      "idx_Telenovisa43.do@SD"
+    ],
+    "Education;News": [
+      "idx_DabangaTV.sd@SD"
+    ],
+    "Relax;Travel": [
+      "idx_DroneTV.us@SD",
+      "idx_SpaceLivepoweredbysen.uk@SD"
+    ],
+    "Culture;Public": [
+      "idx_El33.es@SD",
+      "idx_El33.es@Originals",
+      "idx_prem_us_organized_final_f7904324"
+    ],
+    "Public;Sports": [
+      "idx_Esport3.es@Originals",
+      "idx_Esport3.es@SD"
+    ],
+    "Entertainment;Family": [
+      "idx_EstrellaGames.us@SD",
+      "idx_SowetoTV.za@SD"
+    ],
+    "Culture;Kids": [
+      "idx_ETV2.ee@SD"
+    ],
+    "Entertainment;News;Shop": [
+      "idx_ExtraProNews.gr@SD"
+    ],
+    "Animation;Movies": [
+      "idx_FAN.ru@SD"
+    ],
+    "Lifestyle;Shop": [
+      "idx_FashionFinds.us@SD"
+    ],
+    "General;Music;Public": [
+      "idx_FomixTV.nl@HD"
+    ],
+    "Auto;Travel": [
+      "idx_FunRoads.us@SD",
+      "idx_prem_us_organized_final_6f3e126e"
+    ],
+    "Animation;Culture;Entertainment": [
+      "idx_GikTVMX.mx@SD"
+    ],
+    "Documentary;Series": [
+      "idx_GZT.tr@SD",
+      "idx_PlutoTVAliens.us@BR",
+      "idx_PlutoTVAmericanTrueCrime.de@GB",
+      "idx_PlutoTVToughJobs.de@GB",
+      "idx_PlutoTVTrueCrime.de@DACH",
+      "idx_PlutoTVTrueCrime.de@ES",
+      "idx_PlutoTVTrueCrime.de@IT",
+      "idx_PlutoTVTrueCrime.se@DK",
+      "idx_PlutoTVTrueCrime.se@NO",
+      "idx_PlutoTVTrueCrime.se@SE",
+      "idx_PlutoTVTrueCrime.us@CA",
+      "idx_PlutoTVTrueCrime.us@US"
+    ],
+    "Classic;Comedy": [
+      "idx_ILoveLucy.us@CA",
+      "idx_ILoveLucy.us@SD",
+      "idx_TheBeverlyHillbillies.us@CA"
+    ],
+    "Cooking;Shop": [
+      "idx_IntheKitchen.us@SD"
+    ],
+    "Kids;Series": [
+      "idx_InazumaEleven.us@France"
+    ],
+    "Auto;Outdoor;Sports": [
+      "idx_InTrouble.nl@SD"
+    ],
+    "Culture;Music;Religious": [
+      "idx_IshtarTV.iq@SD"
+    ],
+    "Entertainment;Sports": [
+      "idx_ITVDeportes.mx@SD",
+      "idx_RightNowTV.us@SD",
+      "idx_prem_us_organized_final_856e164f"
+    ],
+    "Documentary;Entertainment": [
+      "idx_Jail.uk@SD",
+      "idx_TheNest.us@SD"
+    ],
+    "Culture;Religious": [
+      "idx_JewishLifeTelevision.us@SD",
+      "idx_SanskarTV.in@SD",
+      "idx_Telepace2.it@SD",
+      "idx_prem_us_organized_final_9387aedc"
+    ],
+    "Education;Lifestyle;Science": [
+      "idx_JilinRuralChannel.cn@SD"
+    ],
+    "Animation;Entertainment": [
+      "idx_Kanade.cl@SD"
+    ],
+    "Entertainment;Movies": [
+      "idx_KCM.sg@India"
+    ],
+    "Kids;Movies": [
+      "idx_KidsMovieClub.us@SD",
+      "idx_KidsFlix.us@SD",
+      "idx_prem_us_organized_final_edc6e99d"
+    ],
+    "Legislative;News": [
+      "idx_KTV.kr@SD"
+    ],
+    "Animation;Classic;Entertainment": [
+      "idx_LAMIL35TV.ar@SD"
+    ],
+    "Music;News;Religious": [
+      "idx_LingkarTV.id@SD"
+    ],
+    "Culture;Sports": [
+      "idx_LRTPlius.lt@SD"
+    ],
+    "Movies;Shop": [
+      "idx_MagnificentMoviesNetwork.us@SD"
+    ],
+    "Culture;Education;Entertainment": [
+      "idx_ManasTV.kg@SD"
+    ],
+    "Culture;Entertainment;Music": [
+      "idx_MBCAmerica.us@SD",
+      "idx_prem_us_organized_final_380c034e"
+    ],
+    "Family;General;Movies": [
+      "idx_MCITelevision.co@SD"
+    ],
+    "Animation;Kids;Music": [
+      "idx_MCN6MusicChannel.us@SD"
+    ],
+    "Education;News;Science": [
+      "idx_MediBizTV.in@SD"
+    ],
+    "Outdoor;Sports": [
+      "idx_MonsterJam.us@SD",
+      "idx_PlutoTVFishing.se@DK",
+      "idx_RedBullTV.at@EUMENA",
+      "idx_RedBullTV.at@SD",
+      "idx_RedBullTV.at@AU",
+      "idx_RedBullTV.at@BR",
+      "idx_RedBullTV.at@DE",
+      "idx_RedBullTV.at@ES",
+      "idx_RedBullTV.at@UK",
+      "idx_RedBullTV.at@US"
+    ],
+    "Comedy;Kids": [
+      "idx_MrBeanLiveAction.uk@English",
+      "idx_MrBeanLiveAction.uk@SD"
+    ],
+    "Documentary;Lifestyle": [
+      "idx_MRTVFarmer.mm@SD"
+    ],
+    "Entertainment;Series": [
+      "idx_NewTVComprehensive.id@SD",
+      "idx_NewTVFinance.id@SD",
+      "idx_NewTVVariety.id@SD",
+      "idx_RakutenViki.us@Poland",
+      "idx_RakutenViki.us@Spain",
+      "idx_RakutenViki.us@US",
+      "idx_ZeeAlwan.ae@SD"
+    ],
+    "Movies;Music": [
+      "idx_NextHD.py@SD",
+      "idx_OrbitaChileTV.cl@HD",
+      "idx_ShemarooFilmiGaane.in@HD"
+    ],
+    "Lifestyle;News": [
+      "idx_NowMediaTelevision.us@HD",
+      "idx_NowMediaTelevision.us@Spanish"
+    ],
+    "Music;News": [
+      "idx_Onda15TV.es@SD",
+      "idx_OndaValenciaTV.es@SD",
+      "idx_RadioCapitalTiVu.it@HD"
+    ],
+    "Culture;General;Music;News": [
+      "idx_OnlineTVNusantara.id@SD"
+    ],
+    "Education;Religious": [
+      "idx_PaighanTV.pk@SD",
+      "idx_Telepace3.it@SD"
+    ],
+    "Classic;Kids": [
+      "idx_PBSRetro.us@SD"
+    ],
+    "Outdoor;Travel": [
+      "idx_PeerTVAltoAdige.it@SD",
+      "idx_PeerTVSouthTyrol.it@SD",
+      "idx_PeerTVSudtirol.it@SD"
+    ],
+    "Entertainment;Outdoor;Series": [
+      "idx_PlutoTVAdventure.us@CA",
+      "idx_PlutoTVAdventure.us@US"
+    ],
+    "Cooking;Documentary": [
+      "idx_PlutoTVFood.de@DACH",
+      "idx_PlutoTVFood.de@GB"
+    ],
+    "Documentary;Outdoor": [
+      "idx_PlutoTVNaturaleza.us@LatAm",
+      "idx_WaterBear.ch@SD"
+    ],
+    "Documentary;Science": [
+      "idx_PlutoTVScience.de@DACH",
+      "idx_PlutoTVScience.de@GB",
+      "idx_PlutoTVScience.us@US"
+    ],
+    "Auto;Documentary": [
+      "idx_PlutoTVTurbo.us@BR"
+    ],
+    "Entertainment;Lifestyle;Music": [
+      "idx_PRIDEtvLATAM.cl@HD"
+    ],
+    "Animation;Classic;Entertainment;Family;Movies": [
+      "idx_Pro100TV.ru@SD"
+    ],
+    "Kids;Lifestyle": [
+      "idx_QTV6.cn@SD"
+    ],
+    "Family;Movies": [
+      "idx_RakutenTVFamilyMovies.es@Austria",
+      "idx_RakutenTVFamilyMovies.es@Finland",
+      "idx_RakutenTVFamilyMovies.es@Germany",
+      "idx_RakutenTVFamilyMovies.es@Italy",
+      "idx_RakutenTVFamilyMovies.es@Spain",
+      "idx_RakutenTVFamilyMovies.es@UK",
+      "idx_RakutenTVFamilyMovies.es@Switzerland"
+    ],
+    "Entertainment;General;News": [
+      "idx_RedPlus.co@SD",
+      "idx_TVModelo.br@SD",
+      "idx_TVNatal.br@SD"
+    ],
+    "Animation;Classic": [
+      "idx_RetroCrush.us@SD"
+    ],
+    "Auto;Outdoor;Series;Sports": [
+      "idx_REVNAction.us@SD"
+    ],
+    "Family;Kids": [
+      "idx_RiC.de@SD"
+    ],
+    "Entertainment;Interactive": [
+      "idx_RMCLife.fr@SD"
+    ],
+    "Music;Sports": [
+      "idx_RTILa3.ci@SD"
+    ],
+    "Culture;Lifestyle": [
+      "idx_SaliraTV.id@SD"
+    ],
+    "Culture;General;Religious": [
+      "idx_SercemTV.tr@HD"
+    ],
+    "General;Series": [
+      "idx_SuperTV.it@SD"
+    ],
+    "Culture;Family": [
+      "idx_SuperscreenTV.ng@SD"
+    ],
+    "Animation;Kids;Public": [
+      "idx_SX3.es@SD"
+    ],
+    "Classic;Shop": [
+      "idx_TimelessTV.us@SD"
+    ],
+    "Auto;Entertainment": [
+      "idx_TopGear.uk@SD",
+      "idx_prem_us_organized_final_91bfa28c"
+    ],
+    "Family;Religious": [
+      "idx_TVFamille.mq@SD"
+    ],
+    "Entertainment;Family;General;News": [
+      "idx_TVParaense.br@HD"
+    ],
+    "Culture;Education;Public": [
+      "idx_TVUFOP.br@HD"
+    ],
+    "General;Sports": [
+      "idx_TVRSport.ro@SD"
+    ],
+    "Documentary;Education;Science": [
+      "idx_UMSATVUInternacional.bo@HD"
+    ],
+    "Culture;Education;News": [
+      "idx_UMSATVULP.bo@SD"
+    ],
+    "Education;Entertainment;News": [
+      "idx_Unifranz.bo@HD"
+    ],
+    "Comedy;Movies;Series": [
+      "idx_UniversalComedy.us@SD",
+      "idx_prem_us_organized_final_2abc0cae"
+    ],
+    "Comedy;Movies;Series;Sports": [
+      "idx_USANetwork.us@East"
+    ],
+    "Culture;Entertainment;Music;News": [
+      "idx_TraVinhTV.vn@HD"
+    ],
+    "Lifestyle;Travel": [
+      "idx_VoyagesSaveurs.es@FR"
+    ],
+    "Documentary;Education;Outdoor;Relax": [
+      "idx_WildEarth.za@SD"
+    ],
+    "Culture;Education;Lifestyle": [
+      "idx_WomanTV.tr@SD"
+    ],
+    "Classic;News": [
+      "idx_ZillarBartaNews.in@HD"
+    ],
+    "Albania": [
+      "idx_Kanali7.al",
+      "idx_A2CNN.al",
+      "idx_ABCNewsAlbania.al",
+      "idx_AlpoTV.al",
+      "idx_EuronewsAlbania.al",
+      "idx_News24.al",
+      "idx_PanoramaTV.al",
+      "idx_Syri.al",
+      "idx_TopNews.al",
+      "idx_TropojaTelevizion.al",
+      "idx_TV7Albania.al",
+      "idx_TVApollon.al",
+      "idx_VizionPlus.al"
+    ],
+    "Andorra": [
+      "idx_AndorraTV.ad"
+    ],
+    "Argentina": [
+      "idx_TodoNoticias.ar",
+      "idx_Encuentro.ar",
+      "idx_Pakapaka.ar",
+      "idx_Aunar.ar",
+      "idx_CineAr.ar",
+      "idx_TECTV.ar",
+      "idx_TVPublica.ar",
+      "idx_DeporTV.ar",
+      "idx_Canal26.ar",
+      "idx_CronicaTV.ar",
+      "idx_IPNoticias.ar",
+      "idx_ElDestape.ar",
+      "idx_C5N.ar",
+      "idx_LaNacionPlus.ar",
+      "idx_CanalE.ar",
+      "idx_Telemax.ar",
+      "idx_BarricadaTV.ar",
+      "idx_UrbanaTeve.ar",
+      "idx_ComarcaTV.ar",
+      "idx_ElTrece.ar"
+    ],
+    "Armenia": [
+      "idx_Armenia1.am",
+      "idx_KentronTV.am",
+      "idx_ArmeniaTV.am",
+      "idx_5TV.am"
+    ],
+    "Australia": [
+      "idx_ABCTV.au",
+      "idx_TVSN.au",
+      "idx_ABCMe.au",
+      "idx_ABCNews.au",
+      "idx_M4TV.au",
+      "idx_Racingcom.au",
+      "idx_9Rush.au"
+    ],
+    "Austria": [
+      "idx_ORF1.at",
+      "idx_ORF2.at",
+      "idx_ORFIII.at",
+      "idx_ORFSportPlus.at",
+      "idx_ServusTVOsterreich.at",
+      "idx_Oe24TV.at",
+      "idx_P3tv.at",
+      "idx_TVTV.at",
+      "idx_TirolTV.at"
+    ],
+    "Azerbaijan": [
+      "idx_ARB24.az",
+      "idx_ArbGunes.az",
+      "idx_ARB.az",
+      "idx_AzadTV.az",
+      "idx_AzStarTV.ca",
+      "idx_AZTV.az",
+      "idx_BakuTV.az",
+      "idx_CBC.az",
+      "idx_DunyaTV.az",
+      "idx_IctimaiTV.az",
+      "idx_IdmanTV.az",
+      "idx_KanalS.az",
+      "idx_MedeniyyetTV.az",
+      "idx_RealTV.az",
+      "idx_SpaceTV.az",
+      "idx_freetv_b9ece18c950a",
+      "idx_XezerTV.az",
+      "idx_SehiyyeTV.az",
+      "idx_freetv_5206560a306a",
+      "idx_MTVAzerbaijan.az"
+    ],
+    "Belarus": [
+      "idx_FirstMusicChannel.by",
+      "idx_8kanal.by",
+      "idx_BelRos.ru",
+      "idx_Belarus4Vitebsk.by",
+      "idx_NasheTV.by",
+      "idx_RTRBelarus.by",
+      "idx_RadioHit.ru",
+      "idx_Vitebsk.by"
+    ],
+    "Belgium": [
+      "idx_BelRTL.be",
+      "idx_LaUne.be",
+      "idx_Tipik.be",
+      "idx_ClubRTL.be",
+      "idx_LaTrois.be",
+      "idx_PlugRTL.be",
+      "idx_LN24.be",
+      "idx_Een.be",
+      "idx_Canvas.be",
+      "idx_VTM.be",
+      "idx_prem_playlist_belgium8_5206560a"
+    ],
+    "Bosnia and Herzegovina": [
+      "idx_BHT1.ba",
+      "idx_FederalnaTV.ba",
+      "idx_RTRSTV.ba",
+      "idx_N1BosniaHerzegovina.ba",
+      "idx_BNTV.ba",
+      "idx_SevdahTV.ba",
+      "idx_ntv.ba",
+      "idx_RTVBPK.ba"
+    ],
+    "Brazil": [
+      "idx_SBTNacional.br",
+      "idx_RBC.br",
+      "idx_RecordNews.br",
+      "idx_ISTVHD.br",
+      "idx_RedeBrasil.br",
+      "idx_TVERS.br",
+      "idx_TVCultura.br",
+      "free_pluto_392f6261"
+    ],
+    "Bulgaria": [
+      "idx_EuroNewsBulgaria.bg",
+      "idx_TV1.bg"
+    ],
+    "Canada": [
+      "idx_CBCTDT.ca",
+      "idx_freetv_0d61f8370cad",
+      "idx_freetv_dfcf28d07345",
+      "idx_freetv_8d9c307cb7f3",
+      "idx_ONNtv.ca",
+      "idx_freetv_5dbc98dcc983",
+      "idx_CBCNewsNetwork.ca",
+      "idx_CTVNewsChannel.ca",
+      "idx_CHANDT.ca",
+      "idx_CICTDT.ca",
+      "idx_CKWSDT.ca",
+      "idx_CHEXDT.ca",
+      "idx_CFREDT.ca",
+      "idx_CFSKDT.ca",
+      "idx_CKNDDT.ca",
+      "idx_freetv_dd7536794b63",
+      "idx_CIVMDT.ca",
+      "idx_CPACFrench.ca",
+      "idx_prem_playlist_canada8_b9ece18c",
+      "free_pluto_75447d0f"
+    ],
+    "Chad": [
+      "idx_Tchad24.td"
+    ],
+    "Chile": [
+      "idx_UCVTV.cl",
+      "idx_TVN.cl",
+      "idx_24Horas.cl",
+      "idx_NTV.cl",
+      "idx_TVChile.cl",
+      "idx_Canal13.cl",
+      "idx_TVPlus.cl",
+      "idx_ChileVision.cl",
+      "idx_UChileTV.cl",
+      "idx_T13.cl",
+      "idx_ElPinguinoTV.cl",
+      "idx_UCL.uy",
+      "idx_D13.cl",
+      "idx_CHVNoticias.cl",
+      "idx_SoloTV.cl"
+    ],
+    "China": [
+      "idx_CCTV1.cn",
+      "idx_CCTV2.cn",
+      "idx_CCTV4Asia.cn",
+      "idx_CCTV5.cn",
+      "idx_CCTV5Plus.cn",
+      "idx_CCTV7.cn",
+      "idx_CCTV8.cn",
+      "idx_CCTV9.cn",
+      "idx_CCTV10.cn",
+      "idx_CCTV13.cn",
+      "idx_CCTV17.cn",
+      "idx_CETV1.cn",
+      "idx_CETV2.cn",
+      "idx_CETV3.cn",
+      "idx_CETV4.cn",
+      "idx_TVBRICSChinese.cn",
+      "idx_prem_dhanytv-ott_abcc2f1d",
+      "idx_prem_dhanytv-ott_c05affea",
+      "idx_prem_dhanytv-ott_20d2d963",
+      "idx_prem_dhanytv-ott_c23cb91e"
+    ],
+    "Costa Rica": [
+      "idx_Canal1.cr",
+      "idx_Canal2.cr"
+    ],
+    "Croatia": [
+      "idx_HRT1.hr",
+      "idx_HRT2.hr",
+      "idx_RTLCroatia.hr",
+      "idx_HRT3.hr",
+      "idx_RTL2Croatia.hr",
+      "idx_SportskaTV.hr",
+      "idx_RTLKockica.hr",
+      "idx_PlavaVinkovacka.hr",
+      "idx_OSTV.hr",
+      "idx_TVZapad.hr",
+      "idx_AlJazeeraBalkans.ba"
+    ],
+    "Cyprus": [
+      "idx_RIK1.cy",
+      "idx_RIK2.cy",
+      "idx_RIKHD.cy",
+      "idx_AdaTV.cy"
+    ],
+    "Czech Republic": [
+      "idx_CT1.cz",
+      "idx_CT2.cz",
+      "idx_CT24.cz",
+      "idx_CTSport.cz",
+      "idx_CTDecko.cz",
+      "idx_CTart.cz",
+      "idx_freetv_3a59435fb123",
+      "idx_JojFamily.sk",
+      "idx_SlagrOriginal.cz",
+      "idx_SlagrMuzika.cz",
+      "idx_SlagrPremium.cz",
+      "idx_Prima.cz",
+      "idx_CNNPrimaNews.cz",
+      "idx_PrimaZoom.cz",
+      "idx_PrimaLove.cz",
+      "idx_PrimaStar.cz",
+      "idx_PrimaKrimi.cz",
+      "idx_PrimaMax.cz",
+      "idx_PrimaCool.cz",
+      "idx_PrimaShow.cz"
+    ],
+    "Denmark": [
+      "idx_DR1.dk",
+      "idx_DR2.dk",
+      "idx_DRRamasjang.dk",
+      "idx_TVSYD.dk",
+      "idx_TV2Fyn.dk",
+      "idx_TV2Ost.dk",
+      "idx_TV2Nord.dk",
+      "idx_TV2Kosmopol.dk",
+      "idx_TVMidtvest.dk",
+      "idx_TV2Bornholm.dk",
+      "idx_KKRtv.dk",
+      "free_pluto_ced3dc63"
+    ],
+    "Egypt": [
+      "idx_AlGhadPlus.eg",
+      "idx_AlQaheraNews.eg",
+      "idx_CopticTV.eg",
+      "idx_MBCMasr1.eg",
+      "idx_MBCMasr2.eg",
+      "idx_RotanaCinema.eg"
+    ],
+    "Estonia": [
+      "idx_Riigikogu.ee",
+      "idx_TaevasTV7.fi",
+      "idx_LifeTV.ee",
+      "idx_LifeTVEurope.ee"
+    ],
+    "Faroe Islands": [
+      "idx_KVFSjonvarp.fo",
+      "idx_Tingvarp.fo"
+    ],
+    "Finland": [
+      "idx_YleTV1.fi",
+      "idx_YleTV2.fi",
+      "idx_MTV3.fi",
+      "idx_Nelonen.fi",
+      "idx_YleTeemaFem.fi",
+      "idx_Sub.fi",
+      "idx_TV5.fi",
+      "idx_Liv.fi",
+      "idx_Jim.fi",
+      "idx_Kutonen.fi",
+      "idx_TLCFinland.fi",
+      "idx_StarChannel.fi",
+      "idx_AVA.fi",
+      "idx_Hero.fi",
+      "idx_Frii.fi",
+      "idx_IRRTV.fi",
+      "idx_Eveo.fi",
+      "idx_NationalGeographicFinland.fi",
+      "idx_ViaplayTV.fi",
+      "idx_KotiTV.fi"
+    ],
+    "France": [
+      "idx_C8.fr",
+      "idx_NRJ12.fr",
+      "idx_LCP.fr",
+      "idx_PublicSenat.fr",
+      "idx_CNews.fr",
+      "idx_Franceinfo.fr",
+      "idx_France24French.fr",
+      "idx_EuronewsFrench.fr",
+      "idx_Africanews.cg",
+      "idx_LEquipe.fr",
+      "idx_FranceInter.fr",
+      "idx_CGTNFrench.cn",
+      "idx_TV5MondeInfo.fr",
+      "idx_TV5MondeFranceBelgiumSwitzerland.fr",
+      "idx_TV5MondeEurope.fr",
+      "free_pluto_abd61782",
+      "free_pluto_71789c67",
+      "free_pluto_0fe4acad",
+      "free_pluto_cfde4357",
+      "free_pluto_4be4b339"
+    ],
+    "Georgia": [
+      "idx_Rustavi2.ge",
+      "idx_MtavariArkhi.ge",
+      "idx_PosTV.ge",
+      "idx_EuroNewsGeorgia.ge"
+    ],
+    "Germany": [
+      "idx_DasErste.de",
+      "idx_ZDF.de",
+      "idx_3sat.de",
+      "idx_SchlagerDeluxe.de",
+      "idx_EuronewsGerman.fr",
+      "idx_KIKA.de",
+      "idx_One.de",
+      "idx_Phoenix.de",
+      "idx_Welt.de",
+      "idx_ZDFinfo.de",
+      "idx_ZDFneo.de",
+      "idx_BRFernsehenSud.de",
+      "idx_HRFernsehen.de",
+      "idx_MDRFernsehenSachsen.de",
+      "idx_MDRFernsehenSachsenAnhalt.de",
+      "idx_MDRFernsehenThuringen.de",
+      "idx_RBBBerlin.de",
+      "free_pluto_6406e9e7",
+      "free_pluto_c7e92557",
+      "free_pluto_bc21c684"
+    ],
+    "Greece": [
+      "idx_ERT1.gr",
+      "idx_ERT2.gr",
+      "idx_ERT3.gr",
+      "idx_ERTNews.gr",
+      "idx_ERTWorld.gr",
+      "idx_ERTSports1.gr",
+      "idx_ERTSports2.gr",
+      "idx_ERTSports3.gr",
+      "idx_ERTSports4.gr",
+      "idx_ERTKids.gr",
+      "idx_VouliTV.gr",
+      "idx_MegaChannel.gr",
+      "idx_SkaiTV.gr",
+      "idx_OpenTV.gr",
+      "idx_MakTV.gr",
+      "idx_arttv.gr",
+      "idx_hightv.gr",
+      "idx_OneChannel.gr",
+      "idx_4E.gr",
+      "idx_eurotv.gr"
+    ],
+    "Greenland": [
+      "idx_KNR1.gl",
+      "idx_KNR2.gl"
+    ],
+    "Hong Kong": [
+      "idx_HKIBC.hk",
+      "idx_TVBNewsChannel.hk",
+      "idx_TVBFinanceSportsInformationChannel.hk"
+    ],
+    "Hungary": [
+      "idx_M1.hu",
+      "idx_RTLKlub.hu",
+      "idx_TV2.hu",
+      "idx_ATV.hu",
+      "idx_HirTV.hu",
+      "idx_BonumTV.hu",
+      "idx_MUSICPlus.hu",
+      "idx_freetv_e1e1d3d40573",
+      "idx_freetv_f186217753c3",
+      "idx_IzauraTV.hu",
+      "idx_EuronewsHungarian.fr",
+      "idx_freetv_44c29edb103a",
+      "idx_Hatoscsatorna.hu",
+      "idx_OzdiVarosiTV.hu",
+      "idx_VTVFuzesabony.hu",
+      "idx_HegyvidekTV.hu",
+      "idx_freetv_800618943025",
+      "idx_GyongyosiTV.hu",
+      "idx_freetv_c1d9f50f8682",
+      "idx_KecskemetiTV.hu"
+    ],
+    "India": [
+      "idx_NDTVIndia.in",
+      "idx_[ABP News](https://abplive.com)",
+      "idx_DDNational.in",
+      "idx_DDNews.in",
+      "idx_DDIndia.in",
+      "idx_DDBharati.in",
+      "idx_DDKisan.in",
+      "idx_DDUrdu.in",
+      "idx_IndiaToday.in",
+      "idx_AajTak.in",
+      "idx_IndiaTV.in",
+      "idx_TV9Bharatvarsh.in",
+      "idx_RepublicBharat.in",
+      "idx_prem_final_iptv_active_b08cb683",
+      "idx_prem_final_iptv_active_d9ac39af",
+      "idx_prem_final_iptv_active_55ce201d",
+      "idx_prem_final_iptv_active_e4ba2f98",
+      "idx_prem_final_iptv_active_81ba258e",
+      "idx_prem_final_iptv_active_4245758f",
+      "idx_prem_final_iptv_active_96f17c53"
+    ],
+    "Indonesia": [
+      "idx_CNBCIndonesia.am",
+      "idx_CNNIndonesia.am",
+      "idx_BeritaSatu.am"
+    ],
+    "Iran": [
+      "idx_PressTV.ir",
+      "idx_PressTVFrench.ir",
+      "idx_IranPress.ir"
+    ],
+    "Iraq": [
+      "idx_AlhurraTVIraq.iq",
+      "idx_AlHurra.iq",
+      "idx_freetv_7fc56270e7a7",
+      "idx_AlRafidainTV.iq",
+      "idx_AlRasheedTV.iq",
+      "idx_DijlahTarab.iq",
+      "idx_DijlahTV.iq",
+      "idx_INews.iq",
+      "idx_IraqFuture.iq",
+      "idx_TurkmeneliTV.iq",
+      "idx_ZagrosTV.iq"
+    ],
+    "Ireland": [
+      "idx_TG4.ie",
+      "idx_todayfm.com",
+      "idx_98fm.com",
+      "idx_fm104.ie",
+      "idx_www.nova.ie",
+      "idx_spin1038.com",
+      "idx_q102.ie",
+      "idx_classichits.ie",
+      "idx_sunshineradio.ie",
+      "idx_prem_playlist_ireland8_8d9c307c"
+    ],
+    "Israel": [
+      "idx_Channel9.il",
+      "idx_TheShoppingChannel.il"
+    ],
+    "Italy": [
+      "idx_Rai1.it",
+      "idx_Rai2.it",
+      "idx_Rai3.it",
+      "idx_Rete.4.it",
+      "idx_Canale.5.it",
+      "idx_Italia.1.it",
+      "idx_LA7.HD.it",
+      "idx_TV8.HD.it",
+      "idx_Nove.it",
+      "idx_20.it",
+      "idx_Rai4.it",
+      "idx_Iris.it",
+      "idx_Rai5.it",
+      "idx_RaiMovie.it",
+      "idx_RaiPremium.it",
+      "idx_cielo.it",
+      "idx_27Twentyseven.it",
+      "idx_LA7.Cinema.it",
+      "idx_La5.it",
+      "idx_Real.Time.it"
+    ],
+    "日本 / Japan": [
+      "idx_JOAKDTV.jp",
+      "idx_JOABDTV.jp",
+      "idx_JORXDTV.jp",
+      "idx_NHKBS.jp",
+      "idx_NHKBSP4K.jp",
+      "idx_BSNipponTV.jp",
+      "idx_BSAsahi.jp",
+      "idx_BSTBS.jp",
+      "idx_BSTVTokyo.jp",
+      "idx_BSFuji.jp",
+      "idx_WOWOWPrime.jp",
+      "idx_WOWOWLive.jp",
+      "idx_WOWOWCinema.jp",
+      "idx_jcom_120_110_4",
+      "idx_jcom_120_200_4",
+      "idx_JSPORTS1.jp",
+      "idx_JSPORTS2.jp",
+      "idx_JSPORTS3.jp",
+      "idx_JSPORTS4.jp",
+      "idx_QVC.jp"
+    ],
+    "Kenya": [
+      "idx_KTNNews.ke",
+      "idx_CitizenTV.ke",
+      "idx_NTV.ke",
+      "idx_KTNHome.ke",
+      "idx_K24.ke"
+    ],
+    "Korea": [
+      "idx_KBS1TV.kr",
+      "idx_KBS2TV.kr",
+      "idx_KBSNewsD.kr",
+      "idx_MBCTV.kr",
+      "idx_SBSTV.kr",
+      "idx_KNNTV.kr",
+      "idx_KBCTV.kr",
+      "idx_TJBTV.kr",
+      "idx_UBCTV.kr",
+      "idx_JTV.kr",
+      "idx_OBSGyeonginTV.kr",
+      "idx_ArirangTV.kr",
+      "idx_KBSDrama.kr",
+      "idx_KBSJoy.kr",
+      "idx_KBSKids.kr",
+      "idx_KBSLife.kr",
+      "idx_KBSStory.kr",
+      "idx_KBSWorld.kr",
+      "idx_KBSKorea.kr",
+      "idx_AlltheKPop.kr"
+    ],
+    "Kosovo": [
+      "idx_RTK1.xk",
+      "idx_RTK2.xk",
+      "idx_RTK3.xk",
+      "idx_RTK4.xk"
+    ],
+    "Latvia": [
+      "idx_ReTV.lv",
+      "idx_LTV1.lv",
+      "idx_LTV7.lv"
+    ],
+    "Luxembourg": [
+      "idx_ChamberTV.lu"
+    ],
+    "Macau": [
+      "idx_TDMOuMun.mo",
+      "idx_CanalMacau.mo",
+      "idx_TDMSports.mo",
+      "idx_TDMInformation.mo",
+      "idx_TDMEntertainment.mo",
+      "idx_TDMMacauSatellite.mo"
+    ],
+    "Malta": [
+      "idx_One.mt",
+      "idx_SmashTV.mt"
+    ],
+    "Mexico": [
+      "idx_AlcarriaTV.es",
+      "idx_HipodromodelasAmericas.mx",
+      "idx_MVMNoticias.mx",
+      "idx_RCGTV3.mx",
+      "idx_TeleFormula.mx",
+      "idx_noticiasnrt.com",
+      "idx_Lasestrellas.tv",
+      "free_pluto_802fc6e1",
+      "free_plex_5790ba8e",
+      "free_plex_1dabd945",
+      "free_plex_1d8ea1da",
+      "free_plex_380bc489",
+      "free_plex_ef188208",
+      "free_plex_d0ee61f7",
+      "free_plex_f60ba229",
+      "free_plex_4a6b15c2",
+      "free_plex_dc9965b9",
+      "free_plex_c551638a",
+      "free_plex_6c90b4c5",
+      "free_plex_989c9cd1"
+    ],
+    "Moldova": [
+      "idx_Moldova1.md",
+      "idx_Moldova2.md",
+      "idx_PublikaTV.md",
+      "idx_VoceaBasarabieiTV.md",
+      "idx_Canal2.md",
+      "idx_Canal3.md",
+      "idx_Prime.md",
+      "idx_TVRMoldova.md",
+      "idx_BaltiTV.md"
+    ],
+    "Monaco": [
+      "idx_TVMonaco.mc",
+      "idx_MonacoInfo.mc"
+    ],
+    "Netherlands": [
+      "idx_NPO1.nl",
+      "idx_NPO2.nl",
+      "idx_NPO3.nl",
+      "idx_OmropFryslanTV.nl",
+      "idx_RTVNoord.nl",
+      "idx_RTVDrenthe.nl",
+      "idx_RTVUtrecht.nl",
+      "idx_prem_playlist_netherlands8_8d9c307c"
+    ],
+    "North Korea": [
+      "idx_KCTV.kp"
+    ],
+    "North Macedonia": [
+      "idx_MRT1.mk",
+      "idx_MRT2.mk",
+      "idx_MRTSobraniskikanal.mk",
+      "idx_MRT3.mk",
+      "idx_MRT4.mk",
+      "idx_MRT5.mk",
+      "idx_MRT1Sat.mk",
+      "idx_MRT2Sat.mk",
+      "idx_TV21.mk",
+      "idx_info.mnet.mk",
+      "idx_24.mk",
+      "idx_SkyFolkTV.mk",
+      "idx_prem_playlist_north_macedonia8_69691c7b"
+    ],
+    "Norway": [
+      "idx_NRK1.no",
+      "idx_NRK2.no",
+      "idx_NRK3.no",
+      "idx_NRKSuper.no",
+      "idx_TV2Sport1.no",
+      "idx_TV2Nyhetskanalen.no",
+      "idx_Kanal10Norway.no",
+      "free_pluto_c8f45505"
+    ],
+    "Paraguay": [
+      "idx_Unicanal.py",
+      "idx_Trece.py",
+      "idx_ABCTV.py"
+    ],
+    "Peru": [
+      "idx_PanamericanaTV.pe",
+      "idx_ATVPlus.pe",
+      "idx_Karibena.pe",
+      "idx_TopLatinoTV.pe"
+    ],
+    "Poland": [
+      "idx_TVP1.pl",
+      "idx_TVP2.pl",
+      "idx_TVP3Warszawa.pl",
+      "idx_TVPPolonia.pl",
+      "idx_AlfaTVP.pl",
+      "idx_TVPInfo.pl",
+      "idx_BelsatTV.pl",
+      "idx_TVPWorld.pl",
+      "idx_TVPABC2.pl",
+      "idx_TVPHistoria2.pl",
+      "idx_TVPKultura2.pl",
+      "idx_TVRepublika.pl"
+    ],
+    "Portugal": [
+      "idx_RTP1.pt",
+      "idx_SIC.pt",
+      "idx_RTP3.pt",
+      "idx_PortoCanal.pt",
+      "idx_CNNPortugal.pt",
+      "idx_EuronewsPortuguese.fr",
+      "idx_prem_playlist_portugal8_7fc56270"
+    ],
+    "Qatar": [
+      "idx_QatarTelevision.qa",
+      "idx_QatarTelevision2.qa",
+      "idx_QatarTelevisionTheHolyQuran.qa",
+      "idx_AlJazeeraMubasher.qa",
+      "idx_prem_playlist_qatar8_6f8618a3",
+      "idx_prem_playlist_qatar8_678eb416",
+      "idx_prem_playlist_qatar8_32f96ae5",
+      "idx_prem_playlist_qatar8_5e8a8f12"
+    ],
+    "Romania": [
+      "idx_TVR1.ro",
+      "idx_TVR2.ro",
+      "idx_TVR3.ro",
+      "idx_TVRInfo.ro",
+      "idx_TVRInternational.ro",
+      "idx_PrimaTV.ro",
+      "idx_RomaniaTV.ro",
+      "idx_Telestar1.ro",
+      "idx_EuronewsRomania.ro",
+      "idx_TVRCluj.ro",
+      "idx_TVRCraiova.ro",
+      "idx_TVRIasi.ro",
+      "idx_TVRTimisoara.ro",
+      "idx_TVRTarguMures.ro"
+    ],
+    "Russia": [
+      "idx_RTD.ru",
+      "idx_CGTNRussian.cn",
+      "idx_EuronewsRussian.fr"
+    ],
+    "San Marino": [
+      "idx_SanMarinoRTV.sm",
+      "idx_SanMarinoRTVSport.sm"
+    ],
+    "Saudi Arabia": [
+      "idx_AlSaudiya.sa",
+      "idx_SBC.sa",
+      "idx_AlEkhbariya.sa",
+      "idx_AlSaudiyaAlaan.sa",
+      "idx_AlQuranAlKareemTV.sa",
+      "idx_RotanaCinemaKSA.sa",
+      "idx_RotanaClassic.sa"
+    ],
+    "Serbia": [
+      "idx_RTS2.rs",
+      "idx_RedTV.rs",
+      "idx_KurirTV.rs",
+      "idx_InformerTV.rs",
+      "idx_RTV1.rs",
+      "idx_RTV2.rs",
+      "idx_prem_playlist_serbia8_b4fcc248"
+    ],
+    "Slovakia": [
+      "idx_TVNRSR.sk",
+      "idx_TVJOJ.sk",
+      "idx_JOJPlus.sk",
+      "idx_JOJWAU.sk",
+      "idx_JOJ24.sk",
+      "idx_JOJSport.sk",
+      "idx_TA3.sk",
+      "idx_prem_playlist_slovakia8_5dbc98dc"
+    ],
+    "Slovenia": [
+      "idx_TVSlovenija1.si",
+      "idx_TVSlovenija2.si",
+      "idx_TVSlovenija3.si",
+      "idx_TVKoperCapodistria.si",
+      "idx_TVMaribor.si",
+      "idx_MMC.si",
+      "idx_Nova24TV.si"
+    ],
+    "Somalia": [
+      "idx_MMSomaliTV.uk",
+      "idx_SomaliCableTV.uk"
+    ],
+    "Spain": [
+      "idx_La1.es",
+      "idx_La2.es",
+      "idx_Antena3.es",
+      "idx_Cuatro.es",
+      "idx_Telecinco.es",
+      "idx_LaSexta.es",
+      "idx_24h.es",
+      "idx_tdp.es",
+      "idx_clan.es",
+      "idx_TVEInternacionalEuropeAsia.es",
+      "idx_Neox.es",
+      "idx_Nova.es",
+      "idx_Mega.es",
+      "idx_Atreseries.es",
+      "idx_FactoriadeFiccion.es",
+      "idx_Divinity.es",
+      "idx_Energy.es",
+      "idx_Boing.es",
+      "idx_BeMad.es",
+      "idx_ParamountNetwork.es"
+    ],
+    "Spain VOD": [
+      "idx_HQMArabic.es",
+      "idx_HQMBaladas.es",
+      "idx_HQMBlues.es",
+      "idx_HQMChillOut.es",
+      "idx_HQMClassic.es",
+      "idx_HQMDance.es",
+      "idx_HQMFolk.es",
+      "idx_HQMGym.es",
+      "idx_HQMHipHop.es",
+      "idx_HQMHits.es",
+      "idx_HQMJazz.es",
+      "idx_HQMKids.es",
+      "idx_HQMLatin.es",
+      "idx_HQMPop.es",
+      "idx_HQMRelax.es",
+      "idx_HQMRemember.es",
+      "idx_HQMRock.es",
+      "idx_HQMSpanish.es"
+    ],
+    "Sweden": [
+      "idx_SVT1.se",
+      "idx_SVT2.se",
+      "idx_ATGLive.se",
+      "idx_Kanal10.se",
+      "idx_SVT24.se",
+      "idx_Kunskapskanalen.se",
+      "idx_OppnaKanalenStockholm.se",
+      "idx_TVMalmo.se",
+      "idx_VastmanlandsTV.se",
+      "idx_Sundskanalen.se",
+      "idx_OppnaKanalenSkovde.se",
+      "idx_LTVU.se",
+      "idx_SuryoyoSat.se",
+      "free_pluto_eaa10eb6"
+    ],
+    "Switzerland": [
+      "idx_SRF1.ch",
+      "idx_TVO.ch",
+      "idx_RTS1.ch",
+      "idx_TVM3.ch",
+      "idx_RSILa1.ch",
+      "idx_RSILa2.ch",
+      "idx_TeleTicino.ch"
+    ],
+    "Taiwan": [
+      "idx_CTVNewsChannel.tw",
+      "idx_PTSTaigi.tw",
+      "idx_TaiwanPlus.tv",
+      "idx_FTVNews.tw",
+      "idx_TTV.tw",
+      "idx_TTVNews.tw",
+      "idx_CongressChannel1.tw",
+      "idx_CongressChannel2.tw"
+    ],
+    "Trinidad": [
+      "idx_CNC3.tt",
+      "idx_freetv_b2f5ff474366",
+      "idx_SynergyTV.tt",
+      "idx_TTT.tt",
+      "idx_prem_playlist_trinidad8_dd753679",
+      "idx_prem_playlist_trinidad8_b9ece18c"
+    ],
+    "Turkey": [
+      "idx_TRT2.tr"
+    ],
+    "UK": [
+      "idx_BBCOne.uk",
+      "idx_BBCTwo.uk",
+      "idx_Channel4.uk",
+      "idx_BBCAlba.uk",
+      "idx_BBCFour.uk",
+      "idx_BBCScotland.uk",
+      "idx_E4.uk",
+      "idx_Film4.uk",
+      "idx_QVCUK.uk",
+      "idx_BBCThree.uk",
+      "idx_GemsTV.uk",
+      "idx_4seven.uk",
+      "idx_IdealWorldTV.uk",
+      "idx_Blaze.uk",
+      "idx_JewelleryMaker.uk",
+      "idx_HobbyMaker.uk",
+      "idx_EarthXUK.uk",
+      "idx_PBSAmerica.uk",
+      "idx_CreateandCraft.uk",
+      "idx_CBBC.uk"
+    ],
+    "Ukraine": [
+      "idx_Pershyi.ua",
+      "idx_1Plus1Ukraina.ua",
+      "idx_1Plus1Marafon.ua",
+      "idx_SuspilneKultura.ua",
+      "idx_SuspilneSport.ua",
+      "idx_ICTV2.ua",
+      "idx_ICTVSerialy.ua",
+      "idx_Inter.ua",
+      "idx_UNIANTV.ua",
+      "idx_Bigudi.ua",
+      "idx_NovyKanal.ua",
+      "idx_TET.ua",
+      "idx_2Plus2.ua",
+      "idx_M1.ua",
+      "idx_NTN.ua",
+      "idx_Mega.ua",
+      "idx_K1.ua",
+      "idx_XSport.ua",
+      "idx_EnterFilm.ua",
+      "idx_5Kanal.ua"
+    ],
+    "United Arab Emirates": [
+      "idx_CartoonNetworkArabic.ae",
+      "idx_MBC1.ae",
+      "idx_MBC2.ae",
+      "idx_MBC3.ae",
+      "idx_MBC4.ae",
+      "idx_MBC5.ae",
+      "idx_MBCAction.ae",
+      "idx_MBCBollywood.ae",
+      "idx_MBCDrama.ae",
+      "idx_MBCMax.ae",
+      "idx_MBCPersia.ae",
+      "idx_Wanasah.ae",
+      "idx_SkyNewsArabia.ae",
+      "idx_BaynounahTV.ae",
+      "idx_AjmanTV.ae",
+      "idx_AlAanTV.ae",
+      "idx_AbuDhabiTV.ae",
+      "idx_AbuDhabiSports2.ae",
+      "idx_NationalGeographicAbuDhabi.ae",
+      "idx_DubaiTV.ae"
+    ],
+    "USA": [
+      "idx_Buzzr.us",
+      "idx_RetroTVEast.us",
+      "idx_Stadium.us",
+      "idx_BizTV.us",
+      "idx_HeartlandEastern.us",
+      "idx_RevnTV.us",
+      "idx_CNN.us",
+      "idx_CNBC.us",
+      "idx_BloombergTelevision.us",
+      "idx_ABCNews.us",
+      "idx_CBSNews.us",
+      "idx_NBCNewsNow.us",
+      "idx_ReutersTV.us",
+      "idx_NASATVPublic.us",
+      "idx_NASATVMedia.us",
+      "idx_BBCFood.us",
+      "idx_BBCHome.us",
+      "idx_Docurama.us",
+      "idx_DryBarComedy.us",
+      "idx_Boni-Records.com.us"
+    ],
+    "Usa VOD": [
+      "idx_BumblebeeTVAuroraLive.us",
+      "idx_BumblebeeTVAutoMoto.us",
+      "idx_BumblebeeTVBeachesLive.us",
+      "idx_BumblebeeTVClassics2.us",
+      "idx_BumblebeeTVCoronaVirusGov.us",
+      "idx_BumblebeeTVCountryBoyKidsVideo.us",
+      "idx_BumblebeeTVCuteZone.us",
+      "idx_BumblebeeTVEpicM.us",
+      "idx_BumblebeeTVFGTV.us",
+      "idx_BumblebeeTVForestLive.us",
+      "idx_BumblebeeTVFunZone.us",
+      "idx_BumblebeeTVGiggleZone.us",
+      "idx_BumblebeeTVLakeLive.us",
+      "idx_BumblebeeTVLegoToons.us",
+      "idx_BumblebeeTVLetsPlayMinecraft.us",
+      "idx_BumblebeeTVLifeBae.us",
+      "idx_BumblebeeTVMasterBuilder.us",
+      "idx_BumblebeeTVMountainLive.us",
+      "idx_BumblebeeTVNowYouKnow.us",
+      "idx_BumblebeeTVRecoilTV.us"
+    ],
+    "Venezuela": [
+      "idx_Venevision.ve",
+      "idx_VenezolanadeTelevision.ve",
+      "idx_Televen.ve",
+      "idx_Globovision.ve",
+      "idx_ValeTV.ve",
+      "idx_TeleSUR.ve"
+    ],
+    "Documentaries (AR)": [
+      "idx_AlJazeeraDocumentary.qa"
+    ],
+    "Documentaries (EN)": [
+      "idx_CGTNDocumentary.cn"
+    ],
+    "VOD Movies (EN)": [
+      "idx_FilmRiseFreeMovies.us",
+      "idx_FilmRiseSciFi.us",
+      "idx_freetv_45c48cce2e2d",
+      "idx_freetv_c9f0f895fb98",
+      "idx_freetv_8f14e45fceea",
+      "idx_prem_playlist_zz_movies8_44c29edb",
+      "idx_prem_playlist_zz_movies8_9d5ed678",
+      "idx_prem_playlist_zz_movies8_0d61f837",
+      "idx_prem_playlist_zz_movies8_80061894",
+      "idx_prem_playlist_zz_movies8_b9ece18c"
+    ],
+    "News (AR)": [
+      "idx_AlJazeeraChannel.qa",
+      "idx_AlHadath.sa",
+      "idx_France24Arabic.fr",
+      "idx_DWArabic.de",
+      "idx_Sahara-24.mr",
+      "idx_prem_playlist_zz_news_ar8_5f9cdcec"
+    ],
+    "News (ES)": [
+      "idx_EuronewsSpanish.fr",
+      "idx_France24Espanol.fr",
+      "idx_DWEspanol.de",
+      "idx_CGTNSpanish.cn",
+      "idx_RTenEspanol.ru"
+    ],
+    "VOD Italy": [
+      "idx_Sportitalia24.it",
+      "idx_FashionTVEurope.fr",
+      "idx_ItalianFishingTV.it",
+      "idx_FuelTV.us",
+      "idx_freetv_8277e0910d75",
+      "idx_RadioItaliaTrendTV.it",
+      "idx_TraceLatina.fr",
+      "idx_TraceUrban.fr",
+      "idx_PlutoTVSerieItaly.it",
+      "idx_PlutoTVFilmItaly.it",
+      "idx_PlutoTVFilmAzioneItaly.it",
+      "idx_PlutoTVFilmThrillerItaly.it",
+      "idx_PlutoTVFilmClassiciItaly.it",
+      "idx_PlutoTVCinemaItalianoItaly.it",
+      "idx_PlutoTVFilmRomanticiItaly.it",
+      "idx_PlutoTVFilmDramaItaly.it",
+      "idx_PlutoTVFilmCommediaItaly.it",
+      "idx_PlutoTVSciFiItaly.it",
+      "idx_PlutoTVCrimeItaly.it",
+      "idx_PlutoTVRealityItaly.it"
+    ],
+    "PLC": [
+      "idx_prem_channels_24ec8468",
+      "idx_prem_channels_818de4d2",
+      "idx_prem_channels_9c00b2f6",
+      "idx_prem_channels_e8a642ed",
+      "idx_prem_channels_0b5e1c72",
+      "idx_prem_channels_a36b598a",
+      "idx_prem_channels_ff5875c6",
+      "idx_prem_channels_fc06f469",
+      "idx_prem_channels_f972bcd0",
+      "idx_prem_channels_673b1c59",
+      "idx_prem_channels_0ef1bf5d",
+      "idx_prem_channels_fad65bba",
+      "idx_prem_channels_c933fb56",
+      "idx_prem_channels_1e54ffe6",
+      "idx_prem_channels_d64c3d31",
+      "idx_prem_channels_52a7586a",
+      "idx_prem_channels_a344b812",
+      "idx_prem_channels_f811cfeb",
+      "idx_prem_channels_568d0442",
+      "idx_prem_channels_1b11bc31"
+    ],
+    "Hindu Devotional": [
+      "idx_prem_channels_0cd6a652",
+      "idx_prem_channels_a3b19e0b",
+      "idx_prem_channels_f691d7eb",
+      "idx_prem_channels_ed664ae6",
+      "idx_prem_channels_86b9260e",
+      "idx_prem_channels_e043daaf",
+      "idx_prem_channels_07d029c2",
+      "idx_prem_channels_89de7808",
+      "idx_prem_channels_1e600ff1",
+      "idx_prem_channels_87447a22",
+      "idx_prem_channels_e291ea17",
+      "idx_prem_channels_9ecd39e4",
+      "idx_prem_channels_7ccadaea",
+      "idx_prem_channels_4d7ba890",
+      "idx_prem_channels_17edc1c7",
+      "idx_prem_channels_13308391",
+      "idx_prem_channels_547adbad",
+      "idx_prem_channels_a2593cbd",
+      "idx_prem_channels_9381dae3",
+      "idx_prem_smartplay_6b9111c6"
+    ],
+    "Christian Devotional": [
+      "idx_prem_channels_018dd1e0",
+      "idx_prem_channels_606ea2de",
+      "idx_prem_channels_158336cf",
+      "idx_prem_channels_fed6878d",
+      "idx_prem_channels_b56c0221",
+      "idx_prem_channels_2b3a4403",
+      "idx_prem_channels_e0411b12",
+      "idx_prem_channels_714ded3b",
+      "idx_prem_channels_7d8df099",
+      "idx_prem_channels_755a9123",
+      "idx_prem_channels_b486705a",
+      "idx_prem_channels_aa21cc7a",
+      "idx_prem_channels_60178cca",
+      "idx_prem_channels_a171f955",
+      "idx_prem_channels_57d2085f",
+      "idx_prem_channels_1ac6b354",
+      "idx_prem_channels_3d6d437b",
+      "idx_prem_channels_cd98cdbf",
+      "idx_prem_channels_524eb17a",
+      "idx_prem_channels_665de5fd"
+    ],
+    "International;News": [
+      "idx_prem_channels_372ff94f"
+    ],
+    "PLC;SCV Platform;TCCL Platform;VK Digital Platform": [
+      "idx_prem_channels_6fc27dec"
+    ],
+    "PLC;VK Digital Platform": [
+      "idx_prem_channels_ad51ac87",
+      "idx_prem_channels_f6c644fc"
+    ],
+    "PLC;TACTV Platform": [
+      "idx_prem_channels_986aa356",
+      "idx_prem_channels_98423d76"
+    ],
+    "PLC;SCV Platform;TCCL Platform": [
+      "idx_prem_channels_e1b38bf2"
+    ],
+    "PLC;TCCL Platform;TACTV Platform": [
+      "idx_prem_channels_d73f83e8",
+      "idx_prem_channels_99d103d6"
+    ],
+    "PLC;TACTV Platform;VK Digital Platform": [
+      "idx_prem_channels_cd5c2d71"
+    ],
+    "PLC;Platform": [
+      "idx_prem_channels_bf6fd007"
+    ],
+    "Islamic Devotional": [
+      "idx_prem_channels_e5a41393",
+      "idx_prem_channels_5dfdf7f7",
+      "idx_prem_channels_fd2ec553"
+    ],
+    "Christian Devotional;Music": [
+      "idx_prem_channels_d4fc6052",
+      "idx_prem_channels_4c25f7ea"
+    ],
+    "PLC;TCCL Platform": [
+      "idx_prem_channels_ba0ed881",
+      "idx_prem_channels_36a0eb0a",
+      "idx_prem_channels_f9a441d1"
+    ],
+    "International": [
+      "idx_prem_channels_ac7f846d",
+      "idx_prem_channels_ce602d8b",
+      "idx_prem_channels_202bf88e",
+      "idx_prem_channels_c94c22cb",
+      "idx_prem_channels_444bf8be",
+      "idx_prem_channels_ebfd5b69",
+      "idx_prem_channels_dbb7673b",
+      "idx_prem_channels_bccea11e",
+      "idx_prem_channels_24cafe29",
+      "idx_prem_channels_36eec1d8",
+      "idx_prem_channels_c135022f",
+      "idx_prem_channels_5a34dfde",
+      "idx_prem_channels_ba750015",
+      "idx_prem_channels_5985f4fa",
+      "idx_prem_channels_f0eb4a01",
+      "idx_prem_final_iptv_active_a4042c4c",
+      "idx_prem_final_iptv_active_fcb017c9",
+      "idx_prem_final_iptv_active_f1ac96c7",
+      "idx_prem_final_iptv_active_0b88f585",
+      "idx_prem_final_iptv_active_a3fd1873"
+    ],
+    "International;Movies": [
+      "idx_prem_channels_0518947e",
+      "idx_prem_channels_86a245f6"
+    ],
+    "International;Music": [
+      "idx_prem_channels_52893665",
+      "idx_prem_channels_bd4686a2"
+    ],
+    "International;Hindu Devotional": [
+      "idx_prem_channels_9fb6e17e",
+      "idx_prem_channels_fd69d367",
+      "idx_prem_channels_14d221da"
+    ],
+    "PLC;Saurasthra": [
+      "idx_prem_channels_9b24d1e8"
+    ],
+    "PLC;Badaga": [
+      "idx_prem_channels_7607c1d3",
+      "idx_prem_channels_1e97d0cd",
+      "idx_prem_channels_6286f6cf"
+    ],
+    "International;Hindu Devotional;TCCL Platform": [
+      "idx_prem_channels_b7aafc17"
+    ],
+    "International;Christian Devotional": [
+      "idx_prem_channels_87d768e0"
+    ],
+    "Hindu Devotional;TCCL Platform": [
+      "idx_prem_channels_7b279227"
+    ],
+    "International;Comedy": [
+      "idx_prem_channels_3a3ea00c"
+    ],
+    "Premium": [
+      "idx_prem_ip-tv_5dbc98dc",
+      "idx_prem_ip-tv_3a3ea00c",
+      "idx_prem_ip-tv_8d9c307c",
+      "idx_prem_ip-tv_ff44570a",
+      "idx_prem_ip-tv_21c2e595",
+      "idx_prem_ip-tv_0d61f837",
+      "idx_prem_ip-tv_f623e75a",
+      "idx_prem_ip-tv_7fc56270",
+      "idx_prem_ip-tv_e4da3b7f",
+      "idx_prem_ip-tv_d20caec3",
+      "idx_prem_ip-tv_69691c7b",
+      "idx_prem_ip-tv_f1862177",
+      "idx_prem_ip-tv_b9ece18c",
+      "idx_prem_ip-tv_9d5ed678",
+      "idx_prem_ip-tv_e1e1d3d4",
+      "idx_prem_ip-tv_c81e728d",
+      "idx_prem_ip-tv_eccbc87e",
+      "idx_prem_ip-tv_a87ff679",
+      "idx_prem_ip-tv_1679091c",
+      "idx_prem_ip-tv_61e9c06e"
+    ],
+    "Bangladeshi": [
+      "idx_prem_5_9d5ed678",
+      "idx_prem_5_e1e1d3d4",
+      "idx_prem_5_7fc56270",
+      "idx_prem_5_dfcf28d0",
+      "idx_prem_5_5dbc98dc",
+      "idx_prem_5_61e9c06e",
+      "idx_prem_5_dd753679",
+      "idx_prem_5_241a9451",
+      "idx_prem_final_iptv_active_83878c91",
+      "idx_prem_final_iptv_dead_c4ca4238",
+      "idx_prem_final_iptv_dead_c81e728d",
+      "idx_prem_final_iptv_dead_e4da3b7f",
+      "idx_prem_final_iptv_dead_1679091c",
+      "idx_prem_final_iptv_dead_8f14e45f"
+    ],
+    "Live Tv": [
+      "idx_prem_5_03c7c0ac"
+    ],
+    "Live TV": [
+      "idx_prem_5_2510c390"
+    ],
+    "Bangla": [
+      "idx_prem_new-bd-channels_0d61f837",
+      "idx_prem_new-bd-channels_8d9c307c",
+      "idx_prem_new-bd-channels_9d5ed678",
+      "idx_prem_new-bd-channels_e1e1d3d4",
+      "idx_prem_new-bd-channels_7fc56270",
+      "idx_prem_new-bd-channels_3a3ea00c",
+      "idx_prem_new-bd-channels_69691c7b",
+      "idx_prem_new-bd-channels_f623e75a",
+      "idx_prem_new-bd-channels_dfcf28d0",
+      "idx_prem_new-bd-channels_5dbc98dc",
+      "idx_prem_new-bd-channels_44c29edb",
+      "idx_prem_new-bd-channels_b9ece18c",
+      "idx_prem_final_iptv_active_af31790b",
+      "idx_prem_final_iptv_active_361e79a3",
+      "idx_prem_final_iptv_active_6ac86469",
+      "idx_prem_final_iptv_active_78d66a25",
+      "idx_prem_final_iptv_active_cce43a72",
+      "idx_prem_final_iptv_active_af230775",
+      "idx_prem_final_iptv_active_207f9b91",
+      "idx_prem_final_iptv_active_65525181"
+    ],
+    "Channels": [
+      "idx_prem_new-bd-channels_21c2e595",
+      "idx_prem_new-bd-channels_8ce4b16b",
+      "idx_prem_new-bd-channels_83878c91",
+      "idx_prem_final_iptv_dead_e1e1d3d4",
+      "idx_prem_final_iptv_dead_21c2e595",
+      "idx_prem_final_iptv_dead_8ce4b16b",
+      "idx_prem_final_iptv_dead_83878c91",
+      "idx_prem_final_iptv_dead_a87ff679",
+      "idx_prem_final_iptv_complete_21c2e595",
+      "idx_prem_final_iptv_complete_8ce4b16b",
+      "idx_prem_final_iptv_complete_83878c91"
+    ],
+    "English": [
+      "idx_prem_new-bd-channels_d20caec3",
+      "idx_prem_final_iptv_geo_c4ca4238",
+      "idx_prem_final_iptv_geo_e07786ab",
+      "idx_prem_final_iptv_geo_363113a2",
+      "idx_prem_final_iptv_geo_2f1a1d51",
+      "idx_prem_final_iptv_geo_b6bbe57f",
+      "idx_prem_final_iptv_active_39f6e604",
+      "idx_prem_final_iptv_dead_dd753679",
+      "idx_prem_final_iptv_dead_f623e75a",
+      "idx_prem_final_iptv_dead_d20caec3",
+      "idx_prem_final_iptv_dead_4c614360",
+      "idx_prem_final_iptv_dead_b22542e5",
+      "idx_prem_final_iptv_dead_42d748f5",
+      "idx_prem_final_iptv_dead_801a3082",
+      "idx_prem_final_iptv_dead_ad9d4d96",
+      "idx_prem_final_iptv_dead_22a61c45",
+      "idx_prem_final_iptv_dead_a4d4749a",
+      "idx_prem_final_iptv_dead_5deb25b8",
+      "idx_prem_final_iptv_dead_e1a161c1",
+      "idx_prem_final_iptv_dead_7214151d"
+    ],
+    "Hindi": [
+      "idx_prem_new-bd-channels_45c48cce",
+      "idx_prem_final_iptv_active_c1d9f50f",
+      "idx_prem_final_iptv_dead_45c48cce",
+      "idx_prem_final_iptv_complete_45c48cce",
+      "idx_prem_roarzone_c1d9f50f"
+    ],
+    "Aguascalientes": [
+      "idx_prem_index_9d5ed678",
+      "idx_prem_index_d20caec3",
+      "idx_prem_index_f1862177"
+    ],
+    "Ancash": [
+      "idx_prem_index_c1d9f50f",
+      "idx_prem_pe-anc_f623e75a",
+      "idx_prem_pe-anc_69691c7b",
+      "idx_prem_pe-anc_44c29edb",
+      "idx_prem_pe-anc_5dbc98dc"
+    ],
+    "Guam": [
+      "idx_prem_index_8f14e45f",
+      "idx_prem_index_45c48cce",
+      "idx_prem_index_92eb5ffe",
+      "idx_prem_index_6f8f5771",
+      "idx_prem_us-gu_3a3ea00c",
+      "idx_prem_us-gu_dfcf28d0",
+      "idx_prem_us-gu_c1d9f50f",
+      "idx_prem_us-gu_44c29edb"
+    ],
+    "Other": [
+      "idx_prem_final_iptv_geo_5dbc98dc",
+      "free_roku_66079e95",
+      "free_roku_094c6148",
+      "free_roku_bcbddfb6",
+      "free_roku_633adf10",
+      "free_roku_b87841d8",
+      "free_roku_e00df077"
+    ],
+    "BD IPTV": [
+      "idx_prem_final_iptv_geo_a87ff679"
+    ],
+    "Ityadi": [
+      "idx_prem_final_iptv_geo_ff44570a"
+    ],
+    "Bangla News": [
+      "idx_prem_final_iptv_geo_afea25ea",
+      "idx_prem_final_iptv_active_17aee008",
+      "idx_prem_final_iptv_active_82f9c8f1",
+      "idx_prem_final_iptv_active_e160dbb4",
+      "idx_prem_final_iptv_active_61642739",
+      "idx_prem_final_iptv_active_824ed888",
+      "idx_prem_final_iptv_active_c19ac39c",
+      "idx_prem_final_iptv_dead_682fea39",
+      "idx_prem_final_iptv_dead_29a6adee",
+      "idx_prem_final_iptv_dead_7369f066",
+      "idx_prem_final_iptv_dead_aeb47427"
+    ],
+    "INDIA (New)": [
+      "idx_prem_final_iptv_geo_ec3ee137",
+      "idx_prem_final_iptv_geo_53994e7b",
+      "idx_prem_final_iptv_geo_add1a8f2",
+      "idx_prem_final_iptv_geo_34cb96c9",
+      "idx_prem_final_iptv_geo_5862f345",
+      "idx_prem_final_iptv_geo_708c6b7e",
+      "idx_prem_final_iptv_geo_df01a6e4",
+      "idx_prem_final_iptv_geo_ef66c92b",
+      "idx_prem_final_iptv_geo_08a5d6e2",
+      "idx_prem_final_iptv_geo_b36436c1",
+      "idx_prem_final_iptv_geo_a1571820",
+      "idx_prem_final_iptv_geo_ab258f96",
+      "idx_prem_final_iptv_geo_262f5e83",
+      "idx_prem_final_iptv_geo_155eba33",
+      "idx_prem_final_iptv_geo_992920e4",
+      "idx_prem_final_iptv_geo_f2ebd117",
+      "idx_prem_final_iptv_geo_57eb3b89",
+      "idx_prem_final_iptv_geo_bac2d368",
+      "idx_prem_final_iptv_geo_32237299",
+      "idx_prem_final_iptv_geo_ca948c2a"
+    ],
+    "Shows \u0026 Series": [
+      "idx_prem_final_iptv_geo_197b64c0",
+      "idx_prem_final_iptv_geo_b70ccc62",
+      "idx_prem_final_iptv_geo_beeaaa34",
+      "idx_prem_final_iptv_geo_131ea26b",
+      "idx_prem_final_iptv_geo_0ef352c0",
+      "idx_prem_final_iptv_geo_9ce664a5",
+      "idx_prem_final_iptv_geo_ae0a7848",
+      "idx_prem_final_iptv_geo_f3327ce2",
+      "idx_prem_final_iptv_geo_a70973af",
+      "idx_prem_final_iptv_dead_9a2e68a5"
+    ],
+    "ShamimHossainOfficial": [
+      "idx_prem_final_iptv_geo_9d5ed678",
+      "idx_prem_final_iptv_geo_607bc9eb",
+      "idx_prem_final_iptv_geo_5206560a",
+      "idx_prem_final_iptv_geo_2291d2ec",
+      "idx_prem_final_iptv_geo_dc912a25",
+      "idx_prem_final_iptv_geo_eb2e9dff",
+      "idx_prem_final_iptv_geo_67ba02d7",
+      "idx_prem_final_iptv_geo_afb79a9b",
+      "idx_prem_final_iptv_geo_a1140a3d",
+      "idx_prem_final_iptv_geo_6bb56208",
+      "idx_prem_final_iptv_geo_f5aa4bd0",
+      "idx_prem_final_iptv_geo_a4e858c1",
+      "idx_prem_final_iptv_active_13d2b736",
+      "idx_prem_final_iptv_active_e94550c9",
+      "idx_prem_final_iptv_dead_3413ce14",
+      "idx_prem_final_iptv_dead_add5efc3",
+      "idx_prem_final_iptv_dead_185e48a4",
+      "idx_prem_final_iptv_dead_310614fc",
+      "idx_prem_final_iptv_dead_ac1ae6a5",
+      "idx_prem_final_iptv_dead_75c58d36"
+    ],
+    "INDIA | BENGALI": [
+      "idx_prem_final_iptv_geo_c81e728d"
+    ],
+    "URDU | PAKISTAN": [
+      "idx_prem_final_iptv_geo_c9f0f895"
+    ],
+    "Animation;General": [
+      "idx_prem_us_organized_final_061b2791"
+    ],
+    "Education;Legislative": [
+      "idx_prem_us_organized_final_58ab7a82"
+    ],
+    "WorldCup 2026": [
+      "idx_prem_dhanytv-ott_3b72b964",
+      "idx_prem_dhanytv-ott_828c86e2",
+      "idx_prem_dhanytv-ott_83a31b30",
+      "idx_prem_dhanytv-ott_6da46b23",
+      "idx_prem_dhanytv-ott_03c31e6b",
+      "idx_prem_dhanytv_53dc1737"
+    ],
+    "Indonesia Channels": [
+      "idx_prem_dhanytv-ott_798eacd5",
+      "idx_prem_dhanytv-ott_7eff06be",
+      "idx_prem_dhanytv-ott_e56f8411",
+      "idx_prem_dhanytv-ott_303d12f6",
+      "idx_prem_dhanytv-ott_6c3c0c5f",
+      "idx_prem_dhanytv-ott_910683e8",
+      "idx_prem_dhanytv-ott_d0a121c7",
+      "idx_prem_dhanytv-ott_04be90ae",
+      "idx_prem_dhanytv-ott_ea47c871",
+      "idx_prem_dhanytv-ott_b048432b",
+      "idx_prem_dhanytv_eaa1171e",
+      "idx_prem_dhanytv_766bdbd7",
+      "idx_prem_dhanytv_787c2854",
+      "idx_prem_dhanytv_ccc11a86",
+      "idx_prem_dhanytv_f0cbf5ce",
+      "idx_prem_dhanytv_6c80b2d1",
+      "idx_prem_dhanytv_a94b9f55",
+      "idx_prem_dhanytv_d1c217da",
+      "idx_prem_dhanytv_af635a0e",
+      "idx_prem_dhanytv_49c236c8"
+    ],
+    "Knowledge and Documentary": [
+      "idx_prem_dhanytv-ott_53c36756",
+      "idx_prem_dhanytv-ott_c5896522",
+      "idx_prem_dhanytv-ott_1530819b",
+      "idx_prem_dhanytv_c02c90de",
+      "idx_prem_dhanytv_0b7c4a8d",
+      "idx_prem_dhanytv_0a8fc7d5",
+      "idx_prem_dhanytv_6a739138",
+      "idx_prem_dhanytv_a1b93f10",
+      "idx_prem_dhanytv_7793485c",
+      "idx_prem_dhanytv_52d1df7f",
+      "idx_prem_dhanytv_1363e051",
+      "idx_prem_dhanytv_65607b42",
+      "idx_prem_dhanytv_17458a6d",
+      "idx_prem_dhanytv_2e02ba75"
+    ],
+    "Entertainment \u0026 LifeStyle": [
+      "idx_prem_dhanytv-ott_db2e7638",
+      "idx_prem_dhanytv_cc843ad3",
+      "idx_prem_dhanytv_9b410bea",
+      "idx_prem_dhanytv_a55311db",
+      "idx_prem_dhanytv_afb49991",
+      "idx_prem_dhanytv_b4d57487",
+      "idx_prem_dhanytv_9d605486",
+      "idx_prem_dhanytv_42fc317c",
+      "idx_prem_dhanytv_7dfbb732",
+      "idx_prem_dhanytv_cc5efb92",
+      "idx_prem_dhanytv_ab3228ea",
+      "idx_prem_dhanytv_7e25ec88",
+      "idx_prem_dhanytv_65060b11",
+      "idx_prem_dhanytv_84977c43"
+    ],
+    "Kids Channel": [
+      "idx_prem_dhanytv-ott_d73421fc",
+      "idx_prem_dhanytv-ott_9db380f8",
+      "idx_prem_dhanytv_6abef406",
+      "idx_prem_dhanytv_b8ddd8a4",
+      "idx_prem_dhanytv_385a152b",
+      "idx_prem_dhanytv_3b7c35cb",
+      "idx_prem_dhanytv_325706c3",
+      "idx_prem_dhanytv_426a78d4",
+      "idx_prem_dhanytv_910c71d4",
+      "idx_prem_dhanytv_6f38e0a0",
+      "idx_prem_dhanytv_b1621ed1",
+      "idx_prem_dhanytv_36213e31",
+      "idx_prem_dhanytv_cf44a1c6",
+      "idx_prem_dhanytv_2f12bdc2",
+      "idx_prem_dhanytv_ca3a6a52",
+      "idx_prem_dhanytv_6e91099c",
+      "idx_prem_dhanytv_9d21ded4",
+      "idx_prem_dhanytv_a9717f6f",
+      "idx_prem_dhanytv_d0a1b8ae",
+      "idx_prem_dhanytv_6bee7677"
+    ],
+    "Malaysia": [
+      "idx_prem_dhanytv-ott_aaa97254",
+      "idx_prem_dhanytv-ott_e1591bde",
+      "idx_prem_dhanytv-ott_060349bd",
+      "idx_prem_dhanytv-ott_addc8cd9",
+      "idx_prem_dhanytv-ott_84dc06c1",
+      "idx_prem_dhanytv-ott_e4cd93c9",
+      "idx_prem_dhanytv-ott_0136f9ff",
+      "idx_prem_dhanytv-ott_5d1afde2",
+      "idx_prem_dhanytv-ott_df45a51d",
+      "idx_prem_dhanytv-ott_6f50ca8e",
+      "idx_prem_dhanytv-ott_bae40102",
+      "idx_prem_dhanytv-ott_bfeca6f6",
+      "idx_prem_dhanytv-ott_e32b9d2e",
+      "idx_prem_dhanytv-ott_5dcfac60",
+      "idx_prem_dhanytv_ffb8e0f7",
+      "idx_prem_dhanytv_ea19b29c",
+      "idx_prem_dhanytv_e680d22b",
+      "idx_prem_dhanytv_1a1e67f4",
+      "idx_prem_dhanytv_f561aaf6",
+      "idx_prem_dhanytv_cb30e6f0"
+    ],
+    "Brunei": [
+      "idx_prem_dhanytv-ott_34d9c2ee",
+      "idx_prem_dhanytv-ott_8b13c476",
+      "idx_prem_dhanytv-ott_2fb23c09"
+    ],
+    "Local Channels": [
+      "idx_prem_dhanytv-ott_ca4c9fee",
+      "idx_prem_dhanytv-ott_e3642a11",
+      "idx_prem_dhanytv-ott_d25b4bf1",
+      "idx_prem_dhanytv-ott_d42dad10",
+      "idx_prem_dhanytv-ott_a6946203",
+      "idx_prem_dhanytv_3885957f",
+      "idx_prem_dhanytv_e9ed0751",
+      "idx_prem_dhanytv_3c89189c",
+      "idx_prem_dhanytv_bce556f7"
+    ],
+    "Internet Radio": [
+      "idx_prem_dhanytv-ott_faf97db4",
+      "idx_prem_dhanytv-ott_2ca8224b",
+      "idx_prem_dhanytv-ott_a6e2c938",
+      "idx_prem_dhanytv-ott_df85a2d6",
+      "idx_prem_dhanytv-ott_810cdedf",
+      "idx_prem_dhanytv-ott_b1940e9b",
+      "idx_prem_dhanytv-ott_51ed29ba",
+      "idx_prem_dhanytv-ott_48d45379",
+      "idx_prem_dhanytv-ott_4f41381c",
+      "idx_prem_dhanytv-ott_72779525",
+      "idx_prem_dhanytv-ott_c0ba24e4",
+      "idx_prem_dhanytv-ott_cb7b0b0f",
+      "idx_prem_dhanytv-ott_25eb3806",
+      "idx_prem_dhanytv-ott_11ef2e21",
+      "idx_prem_dhanytv-ott_bea0bff6",
+      "idx_prem_dhanytv-ott_98d24a00"
+    ],
+    "NASIONAL": [
+      "idx_prem_dhanytv-ott_cdeff5b4",
+      "idx_prem_dhanytv-ott_d889da8c",
+      "idx_prem_dhanytv-ott_ad21b614",
+      "idx_prem_dhanytv-ott_0f0d7528",
+      "idx_prem_dhanytv-ott_95681725",
+      "idx_prem_dhanytv-ott_2ab62850",
+      "idx_prem_dhanytv-ott_8b33d2f1",
+      "idx_prem_dhanytv-ott_41d15d37",
+      "idx_prem_dhanytv-ott_004a2ad9",
+      "idx_prem_dhanytv_00bb1701",
+      "idx_prem_dhanytv_2a5a0702",
+      "idx_prem_dhanytv_68fbd250",
+      "idx_prem_dhanytv_93384dcb"
+    ],
+    "Nasional": [
+      "idx_prem_dhanytv-ott_215bfe34",
+      "idx_prem_dhanytv_3b5455c0",
+      "idx_prem_dhanytv_808d8f3d"
+    ],
+    "Sports Indo": [
+      "idx_prem_dhanytv-ott_4e8a0f5e",
+      "idx_prem_dhanytv_38160708"
+    ],
+    "BEIN SPORTS": [
+      "idx_prem_dhanytv-ott_929b159e",
+      "idx_prem_dhanytv-ott_c840414f",
+      "idx_prem_dhanytv-ott_a01e01dd",
+      "idx_prem_dhanytv-ott_d49679d0",
+      "idx_prem_dhanytv-ott_db127df6",
+      "idx_prem_dhanytv-ott_27c0c97e",
+      "idx_prem_dhanytv-ott_83d6f6fe",
+      "idx_prem_dhanytv-ott_9b242e9c",
+      "idx_prem_dhanytv-ott_b5a810e0",
+      "idx_prem_dhanytv-ott_8b1a3e03",
+      "idx_prem_dhanytv-ott_483cadd6",
+      "idx_prem_dhanytv-ott_6b9decc1",
+      "idx_prem_dhanytv-ott_36f9d6da",
+      "idx_prem_dhanytv-ott_f54cb7b8",
+      "idx_prem_dhanytv-ott_3ad8d8c4",
+      "idx_prem_dhanytv-ott_29353d8e",
+      "idx_prem_dhanytv-ott_b3f01df8",
+      "idx_prem_dhanytv-ott_1a352008",
+      "idx_prem_dhanytv-ott_97cf369a",
+      "idx_prem_dhanytv-ott_3ef6fb0b"
+    ],
+    "TV Malaysia": [
+      "idx_prem_dhanytv-ott_a5326428",
+      "idx_prem_dhanytv-ott_27065f7e",
+      "idx_prem_dhanytv_dba08c49",
+      "idx_prem_dhanytv_b82b674f",
+      "idx_prem_dhanytv_7b3cb7ba",
+      "idx_prem_dhanytv_12c02a09",
+      "idx_prem_dhanytv_2012b0cb",
+      "idx_prem_dhanytv_8cebc0e4",
+      "idx_prem_dhanytv_def55c79"
+    ],
+    "TV JEPANG": [
+      "idx_prem_dhanytv-ott_a32e32ea",
+      "idx_prem_dhanytv-ott_82bfb6b4",
+      "idx_prem_dhanytv-ott_29a11afe",
+      "idx_prem_dhanytv-ott_0c0cc588",
+      "idx_prem_dhanytv-ott_67e94b0c",
+      "idx_prem_dhanytv-ott_fb40f245",
+      "idx_prem_dhanytv-ott_47f33f54",
+      "idx_prem_dhanytv-ott_66b870db",
+      "idx_prem_dhanytv-ott_ff58b5c4",
+      "idx_prem_dhanytv-ott_93fd7b9e",
+      "idx_prem_dhanytv-ott_b2513c3b",
+      "idx_prem_dhanytv-ott_fee06557",
+      "idx_prem_dhanytv-ott_0b135af9",
+      "idx_prem_dhanytv-ott_c11cfa6d",
+      "idx_prem_dhanytv-ott_db94e7d5",
+      "idx_prem_dhanytv-ott_3b3228d0",
+      "idx_prem_dhanytv-ott_21725418",
+      "idx_prem_dhanytv-ott_cc672ccd",
+      "idx_prem_dhanytv-ott_2e18fe57",
+      "idx_prem_dhanytv-ott_a93f0d66"
+    ],
+    "HBO GROUP": [
+      "idx_prem_dhanytv-ott_5d1be373",
+      "idx_prem_dhanytv-ott_90de8145",
+      "idx_prem_dhanytv-ott_0e3aab3c",
+      "idx_prem_dhanytv-ott_0b25bdd2",
+      "idx_prem_dhanytv_21d28916",
+      "idx_prem_dhanytv_75aa4ba2",
+      "idx_prem_dhanytv_f4affdd5",
+      "idx_prem_dhanytv_3cc0a05e",
+      "idx_prem_dhanytv_e772abf5"
+    ],
+    "MOVIES \u0026 ENTERTAINMENT": [
+      "idx_prem_dhanytv-ott_fa915f60",
+      "idx_prem_dhanytv-ott_7f37e1a5",
+      "idx_prem_dhanytv-ott_7f3f5a3f",
+      "idx_prem_dhanytv-ott_c00b5606",
+      "idx_prem_dhanytv-ott_23157d05",
+      "idx_prem_dhanytv-ott_ee16b061",
+      "idx_prem_dhanytv-ott_9826aba6",
+      "idx_prem_dhanytv-ott_d94ca6b2",
+      "idx_prem_dhanytv-ott_1560ac55",
+      "idx_prem_dhanytv-ott_6508ec04",
+      "idx_prem_dhanytv-ott_ebe7ba15",
+      "idx_prem_dhanytv-ott_eedb81f2",
+      "idx_prem_dhanytv-ott_e92e22e5",
+      "idx_prem_dhanytv-ott_feda6488",
+      "idx_prem_dhanytv-ott_b1101095",
+      "idx_prem_dhanytv-ott_97a5dd24",
+      "idx_prem_dhanytv-ott_a1d5b174",
+      "idx_prem_dhanytv-ott_d2ea87c9",
+      "idx_prem_dhanytv-ott_b85be677",
+      "idx_prem_dhanytv-ott_9a1c0374"
+    ],
+    "VOD INDO": [
+      "idx_prem_dhanytv-ott_92a1f58d",
+      "idx_prem_dhanytv-ott_0d87ff1e",
+      "idx_prem_dhanytv-ott_266db047",
+      "idx_prem_dhanytv-ott_1da9e904",
+      "idx_prem_dhanytv-ott_751bcd7b",
+      "idx_prem_dhanytv-ott_80c25858",
+      "idx_prem_dhanytv-ott_d488b47c",
+      "idx_prem_dhanytv-ott_91459168",
+      "idx_prem_dhanytv-ott_f8607a04",
+      "idx_prem_dhanytv-ott_cf6fbd83",
+      "idx_prem_dhanytv-ott_67666394",
+      "idx_prem_dhanytv-ott_e9d2f4a3",
+      "idx_prem_dhanytv-ott_4592485a",
+      "idx_prem_dhanytv-ott_1677744a",
+      "idx_prem_dhanytv-ott_25f60c46",
+      "idx_prem_dhanytv-ott_7d0075a3",
+      "idx_prem_dhanytv-ott_571bcc03",
+      "idx_prem_dhanytv-ott_6017af42",
+      "idx_prem_dhanytv-ott_5a002546",
+      "idx_prem_dhanytv-ott_530d682f"
+    ],
+    "Welcome to PlayZ TV | New App": [
+      "idx_prem_final_iptv_active_61e9c06e"
+    ],
+    "Cricket": [
+      "idx_prem_final_iptv_active_d20caec3",
+      "idx_prem_test_5dbc98dc"
+    ],
+    "NEWS INTERNASIONAL": [
+      "idx_prem_final_iptv_active_dfcf28d0"
+    ],
+    "Hindi Dabbing Movies": [
+      "idx_prem_final_iptv_active_ff44570a"
+    ],
+    "International News": [
+      "idx_prem_final_iptv_active_014ff564",
+      "idx_prem_final_iptv_active_b64cb1f9",
+      "idx_prem_final_iptv_active_fd616d51",
+      "idx_prem_final_iptv_active_16fe3871",
+      "idx_prem_final_iptv_active_5c2f5c93",
+      "idx_prem_final_iptv_active_cdad3cbc",
+      "idx_prem_final_iptv_active_6d5134d3",
+      "idx_prem_final_iptv_active_196b140e",
+      "idx_prem_final_iptv_active_aa11677d",
+      "idx_prem_final_iptv_active_19f8ac02",
+      "idx_prem_final_iptv_active_33a8be54",
+      "idx_prem_final_iptv_active_d528a8a5",
+      "idx_prem_final_iptv_active_85bf2e3e",
+      "idx_prem_final_iptv_active_6970ccdd",
+      "idx_prem_final_iptv_active_8eb81410",
+      "idx_prem_test_4b08635a",
+      "idx_prem_smartplay_4572d204",
+      "idx_prem_smartplay_357a6fdf",
+      "idx_prem_smartplay_4f4adcbf",
+      "idx_prem_smartplay_053da6a2"
+    ],
+    "Pakistan": [
+      "idx_prem_final_iptv_active_f8d2c3f9",
+      "idx_prem_final_iptv_active_3c5e4aa7",
+      "idx_prem_final_iptv_active_2bea964a",
+      "idx_prem_final_iptv_active_e5d9bb3b",
+      "idx_prem_final_iptv_active_f601cbd4",
+      "idx_prem_final_iptv_active_e7fc04b7"
+    ],
+    "Educational": [
+      "idx_prem_final_iptv_active_e7dea707",
+      "idx_prem_final_iptv_active_3a3680ec",
+      "idx_prem_final_iptv_active_3721e047",
+      "idx_prem_final_iptv_active_979778c2",
+      "idx_prem_final_iptv_active_f355ea07",
+      "idx_prem_final_iptv_active_72c58f14",
+      "idx_prem_final_iptv_active_32530963",
+      "idx_prem_final_iptv_active_93de08ac",
+      "idx_prem_final_iptv_active_c231fa48",
+      "idx_prem_final_iptv_active_4f9e3755",
+      "idx_prem_final_iptv_active_5a1de565",
+      "idx_prem_final_iptv_active_99816059",
+      "idx_prem_final_iptv_active_2838d50d",
+      "idx_prem_final_iptv_active_4bedbc36",
+      "idx_prem_final_iptv_active_93681978",
+      "idx_prem_final_iptv_active_8e88ab3a",
+      "idx_prem_final_iptv_active_2d0fb43d",
+      "idx_prem_final_iptv_active_80f851f6",
+      "idx_prem_final_iptv_active_fa641e1f",
+      "idx_prem_final_iptv_active_46cf1682"
+    ],
+    "Movies - Bangla": [
+      "idx_prem_final_iptv_active_cae3f693",
+      "idx_prem_final_iptv_active_940fe716",
+      "idx_prem_final_iptv_active_f56a646b",
+      "idx_prem_final_iptv_active_f616f36d",
+      "idx_prem_final_iptv_active_eac74be4",
+      "idx_prem_final_iptv_active_d538086e",
+      "idx_prem_final_iptv_active_a46687c2",
+      "idx_prem_final_iptv_active_d35761f1",
+      "idx_prem_final_iptv_active_49115fd2",
+      "idx_prem_final_iptv_active_b5e5123f",
+      "idx_prem_final_iptv_active_b3bc22c2",
+      "idx_prem_final_iptv_active_8838274d",
+      "idx_prem_final_iptv_active_f4e2060d",
+      "idx_prem_final_iptv_active_d56222ed",
+      "idx_prem_final_iptv_active_89789c45",
+      "idx_prem_final_iptv_active_479e58d9",
+      "idx_prem_final_iptv_active_a0155253",
+      "idx_prem_final_iptv_active_d5fc2fe6",
+      "idx_prem_final_iptv_active_3a0c09ea",
+      "idx_prem_final_iptv_active_4221edde"
+    ],
+    "Movies - English": [
+      "idx_prem_final_iptv_active_2b0e40a5",
+      "idx_prem_final_iptv_active_d345ee76",
+      "idx_prem_final_iptv_active_6508ad66",
+      "idx_prem_final_iptv_active_255e0524",
+      "idx_prem_final_iptv_active_0fed85d4",
+      "idx_prem_final_iptv_active_a50bd2a8",
+      "idx_prem_final_iptv_active_82f231e9",
+      "idx_prem_final_iptv_active_ba0b167e",
+      "idx_prem_final_iptv_active_3e06fa39",
+      "idx_prem_final_iptv_active_6ee9b052",
+      "idx_prem_final_iptv_active_7a9e9916",
+      "idx_prem_final_iptv_active_9768690c",
+      "idx_prem_final_iptv_active_4ca5ec03",
+      "idx_prem_final_iptv_active_53bf9cbf",
+      "idx_prem_final_iptv_active_7f41e1be",
+      "idx_prem_final_iptv_active_4b6aeef0",
+      "idx_prem_final_iptv_active_8f722724",
+      "idx_prem_final_iptv_active_7233ba5b",
+      "idx_prem_final_iptv_active_ce3bce3c",
+      "idx_prem_final_iptv_active_4d116105"
+    ],
+    "Movies - Hindi": [
+      "idx_prem_final_iptv_active_5291945b",
+      "idx_prem_final_iptv_active_18976eef",
+      "idx_prem_final_iptv_active_b53b3a3d",
+      "idx_prem_final_iptv_active_5f3e1609",
+      "idx_prem_final_iptv_active_b33d70da",
+      "idx_prem_final_iptv_active_ab21982f",
+      "idx_prem_final_iptv_active_08d9b235",
+      "idx_prem_final_iptv_active_f114c0ef",
+      "idx_prem_final_iptv_active_c7361c32",
+      "idx_prem_final_iptv_active_5ce921df",
+      "idx_prem_final_iptv_active_5112de7f",
+      "idx_prem_final_iptv_active_0b089b91",
+      "idx_prem_final_iptv_active_7a07f294",
+      "idx_prem_final_iptv_active_e5c0f16b",
+      "idx_prem_final_iptv_active_7d2ab45f",
+      "idx_prem_final_iptv_active_5c337d75",
+      "idx_prem_final_iptv_active_da61e0e2",
+      "idx_prem_final_iptv_active_a2edc8b7",
+      "idx_prem_final_iptv_active_cbd97760",
+      "idx_prem_final_iptv_active_0ff3aba3"
+    ],
+    "Movies - Hindi Dubbed": [
+      "idx_prem_final_iptv_active_4ff57da9",
+      "idx_prem_final_iptv_active_af67fdbf",
+      "idx_prem_final_iptv_active_501b91a2",
+      "idx_prem_final_iptv_active_51092bd5",
+      "idx_prem_final_iptv_active_4547f886",
+      "idx_prem_final_iptv_active_a78578c4",
+      "idx_prem_final_iptv_active_843abd78",
+      "idx_prem_final_iptv_active_2fc23b1a",
+      "idx_prem_final_iptv_active_e02b34fa",
+      "idx_prem_final_iptv_active_62417048",
+      "idx_prem_final_iptv_active_5b034f8b",
+      "idx_prem_final_iptv_active_c8961196",
+      "idx_prem_final_iptv_active_da4f0202",
+      "idx_prem_final_iptv_active_53c99675",
+      "idx_prem_final_iptv_active_bb9f8566",
+      "idx_prem_final_iptv_active_4eb5aa23",
+      "idx_prem_final_iptv_active_72c94d31",
+      "idx_prem_final_iptv_active_98ff046d",
+      "idx_prem_final_iptv_active_3879d81c",
+      "idx_prem_final_iptv_active_b382588d"
+    ],
+    "Movies - Other": [
+      "idx_prem_final_iptv_active_eb43ec8a",
+      "idx_prem_final_iptv_active_c576efb2",
+      "idx_prem_final_iptv_active_cac8820c",
+      "idx_prem_final_iptv_active_0f2b550c",
+      "idx_prem_final_iptv_active_4ac8fd5c",
+      "idx_prem_final_iptv_active_72b53db6",
+      "idx_prem_final_iptv_active_7ae69769",
+      "idx_prem_final_iptv_active_5e9333e1",
+      "idx_prem_final_iptv_active_16104904",
+      "idx_prem_final_iptv_active_0249c6de",
+      "idx_prem_final_iptv_active_6db5f8c8",
+      "idx_prem_final_iptv_active_0739fa02",
+      "idx_prem_final_iptv_active_d75954c0",
+      "idx_prem_final_iptv_active_9df319cb",
+      "idx_prem_final_iptv_active_e5426e0c",
+      "idx_prem_final_iptv_active_e12a5531",
+      "idx_prem_final_iptv_active_e31010d0",
+      "idx_prem_final_iptv_active_c1a94761",
+      "idx_prem_final_iptv_active_d0fa396e",
+      "idx_prem_final_iptv_active_7970df52"
+    ],
+    "Akash Go": [
+      "idx_prem_final_iptv_dead_9d5ed678",
+      "idx_prem_test_3a3ea00c"
+    ],
+    "Infotainment": [
+      "idx_prem_final_iptv_dead_b030c743",
+      "idx_prem_final_iptv_dead_b6730874",
+      "idx_prem_final_iptv_dead_a3270a8f",
+      "idx_prem_final_iptv_dead_cd970990",
+      "idx_prem_final_iptv_dead_2624acaf",
+      "idx_prem_final_iptv_dead_a5bb0f0a",
+      "idx_prem_nelen_d2382835",
+      "idx_prem_nelen_3d43cb02",
+      "idx_prem_maxdigitaltv_da2615a6",
+      "idx_prem_maxdigitaltv_3c22b36e",
+      "idx_prem_maxdigitaltv_9f61408e",
+      "idx_prem_maxdigitaltv_a52168f7",
+      "idx_prem_maxdigitaltv_97075b09",
+      "idx_prem_maxdigitaltv_4a7ad6a4",
+      "idx_prem_maxdigitaltv_e064715d",
+      "idx_prem_maxdigitaltv_14bfa6bb",
+      "idx_prem_maxdigitaltv_6868e581",
+      "idx_prem_maxdigitaltv_c858bc98"
+    ],
+    "বাংলাদেশ": [
+      "idx_prem_final_iptv_dead_c22bfa35"
+    ],
+    "INDIA বাংলা": [
+      "idx_prem_final_iptv_dead_93b2a315",
+      "idx_prem_final_iptv_dead_6992157b",
+      "idx_prem_final_iptv_dead_e83b4481",
+      "idx_prem_final_iptv_dead_cc165956"
+    ],
+    "World_Cup": [
+      "idx_prem_final_iptv_dead_865c0c0b"
+    ],
+    "Unknown": [
+      "idx_prem_test_9d5ed678",
+      "idx_prem_test_b9ece18c",
+      "idx_prem_test_69691c7b"
+    ],
+    "ISLAMIC CHANNELS": [
+      "idx_prem_test_7fc56270"
+    ],
+    "Hindi Music": [
+      "idx_prem_test_c1d9f50f"
+    ],
+    "HBO Group": [
+      "idx_prem_dhanytv_816b112c",
+      "idx_prem_dhanytv_69cb3ea3",
+      "idx_prem_dhanytv_bbf94b34",
+      "idx_prem_dhanytv_bbcbff5c"
+    ],
+    "Premium Movies": [
+      "idx_prem_dhanytv_40dcc1d9",
+      "idx_prem_dhanytv_492798b8",
+      "idx_prem_dhanytv_5bd40583",
+      "idx_prem_dhanytv_72f3b109",
+      "idx_prem_dhanytv_2278cc6e",
+      "idx_prem_dhanytv_57d09b20",
+      "idx_prem_dhanytv_be83e22c",
+      "idx_prem_dhanytv_7acad9e7",
+      "idx_prem_dhanytv_f71eb1ca",
+      "idx_prem_dhanytv_3c87510d",
+      "idx_prem_dhanytv_994dc0cd",
+      "idx_prem_dhanytv_765ce81f",
+      "idx_prem_dhanytv_a5f799ea",
+      "idx_prem_dhanytv_93d109a4",
+      "idx_prem_dhanytv_cdb34974",
+      "idx_prem_dhanytv_1ca01db9",
+      "idx_prem_dhanytv_40df28bf",
+      "idx_prem_dhanytv_a2596c5d",
+      "idx_prem_dhanytv_1f592570",
+      "idx_prem_dhanytv_9fd3e963"
+    ],
+    "Korean Channels": [
+      "idx_prem_dhanytv_3a4566a1",
+      "idx_prem_dhanytv_ccc1cb6b",
+      "idx_prem_dhanytv_702a30ad",
+      "idx_prem_dhanytv_8d27f5b3"
+    ],
+    "Indonesian Entertainment \u0026 Movies": [
+      "idx_prem_dhanytv_50fdb581",
+      "idx_prem_dhanytv_5adba48b",
+      "idx_prem_dhanytv_ffaa7bfc",
+      "idx_prem_dhanytv_b1319bb1",
+      "idx_prem_dhanytv_3446941e",
+      "idx_prem_dhanytv_c1efe236"
+    ],
+    "Christian Channels": [
+      "idx_prem_dhanytv_4993368c",
+      "idx_prem_dhanytv_8369015c",
+      "idx_prem_dhanytv_40dbd246"
+    ],
+    "Mediacorp Singapore": [
+      "idx_prem_dhanytv_a0aa2a55",
+      "idx_prem_dhanytv_b3b192e6",
+      "idx_prem_dhanytv_728faa48"
+    ],
+    "Moslem Channel": [
+      "idx_prem_dhanytv_086b3820",
+      "idx_prem_dhanytv_e204baed",
+      "idx_prem_dhanytv_c68615e6",
+      "idx_prem_dhanytv_cac931cb",
+      "idx_prem_dhanytv_3a054037"
+    ],
+    "FIFA World Cup 2026": [
+      "idx_prem_worldcup-2026-ae-placeholder_5bbe9df9"
+    ],
+    "All": [
+      "idx_prem_src_90_b9ece18c",
+      "idx_prem_src_90_ff44570a",
+      "idx_prem_src_90_44c29edb",
+      "idx_prem_src_90_8d9c307c",
+      "idx_prem_src_90_3a3ea00c",
+      "idx_prem_src_90_9d5ed678",
+      "idx_prem_src_90_0d61f837",
+      "idx_prem_src_90_4c614360",
+      "idx_prem_src_90_f623e75a"
+    ],
+    "Unsorted": [
+      "idx_prem_src_90_21c2e595"
+    ],
+    "更新时间": [
+      "idx_prem_live_lite_c81e728d"
+    ],
+    "央视频道": [
+      "idx_prem_live_lite_0d61f837"
+    ],
+    "港澳台": [
+      "idx_prem_live_lite_b9ece18c",
+      "idx_prem_live_lite_5206560a"
+    ],
+    "电影": [
+      "idx_prem_live_lite_0cc175b9",
+      "idx_prem_live_lite_c4ca4238"
+    ],
+    "体育频道": [
+      "idx_prem_live_lite_3a3ea00c"
+    ],
+    "列表更新时间": [
+      "idx_prem_live_platforms_c81e728d"
+    ],
+    "4K频道": [
+      "idx_prem_live_platforms_a87ff679"
+    ],
+    "国际台": [
+      "idx_prem_live_9d5ed678",
+      "idx_prem_live_80061894"
+    ],
+    "纪录片": [
+      "idx_prem_live_f623e75a",
+      "idx_prem_live_8d9c307c"
+    ],
+    "MTV": [
+      "idx_prem_live_e4da3b7f",
+      "idx_prem_live_8f14e45f",
+      "idx_prem_live_8277e091"
+    ],
+    "Montenegro": [
+      "idx_prem_playlist_montenegro8_9fc50685",
+      "idx_prem_playlist_montenegro8_db686ed8",
+      "idx_prem_playlist_montenegro8_ca94ab24",
+      "idx_prem_playlist_montenegro8_d3c0637d"
+    ],
+    "Anguilla": [
+      "idx_prem_ai_9d5ed678"
+    ],
+    "Mendoza": [
+      "idx_prem_ar-m_f623e75a"
+    ],
+    "American Samoa": [
+      "idx_prem_as_9d5ed678"
+    ],
+    "Burundi": [
+      "idx_prem_bi_e1e1d3d4"
+    ],
+    "Bermuda": [
+      "idx_prem_bm_0d61f837"
+    ],
+    "Saint Barthélemy": [
+      "idx_prem_bl_b9ece18c"
+    ],
+    "Alagoas": [
+      "idx_prem_br-al_b9ece18c"
+    ],
+    "Goias": [
+      "idx_prem_br-go_44c29edb",
+      "idx_prem_br-go_4c614360"
+    ],
+    "Bhutan": [
+      "idx_prem_bt_8d9c307c"
+    ],
+    "Botswana": [
+      "idx_prem_bw_9d5ed678",
+      "idx_prem_bw_57cec413"
+    ],
+    "Nova Scotia": [
+      "idx_prem_ca-ns_f623e75a",
+      "idx_prem_ca-ns_80061894",
+      "idx_prem_ca-ns_d20caec3",
+      "idx_prem_ca-ns_8d9c307c",
+      "idx_prem_ca-ns_f09564c9",
+      "idx_prem_ca-ns_61e9c06e"
+    ],
+    "Brazzaville": [
+      "idx_prem_cg-bzv_9d5ed678",
+      "idx_prem_cg-bzv_69691c7b"
+    ],
+    "Antioquia": [
+      "idx_prem_co-ant_b9ece18c"
+    ],
+    "Atlantico": [
+      "idx_prem_co-atl_0d61f837"
+    ],
+    "Caldas": [
+      "idx_prem_co-cal_5dbc98dc"
+    ],
+    "Norte de Santander": [
+      "idx_prem_co-nsa_7fc56270"
+    ],
+    "Djibouti": [
+      "idx_prem_dj_9d5ed678",
+      "idx_prem_dj_f623e75a",
+      "idx_prem_dj_69691c7b",
+      "idx_prem_dj_e1e1d3d4"
+    ],
+    "Ceuta": [
+      "idx_prem_es-ce_c81e728d",
+      "idx_prem_es-ce_3a3ea00c",
+      "idx_prem_es-ce_a5f3c6a1",
+      "idx_prem_es-ce_5dbc98dc",
+      "idx_prem_es-ce_21c2e595"
+    ],
+    "Wales": [
+      "idx_prem_gb-wls_9d5ed678"
+    ],
+    "Gabon": [
+      "idx_prem_ga_dfcf28d0"
+    ],
+    "Sacatepequez": [
+      "idx_prem_gt-03_7fc56270"
+    ],
+    "Tehran": [
+      "idx_prem_ir-23_7fc56270",
+      "idx_prem_ir-23_f623e75a",
+      "idx_prem_ir-23_80061894",
+      "idx_prem_ir-23_c1d9f50f",
+      "idx_prem_ir-23_ff44570a",
+      "idx_prem_ir-23_8d9c307c",
+      "idx_prem_ir-23_f1862177",
+      "idx_prem_ir-23_44c29edb",
+      "idx_prem_ir-23_f09564c9",
+      "idx_prem_ir-23_5dbc98dc",
+      "idx_prem_ir-23_57cec413",
+      "idx_prem_ir-23_21c2e595"
+    ],
+    "Tochigi": [
+      "idx_prem_jp-09_ff44570a"
+    ],
+    "Tokyo": [
+      "idx_prem_jp-13_ff44570a"
+    ],
+    "Osaka": [
+      "idx_prem_jp-27_8d9c307c"
+    ],
+    "Busan-gwangyeoksi": [
+      "idx_prem_kr-26_a5f3c6a1",
+      "idx_prem_kr-26_69691c7b"
+    ],
+    "Liberia": [
+      "idx_prem_lr_d20caec3"
+    ],
+    "Malawi": [
+      "idx_prem_mw_8d9c307c"
+    ],
+    "Ciudad de Mexico": [
+      "idx_prem_mx-cmx_7fc56270"
+    ],
+    "Ulcinj": [
+      "idx_prem_me-20_0d61f837",
+      "idx_prem_me-20_c1d9f50f",
+      "idx_prem_me-20_69691c7b"
+    ],
+    "Arequipa": [
+      "idx_prem_pe-are_7fc56270"
+    ],
+    "Loreto": [
+      "idx_prem_pe-lor_8d9c307c"
+    ],
+    "Moquegua": [
+      "idx_prem_pe-moq_b9ece18c"
+    ],
+    "Presidente Hayes": [
+      "idx_prem_py-15_69691c7b"
+    ],
+    "Gorj": [
+      "idx_prem_ro-gj_0d61f837",
+      "idx_prem_ro-gj_f09564c9"
+    ],
+    "Swaziland": [
+      "idx_prem_sz_b9ece18c"
+    ],
+    "East Timor": [
+      "idx_prem_tl_b9ece18c"
+    ],
+    "Idaho": [
+      "idx_prem_us-id_7fc56270"
+    ],
+    "Maine": [
+      "idx_prem_us-me_7fc56270"
+    ],
+    "Montana": [
+      "idx_prem_us-mt_0d61f837",
+      "idx_prem_us-mt_8d9c307c"
+    ],
+    "U.S. Virgin Islands": [
+      "idx_prem_vi_61e9c06e"
+    ],
+    "Zambia": [
+      "idx_prem_zm_0d61f837",
+      "idx_prem_zm_a5f3c6a1",
+      "idx_prem_zm_69691c7b",
+      "idx_prem_zm_44c29edb",
+      "idx_prem_zm_f09564c9",
+      "idx_prem_zm_e1e1d3d4",
+      "idx_prem_zm_5dbc98dc",
+      "idx_prem_zm_21c2e595"
+    ],
+    "央视": [
+      "idx_prem_webview_0d61f837"
+    ],
+    "Services": [
+      "idx_prem_dishd2h_5dbc98dc",
+      "idx_prem_dishd2h_a5f3c6a1"
+    ],
+    "Knowledge": [
+      "idx_prem_dishd2h_3a3ea00c"
+    ],
+    "Marathi": [
+      "idx_prem_dishd2h_80061894"
+    ],
+    "Devotional": [
+      "idx_prem_ekamraott_5dbc98dc",
+      "idx_prem_maxdigitaltv_418bba70",
+      "idx_prem_maxdigitaltv_b38d5524",
+      "idx_prem_maxdigitaltv_be54c7f7",
+      "idx_prem_maxdigitaltv_799dc6a8",
+      "idx_prem_maxdigitaltv_e8c0653f"
+    ],
+    "Radio": [
+      "idx_prem_elektamedia_81261525",
+      "idx_prem_elektamedia_c0c48500",
+      "idx_prem_elektamedia_941311be",
+      "idx_prem_elektamedia_8d95223b",
+      "idx_prem_elektamedia_6f3791de",
+      "radio_042d3140-227c-4fac-9387-4903b692d5f2",
+      "radio_d1a54d2e-623e-4970-ab11-35f7b56c5ec3",
+      "radio_1cfb151d-a341-11e9-a787-52543be04c81",
+      "radio_7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d",
+      "radio_dfcef843-6bf9-40f6-b3fe-2b224df86e48",
+      "radio_9f756e2d-8e9b-45f5-8fc1-61573e23036b",
+      "radio_33960c43-0464-44b4-abfa-73591ebf647f",
+      "radio_98adecf7-2683-4408-9be7-02d3f9098eb8",
+      "radio_9617a958-0601-11e8-ae97-52543be04c81",
+      "radio_78012206-1aa1-11e9-a80b-52543be04c81",
+      "radio_da5f481e-f7d6-49b3-b213-514027740d39",
+      "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
+      "radio_1c3e8be2-5b14-4933-bad3-87cbc227cba4",
+      "radio_d28420a4-eccf-47a2-ace1-088c7e7cb7e0",
+      "radio_2dffb353-5341-4438-b67b-83de8c3efbab"
+    ],
+    "Entretenimiento": [
+      "idx_prem_elektamedia_a0adbb20",
+      "idx_prem_elektamedia_29b4a7c3",
+      "idx_prem_elektamedia_f446e6c9",
+      "idx_prem_elektamedia_34815ce9",
+      "idx_prem_elektamedia_109035ab",
+      "idx_prem_elektamedia_ca8ae985",
+      "idx_prem_elektamedia_3b2341d7",
+      "idx_prem_elektamedia_04d3cb12",
+      "idx_prem_elektamedia_251d7388",
+      "idx_prem_elektamedia_8fa12646",
+      "idx_prem_elektamedia_989057f8",
+      "idx_prem_elektamedia_d05ff0aa",
+      "idx_prem_elektamedia_6fb2fb1b"
+    ],
+    "Retro": [
+      "idx_prem_elektamedia_7787f2fd",
+      "idx_prem_elektamedia_71877aac"
+    ],
+    "Regional": [
+      "idx_prem_elektamedia_d1359236",
+      "idx_prem_elektamedia_7d7b16c8",
+      "idx_prem_elektamedia_378933b2",
+      "idx_prem_elektamedia_753cd1be",
+      "idx_prem_elektamedia_f934bf3e",
+      "idx_prem_elektamedia_0d8e05c1",
+      "idx_prem_elektamedia_345ecfe2",
+      "idx_prem_elektamedia_7ed7abab",
+      "idx_prem_elektamedia_670ff887",
+      "idx_prem_elektamedia_2d12e2d6",
+      "idx_prem_elektamedia_91bd5b9a",
+      "idx_prem_elektamedia_8a7b5986"
+    ],
+    "Deportes": [
+      "idx_prem_elektamedia_61edc4be"
+    ],
+    "Musical": [
+      "idx_prem_elektamedia_b5e8a489",
+      "idx_prem_elektamedia_bf871511"
+    ],
+    "Cultural": [
+      "idx_prem_elektamedia_e3f94b4f"
+    ],
+    "Internacional": [
+      "idx_prem_elektamedia_355ec040",
+      "idx_prem_elektamedia_fd064a35"
+    ],
+    "Educativo": [
+      "idx_prem_elektamedia_22959de3",
+      "idx_prem_elektamedia_3afc1dab"
+    ],
+    "Malayalam Entertainment": [
+      "idx_prem_nelen_47f64e75",
+      "idx_prem_nelen_46ca21db",
+      "idx_prem_nelen_c66f374e",
+      "idx_prem_nelen_ca6ed218",
+      "idx_prem_nelen_b45311f6"
+    ],
+    "Hindi Entertainment": [
+      "idx_prem_nelen_1b508883",
+      "idx_prem_nelen_a5aef535",
+      "idx_prem_smartplay_84d9ee44",
+      "idx_prem_smartplay_13fe9d84",
+      "idx_prem_smartplay_bf5a2d4f",
+      "idx_prem_smartplay_c86a7ee3",
+      "idx_prem_smartplay_ef575e88",
+      "idx_prem_smartplay_e45046aa"
+    ],
+    "Telugu Local": [
+      "idx_prem_nelen_e58bdc60",
+      "idx_prem_nelen_62baf762",
+      "idx_prem_nelen_5a6ce3e5",
+      "idx_prem_nelen_83c5e875",
+      "idx_prem_nelen_0378944a",
+      "idx_prem_smartplay_ef2b2dc3",
+      "idx_prem_smartplay_d67d8ab4",
+      "idx_prem_smartplay_80c13fb3",
+      "idx_prem_smartplay_b919241a",
+      "idx_prem_smartplay_28c2dcd5",
+      "idx_prem_smartplay_4339d501",
+      "idx_prem_smartplay_652c5a67",
+      "idx_prem_smartplay_7069b233",
+      "idx_prem_smartplay_427ac083",
+      "idx_prem_smartplay_93d2dbab",
+      "idx_prem_smartplay_7ee5dacb",
+      "idx_prem_smartplay_c654d828",
+      "idx_prem_smartplay_566d51db",
+      "idx_prem_smartplay_96511067",
+      "idx_prem_smartplay_69fdb66f"
+    ],
+    "Tamil Music": [
+      "idx_prem_nelen_1454d28e",
+      "idx_prem_nelen_54bca850"
+    ],
+    "Kannada Movies": [
+      "idx_prem_nelen_3ac1fc4e"
+    ],
+    "Tamil Movies": [
+      "idx_prem_nelen_f67204d4"
+    ],
+    "Tamil Entertainment": [
+      "idx_prem_nelen_714c846c",
+      "idx_prem_nelen_2797fe1c",
+      "idx_prem_nelen_24402d5e",
+      "idx_prem_nelen_fa3395b2",
+      "idx_prem_smartplay_0e01938f",
+      "idx_prem_smartplay_41f1f191",
+      "idx_prem_smartplay_c058b0c7",
+      "idx_prem_smartplay_2e2a0d47"
+    ],
+    "Tamil Comedy": [
+      "idx_prem_nelen_7f349530"
+    ],
+    "Telugu Kids": [
+      "idx_prem_nelen_4740fcb3"
+    ],
+    "Tamil Infotainment": [
+      "idx_prem_nelen_28846bbe"
+    ],
+    "Nepali Channels": [
+      "idx_prem_maxdigitaltv_97f59593",
+      "idx_prem_maxdigitaltv_05d9bada",
+      "idx_prem_maxdigitaltv_73ca2872",
+      "idx_prem_maxdigitaltv_df03af94",
+      "idx_prem_maxdigitaltv_635380dc",
+      "idx_prem_maxdigitaltv_b1823297",
+      "idx_prem_maxdigitaltv_f6bc0623",
+      "idx_prem_maxdigitaltv_369dec06",
+      "idx_prem_maxdigitaltv_42a1aa5d",
+      "idx_prem_maxdigitaltv_8b38d8cd",
+      "idx_prem_maxdigitaltv_deb91d78",
+      "idx_prem_maxdigitaltv_8e200fc7",
+      "idx_prem_maxdigitaltv_5edc6e6f",
+      "idx_prem_maxdigitaltv_f8b3b6c8",
+      "idx_prem_maxdigitaltv_dcbf892f",
+      "idx_prem_maxdigitaltv_d2ddea18",
+      "idx_prem_maxdigitaltv_8e304330",
+      "idx_prem_maxdigitaltv_31910e78",
+      "idx_prem_maxdigitaltv_b252e54e",
+      "idx_prem_maxdigitaltv_2e544457"
+    ],
+    "Kids \u0026 Educations": [
+      "idx_prem_maxdigitaltv_663ad9fa",
+      "idx_prem_maxdigitaltv_2cfd73d6",
+      "idx_prem_maxdigitaltv_58014e75",
+      "idx_prem_maxdigitaltv_2d22c6bd",
+      "idx_prem_maxdigitaltv_0c66ecad",
+      "idx_prem_maxdigitaltv_6b676981",
+      "idx_prem_maxdigitaltv_daaf35d3",
+      "idx_prem_maxdigitaltv_9d3ad6e4"
+    ],
+    "Food": [
+      "idx_prem_neotv_8a4dc6b7",
+      "free_roku_a83904a5",
+      "free_roku_03baafe4",
+      "br_pbs_food"
+    ],
+    "Bengali": [
+      "idx_prem_roarzone_9d5ed678",
+      "idx_prem_roarzone_0d61f837",
+      "idx_prem_roarzone_f623e75a",
+      "idx_prem_roarzone_3a3ea00c",
+      "idx_prem_roarzone_dd753679",
+      "idx_prem_roarzone_ff44570a",
+      "idx_prem_roarzone_7fc56270",
+      "idx_prem_roarzone_5dbc98dc",
+      "idx_prem_roarzone_69691c7b",
+      "idx_prem_roarzone_8d9c307c"
+    ],
+    "Indian Bengali": [
+      "idx_prem_roarzone_21c2e595"
+    ],
+    "Telugu News": [
+      "idx_prem_smartplay_8463206b",
+      "idx_prem_smartplay_d117f6de",
+      "idx_prem_smartplay_3ee0065b",
+      "idx_prem_smartplay_8170aca7",
+      "idx_prem_smartplay_03306b05",
+      "idx_prem_smartplay_868d5f53",
+      "idx_prem_smartplay_02522a2b"
+    ],
+    "Eenadu Network (ETV WIN)": [
+      "idx_prem_smartplay_4817c243",
+      "idx_prem_smartplay_9fc3d715",
+      "idx_prem_smartplay_1afa34a7",
+      "idx_prem_smartplay_65ded535",
+      "idx_prem_smartplay_7f1de29e",
+      "idx_prem_smartplay_42a0e188",
+      "idx_prem_smartplay_e00da03b"
+    ],
+    "Telugu Entertainment": [
+      "idx_prem_smartplay_4e732ced",
+      "idx_prem_smartplay_33e75ff0",
+      "idx_prem_smartplay_de8164a1",
+      "idx_prem_smartplay_34173cb3",
+      "idx_prem_smartplay_6364d3f0",
+      "idx_prem_smartplay_c2aa460d",
+      "idx_prem_smartplay_e369853d",
+      "idx_prem_smartplay_19ca14e7",
+      "idx_prem_smartplay_56d8216b",
+      "idx_prem_smartplay_d645920e",
+      "idx_prem_smartplay_a8b6ea78"
+    ],
+    "Music Channels": [
+      "idx_prem_smartplay_735b90b4",
+      "idx_prem_smartplay_75887499",
+      "idx_prem_smartplay_bc6dc48b",
+      "idx_prem_smartplay_e4699da0",
+      "idx_prem_smartplay_ccdae531",
+      "idx_prem_smartplay_50e9252d"
+    ],
+    "Urdu Channels": [
+      "idx_prem_smartplay_687c0142",
+      "idx_prem_smartplay_d6baf65e",
+      "idx_prem_smartplay_8f121ce0"
+    ],
+    "Hindi News": [
+      "idx_prem_smartplay_39269a4a",
+      "idx_prem_smartplay_cb70ab37",
+      "idx_prem_smartplay_03c6b069",
+      "idx_prem_smartplay_2076251e"
+    ],
+    "Tamil News": [
+      "idx_prem_smartplay_918317b5",
+      "idx_prem_smartplay_48aedb88",
+      "idx_prem_smartplay_c410003e",
+      "idx_prem_smartplay_c11594da"
+    ],
+    "Wild Animals": [
+      "idx_prem_smartplay_6c524f9d",
+      "idx_prem_smartplay_464144b2"
+    ],
+    "45": [
+      "idx_prem_smartplay_67f7fb87",
+      "idx_prem_smartplay_00660221"
+    ],
+    "Tamil Local": [
+      "idx_prem_smartplay_25ddc0f8",
+      "idx_prem_smartplay_c3c59e5f",
+      "idx_prem_smartplay_455d4b61",
+      "idx_prem_smartplay_7df9191d"
+    ],
+    "ODIYA CHANNELS": [
+      "idx_prem_smartplay_44dae0e7",
+      "idx_prem_smartplay_58bec1f8",
+      "idx_prem_smartplay_f7e9469c",
+      "idx_prem_smartplay_d29f5f3d",
+      "idx_prem_smartplay_2da7ed47",
+      "idx_prem_smartplay_fe5b3c16",
+      "idx_prem_smartplay_3ad73008",
+      "idx_prem_smartplay_b6f6d453",
+      "idx_prem_smartplay_10bb2952",
+      "idx_prem_smartplay_d30a2249",
+      "idx_prem_smartplay_426985f6",
+      "idx_prem_smartplay_905682c2"
+    ],
+    "Kannada Entertainment": [
+      "idx_prem_smartplay_55743cc0"
+    ],
+    "Live Darshan": [
+      "idx_prem_smartplay_2d40face"
+    ],
+    "DD Channels": [
+      "idx_prem_smartplay_eae27d77",
+      "idx_prem_smartplay_69adc1e1",
+      "idx_prem_smartplay_091d584f",
+      "idx_prem_smartplay_6f3ef77a"
+    ],
+    "English Entertainment": [
+      "idx_prem_smartplay_df7445f4"
+    ],
+    "PUNJAB NEWS": [
+      "idx_prem_smartplay_f1981e4b"
+    ],
+    "Kannada": [
+      "idx_prem_vvsolutions_5dbc98dc",
+      "idx_prem_vvsolutions_d20caec3",
+      "idx_prem_vvsolutions_7fc56270",
+      "idx_prem_vvsolutions_8d9c307c",
+      "idx_prem_vvsolutions_f623e75a",
+      "idx_prem_vvsolutions_0d61f837",
+      "idx_prem_streambridge_9d5ed678",
+      "idx_prem_streambridge_f623e75a",
+      "idx_prem_streambridge_f1862177",
+      "idx_prem_streambridge_4c614360",
+      "idx_prem_streambridge_5206560a"
+    ],
+    "Telugu": [
+      "idx_prem_vvsolutions_69691c7b",
+      "idx_prem_vvsolutions_e1e1d3d4",
+      "idx_prem_vvsolutions_ff44570a",
+      "idx_prem_vvsolutions_a5f3c6a1",
+      "idx_prem_vvsolutions_b9ece18c",
+      "idx_prem_vvsolutions_57cec413",
+      "idx_prem_streambridge_a87ff679",
+      "idx_prem_streambridge_7fc56270",
+      "idx_prem_streambridge_dfcf28d0",
+      "idx_prem_streambridge_ff44570a",
+      "idx_prem_streambridge_a5f3c6a1",
+      "idx_prem_streambridge_b9ece18c"
+    ],
+    "Whiplash": [
+      "idx_prem_webchnl_430b8af6"
+    ],
+    "Webchnl": [
+      "idx_prem_webchnl_bb05c8cb",
+      "idx_prem_webchnl_b04569ce",
+      "idx_prem_webchnl_5caf1a2c",
+      "idx_prem_webchnl_125eb344",
+      "idx_prem_webchnl_a14e7855",
+      "idx_prem_webchnl_edccbba3",
+      "idx_prem_webchnl_b3da6cfd",
+      "idx_prem_webchnl_bd059b7f",
+      "idx_prem_webchnl_8a0360b0",
+      "idx_prem_webchnl_20cd28ec",
+      "idx_prem_webchnl_ea8e1cb7",
+      "idx_prem_webchnl_b4ee8f25",
+      "idx_prem_webchnl_a2498f0b"
+    ],
+    "Mist": [
+      "idx_prem_webchnl_d00bfa79",
+      "idx_prem_webchnl_99201e9b",
+      "idx_prem_webchnl_26687b81",
+      "idx_prem_webchnl_d49f62ca",
+      "idx_prem_webchnl_e7adc2cf",
+      "idx_prem_webchnl_5ba61eae",
+      "idx_prem_webchnl_edd08766",
+      "idx_prem_webchnl_7eb7e11b",
+      "idx_prem_webchnl_f8b6b495",
+      "idx_prem_webchnl_e8ca9e16",
+      "idx_prem_webchnl_e8fde585"
+    ],
+    "🕘️更新时间": [
+      "idx_prem_result_c81e728d",
+      "idx_prem_user_result_c81e728d"
+    ],
+    "🌊港·澳·台": [
+      "idx_prem_result_b9ece18c",
+      "idx_prem_result_ff44570a",
+      "idx_prem_result_5206560a"
+    ],
+    "🎬电影频道": [
+      "idx_prem_result_8d9c307c"
+    ],
+    "LIVE": [
+      "idx_prem_combine_playlist_b9ece18c"
+    ],
+    "K+": [
+      "idx_prem_sunshinetv_d83bbc51",
+      "idx_prem_sunshinetv_c28eb585",
+      "idx_prem_sunshinetv_16b9d7d9",
+      "idx_prem_sunshinetv_14fab41e"
+    ],
+    "THVL": [
+      "idx_prem_sunshinetv_fdcd109e",
+      "idx_prem_sunshinetv_61e6babb",
+      "idx_prem_sunshinetv_5ecfe7c1",
+      "idx_prem_sunshinetv_1bf0ce53"
+    ],
+    "VTV": [
+      "idx_prem_sunshinetv_375878e7",
+      "idx_prem_sunshinetv_a32d0a83",
+      "idx_prem_sunshinetv_8e830f71",
+      "idx_prem_sunshinetv_20ad06c7"
+    ],
+    "VTC": [
+      "idx_prem_sunshinetv_460da7c4",
+      "idx_prem_sunshinetv_147be02c",
+      "idx_prem_sunshinetv_e37cd1ff",
+      "idx_prem_sunshinetv_c1b51cf1",
+      "idx_prem_sunshinetv_52653da9",
+      "idx_prem_sunshinetv_4d27ab3c",
+      "idx_prem_sunshinetv_c6ef001c",
+      "idx_prem_sunshinetv_147cd06a",
+      "idx_prem_sunshinetv_016a2420",
+      "idx_prem_sunshinetv_43d163bf",
+      "idx_prem_sunshinetv_c61c9a5c",
+      "idx_prem_sunshinetv_58d9eaf3",
+      "idx_prem_sunshinetv_af5e202c"
+    ],
+    "HTV": [
+      "idx_prem_sunshinetv_93068c2a",
+      "idx_prem_sunshinetv_c6899bc5",
+      "idx_prem_sunshinetv_96f1e40f",
+      "idx_prem_sunshinetv_79516993",
+      "idx_prem_sunshinetv_ab8926fb",
+      "idx_prem_sunshinetv_44ee3e99",
+      "idx_prem_sunshinetv_49c6cd02",
+      "idx_prem_sunshinetv_e8f6c9c0",
+      "idx_prem_sunshinetv_f92ad7b6",
+      "idx_prem_sunshinetv_e1c2439c",
+      "idx_prem_sunshinetv_ed4be07e",
+      "idx_prem_sunshinetv_ca6a0f63",
+      "idx_prem_sunshinetv_15f5a903",
+      "idx_prem_sunshinetv_eeb85ab5",
+      "idx_prem_sunshinetv_027bf605"
+    ],
+    "VTVCAB": [
+      "idx_prem_sunshinetv_f4e47044",
+      "idx_prem_sunshinetv_aa5f3ee9",
+      "idx_prem_sunshinetv_b818d823",
+      "idx_prem_sunshinetv_43eb1e71",
+      "idx_prem_sunshinetv_c167d40b",
+      "idx_prem_sunshinetv_f0c69b7e",
+      "idx_prem_sunshinetv_396409d4",
+      "idx_prem_sunshinetv_765999e5",
+      "idx_prem_sunshinetv_d4fae259",
+      "idx_prem_sunshinetv_8ad6fc1d",
+      "idx_prem_sunshinetv_5206560a",
+      "idx_prem_sunshinetv_611e62a5",
+      "idx_prem_sunshinetv_876e0ef6",
+      "idx_prem_sunshinetv_2bb6e8af",
+      "idx_prem_sunshinetv_c6c830b6",
+      "idx_prem_sunshinetv_7a627840",
+      "idx_prem_sunshinetv_aa4908e2",
+      "idx_prem_sunshinetv_24bda8a4",
+      "idx_prem_sunshinetv_356f3a21",
+      "idx_prem_sunshinetv_67f32a6a"
+    ],
+    "SCTV": [
+      "idx_prem_sunshinetv_d9c35aac",
+      "idx_prem_sunshinetv_f72db972",
+      "idx_prem_sunshinetv_59fcd297",
+      "idx_prem_sunshinetv_b64960f6",
+      "idx_prem_sunshinetv_5b97d332",
+      "idx_prem_sunshinetv_146eefe6",
+      "idx_prem_sunshinetv_ce774561",
+      "idx_prem_sunshinetv_19ebf112",
+      "idx_prem_sunshinetv_b9ece18c",
+      "idx_prem_sunshinetv_6603eb0c",
+      "idx_prem_sunshinetv_62153513",
+      "idx_prem_sunshinetv_55ca82a8",
+      "idx_prem_sunshinetv_fc345d63",
+      "idx_prem_sunshinetv_5b0015e0",
+      "idx_prem_sunshinetv_b073d3fc",
+      "idx_prem_sunshinetv_35557394",
+      "idx_prem_sunshinetv_fce95704",
+      "idx_prem_sunshinetv_aa26e12d",
+      "idx_prem_sunshinetv_445a69e0",
+      "idx_prem_sunshinetv_20ed25f7"
+    ],
+    "KID": [
+      "idx_prem_sunshinetv_60871504",
+      "idx_prem_sunshinetv_20d582d3",
+      "idx_prem_sunshinetv_def4a8e6",
+      "idx_prem_sunshinetv_b572c2d0"
+    ],
+    "Khá Phá": [
+      "idx_prem_sunshinetv_5dbe338d",
+      "idx_prem_sunshinetv_7801d4d6",
+      "idx_prem_sunshinetv_9203c509",
+      "idx_prem_sunshinetv_4191cd7c",
+      "idx_prem_sunshinetv_1b87225c",
+      "idx_prem_sunshinetv_f623e75a",
+      "idx_prem_sunshinetv_aea862aa",
+      "idx_prem_sunshinetv_e8837308",
+      "idx_prem_sunshinetv_5d3fced3",
+      "idx_prem_sunshinetv_a43ecb2d",
+      "idx_prem_sunshinetv_7e2c91f4",
+      "idx_prem_sunshinetv_09bb420f",
+      "idx_prem_sunshinetv_cb4c62e8"
+    ],
+    "Địa Phương": [
+      "idx_prem_sunshinetv_d4d7cc24",
+      "idx_prem_sunshinetv_d7f4e834"
+    ],
+    "TRUNG ƯƠNG": [
+      "idx_prem_sunshinetv_634acac7",
+      "idx_prem_sunshinetv_32d4cecf",
+      "idx_prem_sunshinetv_c07549c6",
+      "idx_prem_sunshinetv_53dd604f",
+      "idx_prem_sunshinetv_f60541e3",
+      "idx_prem_sunshinetv_04ff6fb5"
+    ],
+    "United States": [
+      "free_pluto_4f692d10",
+      "free_pluto_0e1f3b57",
+      "free_pluto_fa8680ac",
+      "free_pluto_5e6a902d",
+      "free_pluto_1783fa2d",
+      "free_pluto_aa3c8616",
+      "free_pluto_b5abffb9",
+      "free_pluto_d331af18",
+      "free_pluto_15657762",
+      "free_pluto_67f48c4e",
+      "free_pluto_c434452d",
+      "free_pluto_142509d2",
+      "free_pluto_74754fbd",
+      "free_pluto_b93b85a3",
+      "free_pluto_25e8b8bb",
+      "free_pluto_1968b88c",
+      "free_pluto_25fe89b6",
+      "free_pluto_857d33e8",
+      "free_pluto_727bd23c",
+      "free_pluto_84f22702"
+    ],
+    "United Kingdom": [
+      "free_pluto_409770c2",
+      "free_pluto_11b01ec6",
+      "free_pluto_ebbbe457",
+      "free_pluto_004d3fcc",
+      "free_pluto_ae07fc8c",
+      "free_pluto_23f0f47c",
+      "free_pluto_60d4725e",
+      "free_pluto_3c358653",
+      "free_pluto_7b57a89d",
+      "free_pluto_39493ee6",
+      "free_pluto_b1f59b7b",
+      "free_pluto_6f3d924c",
+      "free_pluto_270fd03f",
+      "free_pluto_b231f6c6",
+      "free_pluto_3992ead1",
+      "free_pluto_e0b1866c",
+      "free_pluto_c18786db",
+      "free_pluto_57a81bbb",
+      "free_pluto_0a7133df",
+      "free_pluto_8039ec97"
+    ],
+    "NZ": [
+      "free_plex_83217edd"
+    ],
+    "Animals": [
+      "free_roku_85fe8b54",
+      "free_roku_b0b1d738",
+      "free_roku_998282a2",
+      "free_roku_bfb2d338",
+      "free_roku_87d70a6e",
+      "free_roku_80dda93e",
+      "free_roku_428e166c",
+      "free_roku_19e95699",
+      "free_roku_31ba9829",
+      "free_roku_fd63c320"
+    ],
+    "Animated": [
+      "free_roku_769739e0",
+      "free_roku_e3c0d55d",
+      "free_roku_bd98cff2",
+      "free_roku_2a1714a5",
+      "free_roku_fd648f79",
+      "free_roku_a11e0baa"
+    ],
+    "Art": [
+      "free_roku_1d023725",
+      "free_roku_97ba72f2"
+    ],
+    "Auction": [
+      "free_roku_5469a1aa",
+      "free_roku_ba72849a",
+      "free_roku_57d41584",
+      "free_roku_c308deee"
+    ],
+    "Auto \u0026 Motorsports": [
+      "free_roku_e525844f",
+      "free_roku_c127d800",
+      "free_roku_b705ef3d",
+      "free_roku_15ec91f7",
+      "free_roku_45772f44",
+      "free_roku_ef136e90",
+      "free_roku_611ae577"
+    ],
+    "Biography": [
+      "free_roku_8b284017"
+    ],
+    "Bus./Financial": [
+      "free_roku_f336e363"
+    ],
+    "Children-Music": [
+      "free_roku_a179f433"
+    ],
+    "Crime": [
+      "free_roku_c4c8a134",
+      "free_roku_8b945432",
+      "free_roku_0a9a1e8b",
+      "free_roku_8bd2c990",
+      "free_roku_fb15943f",
+      "free_roku_07b37ab8",
+      "free_roku_dd1ae54a",
+      "free_roku_6e1d48b1",
+      "free_roku_8b4f6309",
+      "free_roku_aac95ed6",
+      "free_roku_a9c0f1fb",
+      "free_roku_c69c0c06",
+      "free_roku_1f197ed9",
+      "free_roku_6bb77cc3",
+      "free_roku_4674c396",
+      "free_roku_ea53315c",
+      "free_roku_11c741c9",
+      "free_roku_f0c98afc",
+      "free_roku_2ae6bf30",
+      "free_roku_cd2bb607"
+    ],
+    "Crime Drama": [
+      "free_roku_7ce50e3c"
+    ],
+    "Dark Comedy": [
+      "free_roku_b3e9cbae"
+    ],
+    "Environment": [
+      "free_roku_19f9bafc",
+      "free_roku_56949079"
+    ],
+    "Faith \u0026 Family": [
+      "free_roku_d5838452",
+      "free_roku_9ea032f6",
+      "free_roku_37caf0b6"
+    ],
+    "Game Show": [
+      "free_roku_27100424",
+      "free_roku_b8fd2db3",
+      "free_roku_e60564bc",
+      "free_roku_2de247c0",
+      "free_roku_22aa156c",
+      "free_roku_1dfaa886"
+    ],
+    "Gaming \u0026 Tech": [
+      "free_roku_59901cee",
+      "free_roku_e7e75536",
+      "free_roku_8f8fbe8c",
+      "free_roku_e3c2a45e"
+    ],
+    "Health": [
+      "free_roku_ebb5ef9e",
+      "free_roku_1a17d5aa"
+    ],
+    "Home Improvement": [
+      "free_roku_08d730b0",
+      "free_roku_682773d5",
+      "free_roku_5b48adc2"
+    ],
+    "House/Garden": [
+      "free_roku_e46c297a"
+    ],
+    "Law": [
+      "free_roku_8b858ae9"
+    ],
+    "Music Talk": [
+      "free_roku_d14466b8"
+    ],
+    "Paranormal": [
+      "free_roku_2ac3fd74"
+    ],
+    "Romance": [
+      "free_roku_59953184",
+      "free_roku_79925b39",
+      "free_roku_4812cff3",
+      "free_roku_b442468d"
+    ],
+    "Shopping": [
+      "free_roku_fbf1616a",
+      "free_roku_8e841a63"
+    ],
+    "TV \u0026 Entertainment": [
+      "free_roku_60aeef6a",
+      "free_roku_72a59aa6",
+      "free_roku_37779c79",
+      "free_roku_0a24ab02",
+      "free_roku_38d47b08",
+      "free_roku_21fb30d2",
+      "free_roku_4c2a4e2d",
+      "free_roku_9e591e94",
+      "free_roku_960ef9d4",
+      "free_roku_63d1be22",
+      "free_roku_246dbee5",
+      "free_roku_1ff34203",
+      "free_roku_9805cb02",
+      "free_roku_258aec5a",
+      "free_roku_9d5b1348",
+      "free_roku_8130fbc5",
+      "free_roku_2b5f00f5",
+      "free_roku_7cfd7f98",
+      "free_roku_4b36f029",
+      "free_roku_4cfbcbdb"
+    ],
+    "True Crime": [
+      "free_tubi_581712d2",
+      "free_tubi_aa96efea",
+      "free_tubi_2819527c",
+      "free_tubi_2e883a0e",
+      "free_tubi_36711251",
+      "free_tubi_1145f04c",
+      "free_tubi_6ff47f3d",
+      "free_tubi_ae83223a",
+      "free_tubi_f33c7366",
+      "free_tubi_e7059c25",
+      "free_tubi_9acedfe2",
+      "free_tubi_4f95fd1f",
+      "free_tubi_81b92e10",
+      "free_tubi_6d247593",
+      "free_tubi_56962fe0",
+      "free_tubi_84292013",
+      "free_tubi_b39f23f6"
+    ],
+    "National News": [
+      "free_tubi_5afba921",
+      "free_tubi_2df9d427",
+      "free_tubi_9ad54cb6",
+      "free_tubi_14a5c587",
+      "free_tubi_cc8e5c90",
+      "free_tubi_d84d4b3b",
+      "free_tubi_a6da6062",
+      "free_tubi_1997535c"
+    ],
+    "Sports On Now": [
+      "free_tubi_4c4a00c0",
+      "free_tubi_ba9b37b5",
+      "free_tubi_1dbd0947",
+      "free_tubi_ca9bcc03",
+      "free_tubi_0c12037e",
+      "free_tubi_2ed5e4af",
+      "free_tubi_be811c0d",
+      "free_tubi_a3b792c5",
+      "free_tubi_025ea1a6",
+      "free_tubi_94a17db6",
+      "free_tubi_18d2f6ab",
+      "free_tubi_de73d465",
+      "free_tubi_70a254e9",
+      "free_tubi_53d99261",
+      "free_tubi_9189d779",
+      "free_tubi_02f9c689",
+      "free_tubi_cea17cdd",
+      "free_tubi_6b5927b9",
+      "free_tubi_b4548943",
+      "free_tubi_ce0d87c2"
+    ],
+    "Sci-Fi \u0026 Supernatural": [
+      "free_tubi_1085fbd8",
+      "free_tubi_d2c17fb0",
+      "free_tubi_47cbb508",
+      "free_tubi_0f2e322b",
+      "free_tubi_86fb2194",
+      "free_tubi_472f29d4"
+    ],
+    "Good Eats": [
+      "free_tubi_858ec65d",
+      "free_tubi_9e04f1a0",
+      "free_tubi_565c7e2f"
+    ],
+    "Movie Channels": [
+      "free_tubi_5067ea9f",
+      "free_tubi_2e7d684c",
+      "free_tubi_d108e2d0",
+      "free_tubi_8ce99869",
+      "free_tubi_6a64dd8b",
+      "free_tubi_63672b96"
+    ],
+    "Classic TV": [
+      "free_tubi_f05b43a0",
+      "free_tubi_8a125c76",
+      "free_tubi_b6c63bc7",
+      "free_tubi_00b1ea60",
+      "free_tubi_003d4ac7",
+      "free_tubi_09cd5434",
+      "free_tubi_53d9c83a"
+    ],
+    "Science \u0026 Nature": [
+      "free_tubi_16e036c3",
+      "free_tubi_870a6e0f",
+      "free_tubi_635c7204",
+      "free_tubi_5b7193be",
+      "free_tubi_b376a260",
+      "free_tubi_9370f87e"
+    ],
+    "Español": [
+      "free_tubi_69478555",
+      "free_tubi_2d2567df",
+      "free_tubi_598461eb",
+      "free_tubi_bf763b04",
+      "free_tubi_294eb03d",
+      "free_tubi_ffb37b76",
+      "free_tubi_17e19db4",
+      "free_tubi_d58363ec"
+    ],
+    "Business News": [
+      "free_tubi_707e18d8",
+      "free_tubi_5e9693c4"
+    ],
+    "Black Entertainment": [
+      "free_tubi_c94e2713",
+      "free_tubi_8a60bba6",
+      "free_tubi_495e44a0",
+      "free_tubi_3d5d3e46",
+      "free_tubi_fe9d7d8d"
+    ],
+    "Mystery": [
+      "free_tubi_99ef4b75",
+      "free_tubi_098238b7",
+      "free_tubi_4c874063",
+      "free_tubi_12979d87"
+    ],
+    "Games \u0026 Competition": [
+      "free_tubi_2e3486b6",
+      "free_tubi_4a85a5e8",
+      "free_tubi_70604bca",
+      "free_tubi_5781bbe1",
+      "free_tubi_c71f5fe7",
+      "free_tubi_333391b5",
+      "free_tubi_814843db",
+      "free_tubi_4b82fc42",
+      "free_tubi_57465560",
+      "free_tubi_4016e975"
+    ],
+    "Global News": [
+      "free_tubi_5368882d",
+      "free_tubi_7a55d314"
+    ],
+    "Local News": [
+      "free_tubi_f1c63592",
+      "free_tubi_4869f467",
+      "free_tubi_03fe5924",
+      "free_tubi_ad986fb4",
+      "free_tubi_b6928dea",
+      "free_tubi_62387222",
+      "free_tubi_1c66e6a0",
+      "free_tubi_b2d28e9b",
+      "free_tubi_f41e68eb",
+      "free_tubi_a8afde88",
+      "free_tubi_3448ec45"
+    ],
+    "Pop Culture": [
+      "free_tubi_eddbbd59",
+      "free_tubi_697d097a",
+      "free_tubi_38aa027d",
+      "free_tubi_cddcbc07",
+      "free_tubi_0cb8143c",
+      "free_tubi_5956896b",
+      "free_tubi_b30fa0f0"
+    ],
+    "Documentaries": [
+      "free_tubi_e35ebf62",
+      "free_tubi_bd9542ad"
+    ],
+    "Horror": [
+      "free_tubi_0d0ccf1f",
+      "free_tubi_11f8dba5"
+    ],
+    "TV Dramas": [
+      "free_tubi_78b13383",
+      "free_tubi_98c4c7fb",
+      "free_tubi_f2da224a",
+      "free_tubi_085f0c27"
+    ],
+    "Kids \u0026 Family": [
+      "free_tubi_c475b40b"
+    ],
+    "XUMO🇺🇸: News": [
+      "free_xumo_29f66600",
+      "free_xumo_801ac933",
+      "free_xumo_c3f6bb8b",
+      "free_xumo_e4d22caf",
+      "free_xumo_6524cb40",
+      "free_xumo_74ab9e5d",
+      "free_xumo_60dd266b",
+      "free_xumo_1eb4574b",
+      "free_xumo_3c396d95",
+      "free_xumo_4db9da9d",
+      "free_xumo_9c0fbbd3",
+      "free_xumo_ebe752df",
+      "free_xumo_5bef90fc",
+      "free_xumo_2e95bc7e",
+      "free_xumo_a9f4d00a",
+      "free_xumo_60e739a9",
+      "free_xumo_bb82fd24",
+      "free_xumo_968b6ea1",
+      "free_xumo_5e30c292",
+      "free_xumo_74a1a03b"
+    ],
+    "XUMO🇺🇸: Sports": [
+      "free_xumo_2f96d296",
+      "free_xumo_52117b35",
+      "free_xumo_7aaba5ab",
+      "free_xumo_586c379b",
+      "free_xumo_202500d1",
+      "free_xumo_e011c861",
+      "free_xumo_f2de71c6",
+      "free_xumo_48e6a774",
+      "free_xumo_a8a56168",
+      "free_xumo_5de4a045",
+      "free_xumo_31f06bdc",
+      "free_xumo_c65a670f",
+      "free_xumo_b957f870",
+      "free_xumo_c6d4c3bb",
+      "free_xumo_244ca248",
+      "free_xumo_5a8c26f1",
+      "free_xumo_7bc04d09",
+      "free_xumo_d8fa01d4",
+      "free_xumo_9fbe8026",
+      "free_xumo_1139191b"
+    ],
+    "XUMO🇺🇸: Crime TV": [
+      "free_xumo_c0c142c9",
+      "free_xumo_535582ba",
+      "free_xumo_f40052f0",
+      "free_xumo_d8b0c8fa",
+      "free_xumo_36fd8f7a",
+      "free_xumo_09375017",
+      "free_xumo_34e7efc8",
+      "free_xumo_7ef8224e",
+      "free_xumo_7b0e0ecf",
+      "free_xumo_173d85b5",
+      "free_xumo_1b54ae44",
+      "free_xumo_d86ce2a5",
+      "free_xumo_830502eb",
+      "free_xumo_cbbd4a0a",
+      "free_xumo_71529078",
+      "free_xumo_56699aac",
+      "free_xumo_f20cfc63",
+      "free_xumo_8e79d565",
+      "free_xumo_82fbad80",
+      "free_xumo_792c7e7c"
+    ],
+    "XUMO🇺🇸: Black Voices. Black Stories.": [
+      "free_xumo_8af9a704",
+      "free_xumo_944092d3",
+      "free_xumo_d634e443",
+      "free_xumo_86165e22",
+      "free_xumo_42f743bc",
+      "free_xumo_f17c08d3",
+      "free_xumo_e59e0d5e",
+      "free_xumo_07a1abd1",
+      "free_xumo_6d7792fc",
+      "free_xumo_f4b66430",
+      "free_xumo_1a57215d"
+    ],
+    "XUMO🇺🇸: Action \u0026 Drama": [
+      "free_xumo_999907ce",
+      "free_xumo_97fc8a4d",
+      "free_xumo_a3655f68",
+      "free_xumo_b6e39649",
+      "free_xumo_00785fdb",
+      "free_xumo_40c8f543",
+      "free_xumo_8dc5528e",
+      "free_xumo_d23b0ab6",
+      "free_xumo_d81e0367",
+      "free_xumo_1e722045",
+      "free_xumo_6dff0976",
+      "free_xumo_e539656c",
+      "free_xumo_75e4ee66",
+      "free_xumo_eb25713f",
+      "free_xumo_7d3f6542",
+      "free_xumo_e6225c4f",
+      "free_xumo_2672dbcf",
+      "free_xumo_4d16d5df",
+      "free_xumo_353167eb",
+      "free_xumo_af9abc23"
+    ],
+    "XUMO🇺🇸: Movies": [
+      "free_xumo_7f0b2db5",
+      "free_xumo_109e6f58",
+      "free_xumo_e78e6def",
+      "free_xumo_37047d7f",
+      "free_xumo_5553ad04",
+      "free_xumo_c50768ac",
+      "free_xumo_c1ae477e",
+      "free_xumo_77a2a074",
+      "free_xumo_f4091bb5",
+      "free_xumo_c717eab2",
+      "free_xumo_5a7e3471",
+      "free_xumo_3681981a",
+      "free_xumo_0c73e505"
+    ],
+    "XUMO🇺🇸: Westerns \u0026 Country": [
+      "free_xumo_9532370a",
+      "free_xumo_9abc759c",
+      "free_xumo_47351a7e",
+      "free_xumo_1092b937",
+      "free_xumo_6a18756c",
+      "free_xumo_ce973a77",
+      "free_xumo_5720dd45",
+      "free_xumo_c3db89bc",
+      "free_xumo_ffc68fbb",
+      "free_xumo_1d487c43"
+    ],
+    "XUMO🇺🇸: Horror \u0026 Sci-Fi": [
+      "free_xumo_b16c50d6",
+      "free_xumo_b6453859",
+      "free_xumo_bdf98e4e",
+      "free_xumo_3a1bc17a",
+      "free_xumo_e1dda65d",
+      "free_xumo_5685b57f",
+      "free_xumo_372ce3f9",
+      "free_xumo_25ee3a23",
+      "free_xumo_d776a884",
+      "free_xumo_b0ba0cc5",
+      "free_xumo_94d5a129",
+      "free_xumo_45e7fc8e",
+      "free_xumo_5e2d96f5",
+      "free_xumo_3460665c",
+      "free_xumo_7f69aa67",
+      "free_xumo_9b273419",
+      "free_xumo_5785ad85"
+    ],
+    "XUMO🇺🇸: Animals \u0026 Nature": [
+      "free_xumo_93a80b6d",
+      "free_xumo_766ba799",
+      "free_xumo_f282e2f5",
+      "free_xumo_5c20c77a",
+      "free_xumo_3563d6b4",
+      "free_xumo_f9738f4f",
+      "free_xumo_de0e5fb0",
+      "free_xumo_d3350de2",
+      "free_xumo_e9297ae3",
+      "free_xumo_4c604bde",
+      "free_xumo_3253b0b1",
+      "free_xumo_87532bed",
+      "free_xumo_0793cfc4",
+      "free_xumo_c6693ae3",
+      "free_xumo_e6f0491d"
+    ],
+    "XUMO🇺🇸: Game Shows": [
+      "free_xumo_db51cdf7",
+      "free_xumo_01f46d61",
+      "free_xumo_423bbfe9",
+      "free_xumo_94e05fcf",
+      "free_xumo_dee05350",
+      "free_xumo_888bf79b",
+      "free_xumo_3b81b1ac",
+      "free_xumo_4434b560",
+      "free_xumo_f8bafc9c",
+      "free_xumo_c7eb9911",
+      "free_xumo_b4b21cb7"
+    ],
+    "XUMO🇺🇸: Comedy": [
+      "free_xumo_53e7fad6",
+      "free_xumo_60759417",
+      "free_xumo_1fc85666",
+      "free_xumo_fcaf1271",
+      "free_xumo_7322a4a2",
+      "free_xumo_0051c242",
+      "free_xumo_fa9ea3f1",
+      "free_xumo_924cd544",
+      "free_xumo_464bb651",
+      "free_xumo_e42f8d75",
+      "free_xumo_f4cb7db3",
+      "free_xumo_d721d67e",
+      "free_xumo_92aed336",
+      "free_xumo_d5024c7a",
+      "free_xumo_3dfe5fca",
+      "free_xumo_7b275d39"
+    ],
+    "XUMO🇺🇸: Combat Sports": [
+      "free_xumo_e71761cd",
+      "free_xumo_6318089a",
+      "free_xumo_9a725057",
+      "free_xumo_d5620da7",
+      "free_xumo_79fd331b",
+      "free_xumo_b26e8e91"
+    ],
+    "XUMO🇺🇸: Automotive": [
+      "free_xumo_53db7b4b",
+      "free_xumo_fb971915",
+      "free_xumo_63b253bd",
+      "free_xumo_053959e9",
+      "free_xumo_df97f0c8",
+      "free_xumo_21045294",
+      "free_xumo_0e36a9b2",
+      "free_xumo_909da15d",
+      "free_xumo_2e65b0d3"
+    ],
+    "XUMO🇺🇸: Home \u0026 Design": [
+      "free_xumo_cde839e8",
+      "free_xumo_8697188f",
+      "free_xumo_d2766fef",
+      "free_xumo_e7518828",
+      "free_xumo_d985d481",
+      "free_xumo_7b1b7c2a",
+      "free_xumo_426cf101",
+      "free_xumo_778734ef",
+      "free_xumo_a73b336e",
+      "free_xumo_84e04105",
+      "free_xumo_1c9ef01f",
+      "free_xumo_95d36fec",
+      "free_xumo_6c280c2e",
+      "free_xumo_e133e226",
+      "free_xumo_e87dd979"
+    ],
+    "XUMO🇺🇸: Food": [
+      "free_xumo_2dbe1ecb",
+      "free_xumo_f1889546",
+      "free_xumo_e3370471",
+      "free_xumo_ee0b0e5e",
+      "free_xumo_71d1dbfc",
+      "free_xumo_4b164aa1",
+      "free_xumo_26450842",
+      "free_xumo_22a13cb2",
+      "free_xumo_3745ebb2",
+      "free_xumo_89e0a68a",
+      "free_xumo_4382c0ee",
+      "free_xumo_6e712a56",
+      "free_xumo_54ca4667",
+      "free_xumo_614cb8cf"
+    ],
+    "XUMO🇺🇸: Travel \u0026 Lifestyle": [
+      "free_xumo_4c3c4775",
+      "free_xumo_da002a27",
+      "free_xumo_ec457218",
+      "free_xumo_bf4268d9",
+      "free_xumo_56bd3081",
+      "free_xumo_249bfe48",
+      "free_xumo_18d78b6b",
+      "free_xumo_0d4ddba4",
+      "free_xumo_48ce3881",
+      "free_xumo_b92072c6",
+      "free_xumo_19227472",
+      "free_xumo_bbf3497a"
+    ],
+    "XUMO🇺🇸: Latino": [
+      "free_xumo_674680ad",
+      "free_xumo_f82f1f1e",
+      "free_xumo_031cdf09",
+      "free_xumo_c355a139",
+      "free_xumo_fd85850b",
+      "free_xumo_99cdb394",
+      "free_xumo_ee89a205",
+      "free_xumo_381656aa",
+      "free_xumo_0a8058b9",
+      "free_xumo_b435b24e",
+      "free_xumo_33537017",
+      "free_xumo_0eff325c",
+      "free_xumo_2055c61c",
+      "free_xumo_88684446",
+      "free_xumo_ac9d8b87",
+      "free_xumo_90e60f35"
+    ],
+    "XUMO🇺🇸: Reality TV": [
+      "free_xumo_a9d2e1cf",
+      "free_xumo_feca701c",
+      "free_xumo_f2feb8ec",
+      "free_xumo_3421d239",
+      "free_xumo_92434ed3",
+      "free_xumo_829bcb99",
+      "free_xumo_c07a18ca",
+      "free_xumo_8efe5d56",
+      "free_xumo_b6da8d37",
+      "free_xumo_58797134",
+      "free_xumo_a3e4c5ef",
+      "free_xumo_12b4915c",
+      "free_xumo_932e1916",
+      "free_xumo_68cfaf9f",
+      "free_xumo_eb26e91f",
+      "free_xumo_5cf482eb",
+      "free_xumo_6f2aa562",
+      "free_xumo_b5aeb163",
+      "free_xumo_e2cef0c0",
+      "free_xumo_32a7aec9"
+    ],
+    "XUMO🇺🇸: Classic TV": [
+      "free_xumo_c8029a48",
+      "free_xumo_d76c6460",
+      "free_xumo_3c1b0874",
+      "free_xumo_4c811b0c",
+      "free_xumo_12be526f",
+      "free_xumo_78cee20a"
+    ],
+    "XUMO🇺🇸: History \u0026 Learning": [
+      "free_xumo_6cb17f7b",
+      "free_xumo_7e3ef684",
+      "free_xumo_bfa84277",
+      "free_xumo_4deac411",
+      "free_xumo_3cab6952",
+      "free_xumo_08aeda93",
+      "free_xumo_7b6d27b8",
+      "free_xumo_82871ca7"
+    ],
+    "XUMO🇺🇸: Faith \u0026 Family": [
+      "free_xumo_9f7a8136",
+      "free_xumo_c7bc5e3b",
+      "free_xumo_649388e1",
+      "free_xumo_28520434",
+      "free_xumo_a34dd0a6",
+      "free_xumo_66c9e758",
+      "free_xumo_19193584",
+      "free_xumo_4e800737",
+      "free_xumo_d281daed"
+    ],
+    "XUMO🇺🇸: Kids": [
+      "free_xumo_0b381c34",
+      "free_xumo_54b6e1a8",
+      "free_xumo_8e96dd67",
+      "free_xumo_090d9edc",
+      "free_xumo_b60b09f5",
+      "free_xumo_45a31c52",
+      "free_xumo_5523390e",
+      "free_xumo_a2deecb1",
+      "free_xumo_88201cb8",
+      "free_xumo_35d96804",
+      "free_xumo_64b0ee84",
+      "free_xumo_3a3fb55c",
+      "free_xumo_1e8c0d19",
+      "free_xumo_4b483582"
+    ],
+    "XUMO🇺🇸: Pop Culture": [
+      "free_xumo_ed344153",
+      "free_xumo_2abd8dda",
+      "free_xumo_f5fbf1c9",
+      "free_xumo_e0968d70"
+    ],
+    "XUMO🇺🇸: Daytime TV": [
+      "free_xumo_fb28aa6a",
+      "free_xumo_49c834ca",
+      "free_xumo_9bce73ac",
+      "free_xumo_1b4cf9eb",
+      "free_xumo_f0b32b1b",
+      "free_xumo_77bf68b9",
+      "free_xumo_17f924ca"
+    ],
+    "XUMO🇺🇸: Music \u0026 Radio": [
+      "free_xumo_b933ff8a",
+      "free_xumo_f824b09f",
+      "free_xumo_88ea5013",
+      "free_xumo_00c1ba96",
+      "free_xumo_0dee8bf1",
+      "free_xumo_983b7763",
+      "free_xumo_ea679d83",
+      "free_xumo_a84e91ce",
+      "free_xumo_5c4855d8",
+      "free_xumo_87ba3017"
+    ],
+    "XUMO🇺🇸: Local News": [
+      "free_xumo_2dd16899",
+      "free_xumo_95929e90",
+      "free_xumo_02537f51",
+      "free_xumo_439208a0",
+      "free_xumo_806e7de0",
+      "free_xumo_40133695",
+      "free_xumo_89a7e16e",
+      "free_xumo_96fb0860",
+      "free_xumo_c1d61145",
+      "free_xumo_e5bd25b0",
+      "free_xumo_64580bd9",
+      "free_xumo_78b84233",
+      "free_xumo_a9d26912",
+      "free_xumo_74466ee6",
+      "free_xumo_323b64d0",
+      "free_xumo_8e8ce93c",
+      "free_xumo_fca60403",
+      "free_xumo_fd63b8f3",
+      "free_xumo_f7dc03ba",
+      "free_xumo_324c5367"
+    ]
+  },
+  "byRegion": {}
+}
