@@ -522,15 +522,6 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_prem_new-bd-channels_61e9c06e",
-    "displayName": "NE-W 1",
-    "logoUrl": "https://s3.aynaott.com/storage/671cfb22f8d0362ae01403b6e748f2e2",
-    "category": "News",
-    "country": "NE",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
     "channelId": "idx_prem_us_organized_final_8e737ea4",
     "displayName": "Showtime",
     "logoUrl": "https://i.imgur.com/Or0LKsu.png",
@@ -567,7 +558,7 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_prem_final_iptv_dead_7b0ef842",
+    "channelId": "idx_prem_final_iptv_active_7b0ef842",
     "displayName": "ESPN",
     "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg",
     "category": "Sports",
@@ -644,6 +635,15 @@
     "logoUrl": "https://i.imgur.com/8MRNFb9.png",
     "category": "Mendoza",
     "country": "AR",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_prem_as_61e9c06e",
+    "displayName": "AS-W 1",
+    "logoUrl": "https://i.imgur.com/Wc5Z3iS.png",
+    "category": "American samoa",
+    "country": "AS",
     "priority": 0,
     "reason": "Broadcaster"
   },

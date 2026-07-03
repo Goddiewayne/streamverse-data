@@ -9,7 +9,7 @@
   {
     "sourceType": "FREE_CHANNEL",
     "providerName": "FREE_CHANNEL",
-    "channelCount": 7532,
+    "channelCount": 7538,
     "healthyCount": 0,
     "healthPct": 0.0
   },
@@ -23,7 +23,7 @@
   {
     "sourceType": "SPORTS_EVENTS",
     "providerName": "SPORTS_EVENTS",
-    "channelCount": 875,
+    "channelCount": 874,
     "healthyCount": 0,
     "healthPct": 0.0
   },
@@ -37,14 +37,14 @@
   {
     "sourceType": "GLOBAL_INDEX",
     "providerName": "GLOBAL_INDEX",
-    "channelCount": 44590,
+    "channelCount": 44396,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "RADIO",
     "providerName": "RADIO",
-    "channelCount": 723,
+    "channelCount": 722,
     "healthyCount": 0,
     "healthPct": 0.0
   }

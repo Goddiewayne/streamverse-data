@@ -19,6 +19,7 @@
     "idx_prem_us_organized_final_625d534a",
     "idx_prem_dhanytv_0a8fc7d5",
     "idx_prem_dhanytv_258f178b",
+    "idx_prem_dhanytv_c05a594b",
     "idx_Alarabiya.ae@SD",
     "idx_BabyFirst.us@Brazil",
     "idx_Bravo.us@West",
@@ -48,8 +49,7 @@
     "idx_CCTV9.cn",
     "idx_CCTV13.cn",
     "idx_CCTV17.cn",
-    "idx_RotanaCinema.eg",
-    "idx_FranceInter.fr"
+    "idx_RotanaCinema.eg"
   ],
   "trending": [
     "idx_CBC.az",
@@ -71,7 +71,7 @@
     "idx_prem_us_organized_final_625d534a",
     "idx_prem_dhanytv_0a8fc7d5",
     "idx_prem_dhanytv_258f178b",
-    "idx_Alarabiya.ae@SD"
+    "idx_prem_dhanytv_c05a594b"
   ],
   "recentlyAdded": [
     "yt_yt_tv360_nigeria",
@@ -232,11 +232,11 @@
       "idx_13SiamThai.th@SD",
       "idx_22ScopeNews.in@SD",
       "idx_247CanaldeNoticias.ar@SD",
-      "idx_247TV.bo@SD",
       "idx_24KZ.kz@SD",
       "idx_24News.in@SD",
       "idx_24TV.tr@SD",
-      "idx_Channel24.ua@SD"
+      "idx_Channel24.ua@SD",
+      "idx_30ALionelNation.us@SD"
     ],
     "Culture": [
       "idx_2STV.sn@SD",
@@ -404,7 +404,6 @@
       "idx_EmanTv.iq@HD",
       "idx_Freeform.us@East",
       "idx_Freeform.us@West",
-      "idx_GreatAmericanFamily.us@SD",
       "idx_GreenTV.bd@SD",
       "idx_HallmarkChannel.us@East",
       "idx_LTNFamily.pk@SD",
@@ -412,7 +411,8 @@
       "idx_Mixkurdy.iq@HD",
       "idx_MyFamily.id@SD",
       "idx_PositivTV.us@SD",
-      "idx_SevimliTV.uz@SD"
+      "idx_SevimliTV.uz@SD",
+      "idx_ShowtimeFamilyZone.us@East"
     ],
     "Lifestyle": [
       "idx_9Life.au@Sydney",
@@ -521,8 +521,8 @@
       "idx_BBCFour.uk@UK",
       "idx_BondiRescue.de@GB",
       "idx_BritBoxMysteries.us@SD",
-      "idx_BTBInfo.pl@SD",
-      "idx_CazadordeHomicidas.us@Spain"
+      "idx_CazadordeHomicidas.us@Spain",
+      "idx_CCTV9.cn@SD"
     ],
     "Auto": [
       "idx_30AWeLoveCars.us@SD",
@@ -608,9 +608,9 @@
       "idx_WeatherNation.us",
       "idx_TheWeatherNetwork.ca",
       "idx_prem_us_organized_final_a098c4fc",
-      "idx_prem_final_iptv_active_80061894",
       "free_roku_ed47687b",
-      "free_roku_25bf67c9"
+      "free_roku_25bf67c9",
+      "free_tubi_3c1efa4b"
     ],
     "Cooking": [
       "idx_AmericasTestKitchen.us@SD",
@@ -630,9 +630,9 @@
       "idx_IntheKitchen.us@SD",
       "idx_JordanKitchen.jo@SD",
       "idx_KitchenTV.rs@SD",
-      "idx_KukhnyaTV.ru@SD",
       "idx_KulinarTV.ru@SD",
-      "idx_MadDogandMerrill.us@SD"
+      "idx_MadDogandMerrill.us@SD",
+      "idx_MasalaTV.pk@SD"
     ],
     "Travel": [
       "idx_ArubaTV.aw@SD",
@@ -785,8 +785,7 @@
       "idx_LN24.be",
       "idx_Een.be",
       "idx_Canvas.be",
-      "idx_VTM.be",
-      "idx_prem_playlist_belgium8_5206560a"
+      "idx_VTM.be"
     ],
     "Bosnia and herzegovina": [
       "idx_BHT1.ba",
@@ -830,8 +829,8 @@
       "idx_freetv_dd7536794b63",
       "idx_CIVMDT.ca",
       "idx_CPACFrench.ca",
-      "idx_prem_playlist_canada8_b9ece18c",
-      "free_pluto_75447d0f"
+      "free_pluto_75447d0f",
+      "free_pluto_fa34f012"
     ],
     "Chad": [
       "idx_Tchad24.td"
@@ -1092,12 +1091,12 @@
       "idx_TV9Bharatvarsh.in",
       "idx_RepublicBharat.in",
       "idx_prem_final_iptv_geo_c81e728d",
+      "idx_prem_final_iptv_geo_57cec413",
       "idx_prem_final_iptv_active_b08cb683",
       "idx_prem_final_iptv_active_d9ac39af",
       "idx_prem_final_iptv_active_55ce201d",
       "idx_prem_final_iptv_active_e4ba2f98",
-      "idx_prem_final_iptv_active_81ba258e",
-      "idx_prem_final_iptv_active_4245758f"
+      "idx_prem_final_iptv_active_81ba258e"
     ],
     "Indonesia": [
       "idx_CNBCIndonesia.am",
@@ -1131,8 +1130,7 @@
       "idx_spin1038.com",
       "idx_q102.ie",
       "idx_classichits.ie",
-      "idx_sunshineradio.ie",
-      "idx_prem_playlist_ireland8_8d9c307c"
+      "idx_sunshineradio.ie"
     ],
     "Israel": [
       "idx_Channel9.il",
@@ -1259,8 +1257,7 @@
       "idx_OmropFryslanTV.nl",
       "idx_RTVNoord.nl",
       "idx_RTVDrenthe.nl",
-      "idx_RTVUtrecht.nl",
-      "idx_prem_playlist_netherlands8_8d9c307c"
+      "idx_RTVUtrecht.nl"
     ],
     "North korea": [
       "idx_KCTV.kp"
@@ -1277,8 +1274,7 @@
       "idx_TV21.mk",
       "idx_info.mnet.mk",
       "idx_24.mk",
-      "idx_SkyFolkTV.mk",
-      "idx_prem_playlist_north_macedonia8_69691c7b"
+      "idx_SkyFolkTV.mk"
     ],
     "Norway": [
       "idx_NRK1.no",
@@ -1321,18 +1317,13 @@
       "idx_RTP3.pt",
       "idx_PortoCanal.pt",
       "idx_CNNPortugal.pt",
-      "idx_EuronewsPortuguese.fr",
-      "idx_prem_playlist_portugal8_7fc56270"
+      "idx_EuronewsPortuguese.fr"
     ],
     "Qatar": [
       "idx_QatarTelevision.qa",
       "idx_QatarTelevision2.qa",
       "idx_QatarTelevisionTheHolyQuran.qa",
-      "idx_AlJazeeraMubasher.qa",
-      "idx_prem_playlist_qatar8_6f8618a3",
-      "idx_prem_playlist_qatar8_678eb416",
-      "idx_prem_playlist_qatar8_32f96ae5",
-      "idx_prem_playlist_qatar8_5e8a8f12"
+      "idx_AlJazeeraMubasher.qa"
     ],
     "Romania": [
       "idx_TVR1.ro",
@@ -1374,8 +1365,7 @@
       "idx_KurirTV.rs",
       "idx_InformerTV.rs",
       "idx_RTV1.rs",
-      "idx_RTV2.rs",
-      "idx_prem_playlist_serbia8_b4fcc248"
+      "idx_RTV2.rs"
     ],
     "Slovakia": [
       "idx_TVNRSR.sk",
@@ -1384,8 +1374,7 @@
       "idx_JOJWAU.sk",
       "idx_JOJ24.sk",
       "idx_JOJSport.sk",
-      "idx_TA3.sk",
-      "idx_prem_playlist_slovakia8_5dbc98dc"
+      "idx_TA3.sk"
     ],
     "Slovenia": [
       "idx_TVSlovenija1.si",
@@ -1481,9 +1470,7 @@
       "idx_CNC3.tt",
       "idx_freetv_b2f5ff474366",
       "idx_SynergyTV.tt",
-      "idx_TTT.tt",
-      "idx_prem_playlist_trinidad8_dd753679",
-      "idx_prem_playlist_trinidad8_b9ece18c"
+      "idx_TTT.tt"
     ],
     "Turkey": [
       "idx_TRT2.tr"
@@ -1617,20 +1604,14 @@
       "idx_FilmRiseSciFi.us",
       "idx_freetv_45c48cce2e2d",
       "idx_freetv_c9f0f895fb98",
-      "idx_freetv_8f14e45fceea",
-      "idx_prem_playlist_zz_movies8_44c29edb",
-      "idx_prem_playlist_zz_movies8_9d5ed678",
-      "idx_prem_playlist_zz_movies8_0d61f837",
-      "idx_prem_playlist_zz_movies8_80061894",
-      "idx_prem_playlist_zz_movies8_b9ece18c"
+      "idx_freetv_8f14e45fceea"
     ],
     "News ar": [
       "idx_AlJazeeraChannel.qa",
       "idx_AlHadath.sa",
       "idx_France24Arabic.fr",
       "idx_DWArabic.de",
-      "idx_Sahara-24.mr",
-      "idx_prem_playlist_zz_news_ar8_5f9cdcec"
+      "idx_Sahara-24.mr"
     ],
     "News es": [
       "idx_EuronewsSpanish.fr",
@@ -1754,112 +1735,6 @@
       "idx_prem_channels_5dfdf7f7",
       "idx_prem_channels_fd2ec553"
     ],
-    "Premium": [
-      "idx_prem_ip-tv_5dbc98dc",
-      "idx_prem_ip-tv_3a3ea00c",
-      "idx_prem_ip-tv_8d9c307c",
-      "idx_prem_ip-tv_ff44570a",
-      "idx_prem_ip-tv_21c2e595",
-      "idx_prem_ip-tv_0d61f837",
-      "idx_prem_ip-tv_f623e75a",
-      "idx_prem_ip-tv_7fc56270",
-      "idx_prem_ip-tv_e4da3b7f",
-      "idx_prem_ip-tv_d20caec3",
-      "idx_prem_ip-tv_69691c7b",
-      "idx_prem_ip-tv_f1862177",
-      "idx_prem_ip-tv_b9ece18c",
-      "idx_prem_ip-tv_9d5ed678",
-      "idx_prem_ip-tv_e1e1d3d4",
-      "idx_prem_ip-tv_c81e728d",
-      "idx_prem_ip-tv_eccbc87e",
-      "idx_prem_ip-tv_a87ff679",
-      "idx_prem_ip-tv_1679091c",
-      "idx_prem_ip-tv_61e9c06e"
-    ],
-    "Bangladeshi": [
-      "idx_prem_5_9d5ed678",
-      "idx_prem_5_e1e1d3d4",
-      "idx_prem_5_7fc56270",
-      "idx_prem_5_dfcf28d0",
-      "idx_prem_5_5dbc98dc",
-      "idx_prem_5_61e9c06e",
-      "idx_prem_5_dd753679",
-      "idx_prem_5_241a9451",
-      "idx_prem_final_iptv_active_83878c91",
-      "idx_prem_final_iptv_dead_c4ca4238",
-      "idx_prem_final_iptv_dead_c81e728d",
-      "idx_prem_final_iptv_dead_e4da3b7f",
-      "idx_prem_final_iptv_dead_1679091c",
-      "idx_prem_final_iptv_dead_8f14e45f"
-    ],
-    "Live tv": [
-      "idx_prem_5_03c7c0ac",
-      "idx_prem_5_2510c390"
-    ],
-    "Bangla": [
-      "idx_prem_new-bd-channels_0d61f837",
-      "idx_prem_new-bd-channels_8d9c307c",
-      "idx_prem_new-bd-channels_9d5ed678",
-      "idx_prem_new-bd-channels_e1e1d3d4",
-      "idx_prem_new-bd-channels_7fc56270",
-      "idx_prem_new-bd-channels_3a3ea00c",
-      "idx_prem_new-bd-channels_69691c7b",
-      "idx_prem_new-bd-channels_f623e75a",
-      "idx_prem_new-bd-channels_dfcf28d0",
-      "idx_prem_new-bd-channels_5dbc98dc",
-      "idx_prem_new-bd-channels_44c29edb",
-      "idx_prem_new-bd-channels_b9ece18c",
-      "idx_prem_final_iptv_active_af31790b",
-      "idx_prem_final_iptv_active_361e79a3",
-      "idx_prem_final_iptv_active_6ac86469",
-      "idx_prem_final_iptv_active_78d66a25",
-      "idx_prem_final_iptv_active_cce43a72",
-      "idx_prem_final_iptv_active_af230775",
-      "idx_prem_final_iptv_active_207f9b91",
-      "idx_prem_final_iptv_active_65525181"
-    ],
-    "Channels": [
-      "idx_prem_new-bd-channels_21c2e595",
-      "idx_prem_new-bd-channels_8ce4b16b",
-      "idx_prem_new-bd-channels_83878c91",
-      "idx_prem_final_iptv_dead_e1e1d3d4",
-      "idx_prem_final_iptv_dead_21c2e595",
-      "idx_prem_final_iptv_dead_8ce4b16b",
-      "idx_prem_final_iptv_dead_83878c91",
-      "idx_prem_final_iptv_dead_a87ff679",
-      "idx_prem_final_iptv_complete_21c2e595",
-      "idx_prem_final_iptv_complete_8ce4b16b",
-      "idx_prem_final_iptv_complete_83878c91"
-    ],
-    "English": [
-      "idx_prem_new-bd-channels_d20caec3",
-      "idx_prem_final_iptv_geo_c4ca4238",
-      "idx_prem_final_iptv_geo_e07786ab",
-      "idx_prem_final_iptv_geo_363113a2",
-      "idx_prem_final_iptv_geo_2f1a1d51",
-      "idx_prem_final_iptv_geo_b6bbe57f",
-      "idx_prem_final_iptv_active_39f6e604",
-      "idx_prem_final_iptv_dead_dd753679",
-      "idx_prem_final_iptv_dead_f623e75a",
-      "idx_prem_final_iptv_dead_d20caec3",
-      "idx_prem_final_iptv_dead_4c614360",
-      "idx_prem_final_iptv_dead_b22542e5",
-      "idx_prem_final_iptv_dead_42d748f5",
-      "idx_prem_final_iptv_dead_801a3082",
-      "idx_prem_final_iptv_dead_ad9d4d96",
-      "idx_prem_final_iptv_dead_22a61c45",
-      "idx_prem_final_iptv_dead_a4d4749a",
-      "idx_prem_final_iptv_dead_5deb25b8",
-      "idx_prem_final_iptv_dead_e1a161c1",
-      "idx_prem_final_iptv_dead_7214151d"
-    ],
-    "Hindi": [
-      "idx_prem_new-bd-channels_45c48cce",
-      "idx_prem_final_iptv_active_c1d9f50f",
-      "idx_prem_final_iptv_dead_45c48cce",
-      "idx_prem_final_iptv_complete_45c48cce",
-      "idx_prem_roarzone_c1d9f50f"
-    ],
     "Aguascalientes": [
       "idx_prem_index_9d5ed678",
       "idx_prem_index_d20caec3",
@@ -1883,7 +1758,9 @@
       "idx_prem_us-gu_44c29edb"
     ],
     "Other": [
-      "idx_prem_final_iptv_geo_5dbc98dc",
+      "idx_prem_final_iptv_geo_61e9c06e",
+      "idx_prem_final_iptv_active_e4da3b7f",
+      "idx_prem_final_iptv_active_02129bb8",
       "free_roku_66079e95",
       "free_roku_094c6148",
       "free_roku_bcbddfb6",
@@ -1894,8 +1771,52 @@
     "Bd iptv": [
       "idx_prem_final_iptv_geo_a87ff679"
     ],
+    "English": [
+      "idx_prem_final_iptv_geo_c4ca4238",
+      "idx_prem_final_iptv_geo_e07786ab",
+      "idx_prem_final_iptv_geo_363113a2",
+      "idx_prem_final_iptv_geo_2f1a1d51",
+      "idx_prem_final_iptv_geo_b6bbe57f",
+      "idx_prem_final_iptv_active_39f6e604",
+      "idx_prem_final_iptv_dead_d20caec3",
+      "idx_prem_final_iptv_dead_4c614360",
+      "idx_prem_final_iptv_dead_b22542e5",
+      "idx_prem_final_iptv_dead_42d748f5",
+      "idx_prem_final_iptv_dead_801a3082",
+      "idx_prem_final_iptv_dead_ad9d4d96",
+      "idx_prem_final_iptv_dead_22a61c45",
+      "idx_prem_final_iptv_dead_a4d4749a",
+      "idx_prem_final_iptv_dead_5deb25b8",
+      "idx_prem_final_iptv_dead_e1a161c1",
+      "idx_prem_final_iptv_dead_7214151d",
+      "idx_prem_final_iptv_dead_f3d2e769",
+      "idx_prem_final_iptv_dead_21d77a60",
+      "idx_prem_final_iptv_dead_47aeae6c"
+    ],
     "Ityadi": [
       "idx_prem_final_iptv_geo_ff44570a"
+    ],
+    "Premium": [
+      "idx_prem_final_iptv_geo_cfcd2084",
+      "idx_prem_final_iptv_geo_9e3669d1",
+      "idx_prem_final_iptv_geo_c1d9f50f",
+      "idx_prem_dhanytv-ott_4b956597",
+      "idx_prem_dhanytv-ott_800b8087",
+      "idx_prem_final_iptv_dead_cfcd2084",
+      "idx_prem_ar_ad201897",
+      "idx_prem_ar_b7f826d1",
+      "idx_prem_ar_c6d6e709",
+      "idx_prem_ar_d72bb390",
+      "idx_prem_ar_d098be9f",
+      "idx_prem_ar_44cb20a2",
+      "idx_prem_ar_cc04442b",
+      "idx_prem_ar_13c73ab9",
+      "idx_prem_ar_d2d032e9",
+      "idx_prem_ar_0fda3f47",
+      "idx_prem_ar_42c41cd9",
+      "idx_prem_ar_4d4bdfc2",
+      "idx_prem_ar_c0a6cd63",
+      "idx_prem_ar_81eade05"
     ],
     "Bangla news": [
       "idx_prem_final_iptv_geo_afea25ea",
@@ -1957,14 +1878,14 @@
       "idx_prem_final_iptv_geo_6bb56208",
       "idx_prem_final_iptv_geo_f5aa4bd0",
       "idx_prem_final_iptv_geo_a4e858c1",
+      "idx_prem_final_iptv_geo_4c614360",
       "idx_prem_final_iptv_active_13d2b736",
       "idx_prem_final_iptv_active_e94550c9",
       "idx_prem_final_iptv_dead_3413ce14",
       "idx_prem_final_iptv_dead_add5efc3",
       "idx_prem_final_iptv_dead_185e48a4",
       "idx_prem_final_iptv_dead_310614fc",
-      "idx_prem_final_iptv_dead_ac1ae6a5",
-      "idx_prem_final_iptv_dead_75c58d36"
+      "idx_prem_final_iptv_dead_ac1ae6a5"
     ],
     "Urdu": [
       "idx_prem_final_iptv_geo_c9f0f895"
@@ -2248,45 +2169,76 @@
     "Welcome to playz tv": [
       "idx_prem_final_iptv_active_61e9c06e"
     ],
+    "Fifa world cup 2026": [
+      "idx_prem_final_iptv_active_9d5ed678",
+      "idx_prem_final_iptv_active_b9ece18c",
+      "idx_prem_worldcup-2026-ae-placeholder_5bbe9df9"
+    ],
     "Cricket": [
       "idx_prem_final_iptv_active_d20caec3",
-      "idx_prem_test_5dbc98dc"
+      "idx_prem_final_iptv_active_5dbc98dc"
+    ],
+    "Islamic channels": [
+      "idx_prem_final_iptv_active_f09564c9",
+      "idx_prem_test_7fc56270"
     ],
     "News internasional": [
-      "idx_prem_final_iptv_active_dfcf28d0"
+      "idx_prem_final_iptv_active_dfcf28d0",
+      "idx_prem_final_iptv_active_8d9c307c"
+    ],
+    "Relagion channel": [
+      "idx_prem_final_iptv_active_3a3ea00c"
+    ],
+    "Hindi music": [
+      "idx_prem_final_iptv_active_c1d9f50f",
+      "idx_prem_final_iptv_active_45c48cce"
     ],
     "Hindi dabbing movies": [
       "idx_prem_final_iptv_active_ff44570a"
+    ],
+    "Bangla": [
+      "idx_prem_final_iptv_active_6ac86469",
+      "idx_prem_final_iptv_active_78d66a25",
+      "idx_prem_final_iptv_active_cce43a72",
+      "idx_prem_final_iptv_active_207f9b91",
+      "idx_prem_final_iptv_active_65525181",
+      "idx_prem_final_iptv_active_566a14c4",
+      "idx_prem_final_iptv_active_515d391e",
+      "idx_prem_final_iptv_active_0fc1d799",
+      "idx_prem_final_iptv_active_435b7840",
+      "idx_prem_final_iptv_dead_ed7c5c5a",
+      "idx_prem_final_iptv_dead_c4528b93",
+      "idx_prem_final_iptv_dead_8d9c307c",
+      "idx_prem_final_iptv_dead_3a3ea00c",
+      "idx_prem_final_iptv_dead_361e79a3",
+      "idx_prem_final_iptv_dead_902d6cad",
+      "idx_prem_final_iptv_dead_2c562ca0",
+      "idx_prem_final_iptv_dead_9a13d98a",
+      "idx_prem_final_iptv_dead_cf36f7fc",
+      "idx_prem_final_iptv_dead_5b5b0568",
+      "idx_prem_test_af31790b"
     ],
     "International news": [
       "idx_prem_final_iptv_active_014ff564",
       "idx_prem_final_iptv_active_b64cb1f9",
       "idx_prem_final_iptv_active_fd616d51",
-      "idx_prem_final_iptv_active_16fe3871",
       "idx_prem_final_iptv_active_5c2f5c93",
       "idx_prem_final_iptv_active_cdad3cbc",
       "idx_prem_final_iptv_active_6d5134d3",
       "idx_prem_final_iptv_active_196b140e",
       "idx_prem_final_iptv_active_aa11677d",
       "idx_prem_final_iptv_active_19f8ac02",
+      "idx_prem_final_iptv_active_4b08635a",
       "idx_prem_final_iptv_active_33a8be54",
       "idx_prem_final_iptv_active_d528a8a5",
       "idx_prem_final_iptv_active_85bf2e3e",
       "idx_prem_final_iptv_active_6970ccdd",
       "idx_prem_final_iptv_active_8eb81410",
-      "idx_prem_test_4b08635a",
+      "idx_prem_test_16fe3871",
       "idx_prem_smartplay_4572d204",
       "idx_prem_smartplay_357a6fdf",
       "idx_prem_smartplay_4f4adcbf",
       "idx_prem_smartplay_053da6a2"
-    ],
-    "Pakistan": [
-      "idx_prem_final_iptv_active_f8d2c3f9",
-      "idx_prem_final_iptv_active_3c5e4aa7",
-      "idx_prem_final_iptv_active_2bea964a",
-      "idx_prem_final_iptv_active_e5d9bb3b",
-      "idx_prem_final_iptv_active_f601cbd4",
-      "idx_prem_final_iptv_active_e7fc04b7"
     ],
     "Educational": [
       "idx_prem_final_iptv_active_e7dea707",
@@ -2444,19 +2396,45 @@
       "idx_prem_maxdigitaltv_6868e581",
       "idx_prem_maxdigitaltv_c858bc98"
     ],
-    "Worldcup": [
-      "idx_prem_final_iptv_dead_865c0c0b"
+    "Cartoon drama": [
+      "idx_prem_final_iptv_dead_f623e75a",
+      "idx_prem_final_iptv_dead_69691c7b"
+    ],
+    "Hindi": [
+      "idx_prem_final_iptv_dead_c1d9f50f",
+      "idx_prem_final_iptv_dead_45c48cce",
+      "idx_prem_roarzone_c1d9f50f"
+    ],
+    "Channels": [
+      "idx_prem_final_iptv_dead_8ce4b16b",
+      "idx_prem_final_iptv_dead_e1e1d3d4",
+      "idx_prem_final_iptv_dead_83878c91",
+      "idx_prem_final_iptv_dead_21c2e595",
+      "idx_prem_final_iptv_dead_a87ff679"
+    ],
+    "Islamic": [
+      "idx_prem_final_iptv_dead_dd753679"
+    ],
+    "Bangladeshi": [
+      "idx_prem_final_iptv_dead_c4ca4238",
+      "idx_prem_final_iptv_dead_c81e728d",
+      "idx_prem_final_iptv_dead_e4da3b7f",
+      "idx_prem_final_iptv_dead_1679091c",
+      "idx_prem_final_iptv_dead_8f14e45f",
+      "idx_prem_test_83878c91"
     ],
     "Unknown": [
       "idx_prem_test_9d5ed678",
       "idx_prem_test_b9ece18c",
       "idx_prem_test_69691c7b"
     ],
-    "Islamic channels": [
-      "idx_prem_test_7fc56270"
-    ],
-    "Hindi music": [
-      "idx_prem_test_c1d9f50f"
+    "Pakistan": [
+      "idx_prem_test_f8d2c3f9",
+      "idx_prem_test_3c5e4aa7",
+      "idx_prem_test_2bea964a",
+      "idx_prem_test_e5d9bb3b",
+      "idx_prem_test_f601cbd4",
+      "idx_prem_test_e7fc04b7"
     ],
     "Premium movies": [
       "idx_prem_dhanytv_40dcc1d9",
@@ -2511,9 +2489,6 @@
       "idx_prem_dhanytv_cac931cb",
       "idx_prem_dhanytv_3a054037"
     ],
-    "Fifa world cup 2026": [
-      "idx_prem_worldcup-2026-ae-placeholder_5bbe9df9"
-    ],
     "All": [
       "idx_prem_src_90_b9ece18c",
       "idx_prem_src_90_ff44570a",
@@ -2536,12 +2511,6 @@
       "idx_prem_live_8f14e45f",
       "idx_prem_live_8277e091"
     ],
-    "Montenegro": [
-      "idx_prem_playlist_montenegro8_9fc50685",
-      "idx_prem_playlist_montenegro8_db686ed8",
-      "idx_prem_playlist_montenegro8_ca94ab24",
-      "idx_prem_playlist_montenegro8_d3c0637d"
-    ],
     "Anguilla": [
       "idx_prem_ai_9d5ed678"
     ],
@@ -2549,7 +2518,8 @@
       "idx_prem_ar-m_f623e75a"
     ],
     "American samoa": [
-      "idx_prem_as_9d5ed678"
+      "idx_prem_as_9d5ed678",
+      "idx_prem_as_61e9c06e"
     ],
     "Burundi": [
       "idx_prem_bi_e1e1d3d4"
@@ -2726,24 +2696,24 @@
     ],
     "Radio": [
       "idx_prem_elektamedia_81261525",
-      "idx_prem_elektamedia_c0c48500",
       "idx_prem_elektamedia_941311be",
       "idx_prem_elektamedia_8d95223b",
       "idx_prem_elektamedia_6f3791de",
       "radio_d1a54d2e-623e-4970-ab11-35f7b56c5ec3",
-      "radio_7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d",
       "radio_dfcef843-6bf9-40f6-b3fe-2b224df86e48",
+      "radio_7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d",
       "radio_98adecf7-2683-4408-9be7-02d3f9098eb8",
       "radio_78012206-1aa1-11e9-a80b-52543be04c81",
-      "radio_9617a958-0601-11e8-ae97-52543be04c81",
-      "radio_da5f481e-f7d6-49b3-b213-514027740d39",
-      "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
       "radio_1c3e8be2-5b14-4933-bad3-87cbc227cba4",
+      "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
       "radio_d28420a4-eccf-47a2-ace1-088c7e7cb7e0",
       "radio_2dffb353-5341-4438-b67b-83de8c3efbab",
-      "radio_313046e3-b203-4b9d-bc3e-393da7d97126",
-      "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
+      "radio_9617a958-0601-11e8-ae97-52543be04c81",
+      "radio_da5f481e-f7d6-49b3-b213-514027740d39",
       "radio_240d28b9-7858-48d2-a816-9cf8e1875fe8",
+      "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
+      "radio_313046e3-b203-4b9d-bc3e-393da7d97126",
+      "radio_692a3b69-0f68-11ea-a87e-52543be04c81",
       "radio_ea8059be-d119-4de3-b27b-0d9bd6aedb17"
     ],
     "Entretenimiento": [
@@ -2951,6 +2921,7 @@
     ],
     "Music channels": [
       "idx_prem_smartplay_735b90b4",
+      "idx_prem_smartplay_4252b72e",
       "idx_prem_smartplay_75887499",
       "idx_prem_smartplay_bc6dc48b",
       "idx_prem_smartplay_e4699da0",
