@@ -2,7 +2,7 @@
   {
     "sourceType": "BROADCASTER",
     "providerName": "BROADCASTER",
-    "channelCount": 84,
+    "channelCount": 85,
     "healthyCount": 0,
     "healthPct": 0.0
   },
@@ -23,14 +23,14 @@
   {
     "sourceType": "SPORTS_EVENTS",
     "providerName": "SPORTS_EVENTS",
-    "channelCount": 874,
+    "channelCount": 877,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "WORLD_TV",
     "providerName": "WORLD_TV",
-    "channelCount": 296,
+    "channelCount": 299,
     "healthyCount": 0,
     "healthPct": 0.0
   },

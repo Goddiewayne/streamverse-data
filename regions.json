@@ -39227,9 +39227,10 @@
       "idx_prem_au_0bda4ef6",
       "idx_prem_au_4128afe3",
       "idx_prem_au_bbbd3554",
-      "radio_94ab6f5f-b684-4ca1-ae5c-c5c868ed20c6"
+      "radio_94ab6f5f-b684-4ca1-ae5c-c5c868ed20c6",
+      "br_abc_tv_au"
     ],
-    "count": 350
+    "count": 351
   },
   {
     "country": "BR",
@@ -40705,10 +40706,9 @@
       "radio_283402b5-dc2e-11e9-a8ba-52543be04c81",
       "radio_478fd7f4-dc36-11e9-a8ba-52543be04c81",
       "radio_961bd688-0601-11e8-ae97-52543be04c81",
-      "yt_yt_gb_news",
       "br_reuters_now"
     ],
-    "count": 273
+    "count": 272
   },
   {
     "country": "TR",

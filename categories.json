@@ -28352,9 +28352,10 @@
       "idx_prem_test_b7c58555",
       "yt_yt_azam_tv_tz",
       "br_ard_de",
-      "br_tve_es"
+      "br_tve_es",
+      "br_abc_tv_au"
     ],
-    "count": 2651
+    "count": 2652
   },
   {
     "category": "Movies  hindi dubbed",
@@ -35198,6 +35199,7 @@
       "sport_575",
       "sport_576",
       "sport_577",
+      "sport_366",
       "sport_449",
       "sport_556",
       "sport_557",
@@ -35349,7 +35351,6 @@
       "sport_145",
       "sport_147",
       "sport_148",
-      "sport_294",
       "sport_361",
       "sport_732",
       "sport_362",
@@ -37785,11 +37786,9 @@
       "free_roku_ff88db22",
       "free_roku_c172406c",
       "yt_yt_france24_fr",
-      "yt_yt_dw_news",
       "yt_yt_scmp",
       "yt_yt_ap",
       "yt_yt_pbs_newshour",
-      "yt_yt_gb_news",
       "yt_yt_channels_tv",
       "yt_yt_tvc_news",
       "yt_yt_nta_network",
@@ -37804,13 +37803,12 @@
       "yt_yt_k24_tv_kenya",
       "yt_yt_joynews_ghana",
       "yt_yt_ntv_uganda",
-      "yt_yt_rt_news",
       "br_reuters_now",
       "br_cbs_news_us",
       "br_tve24_es",
       "br_ait_national_ng"
     ],
-    "count": 1140
+    "count": 1137
   },
   {
     "category": "United states",

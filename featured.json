@@ -18,11 +18,11 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_ABC.us@East",
-    "displayName": "ABC",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+    "channelId": "idx_ABCAustralia.au@SD",
+    "displayName": "ABC Australia",
+    "logoUrl": "https://i.imgur.com/qQ33TVM.png",
     "category": "General",
-    "country": "US",
+    "country": "AU",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -54,6 +54,33 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_CBC.eg@SD",
+    "displayName": "CBC",
+    "logoUrl": "https://i.imgur.com/8apNaLP.png",
+    "category": "General",
+    "country": "EG",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CCTV1.cn@HD",
+    "displayName": "CCTV 1",
+    "logoUrl": "https://i.imgur.com/TpA3cUl.png",
+    "category": "General",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CCTV2.cn@SD",
+    "displayName": "CCTV 2",
+    "logoUrl": "https://i.imgur.com/ILamhwU.png",
+    "category": "Business",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
     "channelId": "idx_CCTV3.cn@SD",
     "displayName": "CCTV 3",
     "logoUrl": "https://i.imgur.com/iFlkIuw.png",
@@ -72,10 +99,46 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_CCTV8.cn@SD",
+    "displayName": "CCTV 8",
+    "logoUrl": "https://i.imgur.com/GyHaZ8X.png",
+    "category": "Culture",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CCTV9.cn@SD",
+    "displayName": "CCTV 9",
+    "logoUrl": "https://i.imgur.com/3tivvMm.png",
+    "category": "Documentary",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CCTV13.cn@HD",
+    "displayName": "CCTV 13",
+    "logoUrl": "https://i.imgur.com/6MTar6J.png",
+    "category": "News",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
     "channelId": "idx_CCTV14.cn@HD",
     "displayName": "CCTV 14",
     "logoUrl": "https://i.imgur.com/c5SXW7i.png",
     "category": "Kids",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CCTV17.cn@HD",
+    "displayName": "CCTV 17",
+    "logoUrl": "https://i.imgur.com/jSQURxS.png",
+    "category": "Education",
     "country": "CN",
     "priority": 0,
     "reason": "Broadcaster"
@@ -113,6 +176,15 @@
     "logoUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png",
     "category": "News",
     "country": "FR",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_History.bg@SD",
+    "displayName": "History",
+    "logoUrl": "https://i.imgur.com/6UWM2ER.png",
+    "category": "Documentary",
+    "country": "BG",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -157,15 +229,6 @@
     "displayName": "Newsmax TV",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",
     "category": "News",
-    "country": "US",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_NFLChannel.us@SD",
-    "displayName": "NFL Channel",
-    "logoUrl": "https://i.imgur.com/mPGtwAP.png",
-    "category": "Sports",
     "country": "US",
     "priority": 0,
     "reason": "Broadcaster"
@@ -252,15 +315,6 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_RaiNews24.it@SD",
-    "displayName": "RAI News 24",
-    "logoUrl": "https://i.imgur.com/n2u57y3.png",
-    "category": "News",
-    "country": "IT",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
     "channelId": "idx_RTDocumentary.ru@Russian",
     "displayName": "RT Documentary",
     "logoUrl": "https://i.imgur.com/aeu5zIC.png",
@@ -284,15 +338,6 @@
     "logoUrl": "https://i.imgur.com/liLta8j.png",
     "category": "News",
     "country": "ZA",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_TRT.ve@SD",
-    "displayName": "TRT",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG",
-    "category": "General",
-    "country": "VE",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -361,37 +406,10 @@
   },
   {
     "channelId": "idx_WazobiaMaxTVNigeria.ng@SD",
-    "displayName": "Wazobia Max TV Nigeria",
+    "displayName": "Wazobia MAX TV Nigeria",
     "logoUrl": "https://i.imgur.com/IeioxBp.png",
     "category": "Undefined",
     "country": "NG",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_CBC.az",
-    "displayName": "CBC",
-    "logoUrl": "https://i.imgur.com/wVT0dwO.png",
-    "category": "Azerbaijan",
-    "country": "AZ",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_CCTV1.cn",
-    "displayName": "CCTV 1",
-    "logoUrl": "https://i.imgur.com/uHU6Vc0.png",
-    "category": "China",
-    "country": "CN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_CCTV2.cn",
-    "displayName": "CCTV 2",
-    "logoUrl": "https://i.imgur.com/6C9JEYt.png",
-    "category": "China",
-    "country": "CN",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -405,47 +423,11 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_CCTV8.cn",
-    "displayName": "CCTV 8",
-    "logoUrl": "https://i.imgur.com/Qg1opg9.png",
-    "category": "China",
-    "country": "CN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_CCTV9.cn",
-    "displayName": "CCTV 9",
-    "logoUrl": "https://i.imgur.com/Ruyzhu5.png",
-    "category": "China",
-    "country": "CN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_CCTV13.cn",
-    "displayName": "CCTV 13",
-    "logoUrl": "https://i.imgur.com/pPO8uJN.png",
-    "category": "China",
-    "country": "CN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_CCTV17.cn",
-    "displayName": "CCTV 17",
-    "logoUrl": "https://i.imgur.com/XMsoHut.png",
-    "category": "China",
-    "country": "CN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_Sky.TG24.it",
-    "displayName": "SKY",
-    "logoUrl": "https://i.imgur.com/q4d3Dah.png",
+    "channelId": "idx_RaiNews24.it",
+    "displayName": "RAI News 24",
+    "logoUrl": "https://i.imgur.com/gdzGwB6.png",
     "category": "Italy",
-    "country": "TG",
+    "country": "IT",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -522,6 +504,24 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_SABCNews.gh",
+    "displayName": "SABC News",
+    "logoUrl": "https://i.imgur.com/H9q3Q9d.png",
+    "category": "News",
+    "country": "GH",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_prem_us_organized_final_2cbf7e85",
+    "displayName": "FOX News Channel",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
+    "category": "News",
+    "country": "US",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
     "channelId": "idx_prem_us_organized_final_8e737ea4",
     "displayName": "Showtime",
     "logoUrl": "https://i.imgur.com/Or0LKsu.png",
@@ -535,6 +535,15 @@
     "displayName": "Starz",
     "logoUrl": "https://i.imgur.com/N7oSm4d.png",
     "category": "Undefined",
+    "country": "US",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_prem_us_organized_final_6e60cf89",
+    "displayName": "NFL Network",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",
+    "category": "Sports",
     "country": "US",
     "priority": 0,
     "reason": "Broadcaster"
@@ -567,29 +576,11 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_prem_final_iptv_dead_de7b8fdc",
-    "displayName": "FOX",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/cddhNK23HaP85IOc6TE3Zp7A389.jpg",
-    "category": "Movies  hindi",
-    "country": "FI",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_dhanytv_0a8fc7d5",
-    "displayName": "History",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/HistoryHD_Logo_2015_4C_Black_type.png",
-    "category": "Knowledge and documentary",
-    "country": "ID",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_dhanytv_42fc317c",
-    "displayName": "ABC Australia",
-    "logoUrl": "https://i.imgur.com/kHM0jUd.png",
-    "category": "Entertainment \u0026 lifestyle",
-    "country": "DH",
+    "channelId": "idx_prem_final_iptv_dead_a1ccdb73",
+    "displayName": "SKY News",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/250px-Sky-news-logo.svg.png",
+    "category": "News",
+    "country": "UK",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -617,6 +608,15 @@
     "logoUrl": "https://static.mncnow.id/images/channel/87f1d571/242b_r32.jpg",
     "category": "News",
     "country": "ID",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_prem_dhanytv_9681b549",
+    "displayName": "TRT World",
+    "logoUrl": "https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg",
+    "category": "News",
+    "country": "DH",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -719,7 +719,7 @@
   },
   {
     "channelId": "br_cbs_news_us",
-    "displayName": "CBS 24 7",
+    "displayName": "CBS News 24/7",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/CBS_News_logo.svg/512px-CBS_News_logo.svg.png",
     "category": "News",
     "country": "US",
@@ -741,6 +741,15 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/24_Horas_logo.svg/512px-24_Horas_logo.svg.png",
     "category": "News",
     "country": "ES",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "br_abc_tv_au",
+    "displayName": "ABC TV",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/ABC_TV_%28Australian_TV_channel%29_logo.svg/512px-ABC_TV_%28Australian_TV_channel%29_logo.svg.png",
+    "category": "General",
+    "country": "AU",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -771,47 +780,11 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_Bravo.us@West",
-    "displayName": "Bravo",
-    "logoUrl": "https://i.imgur.com/JmTIRLF.png",
-    "category": "Undefined",
-    "country": "US",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_CBSSportsGolazoNetwork.us@SD",
-    "displayName": "CBS Sports Golazo Network",
-    "logoUrl": "https://i.imgur.com/eMjutHS.png",
-    "category": "Sports",
-    "country": "US",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
     "channelId": "idx_DeluxeMusic.de@SD",
     "displayName": "Deluxe Music",
     "logoUrl": "https://i.imgur.com/HimuPPb.png",
     "category": "Music",
     "country": "DE",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_DisneyChannel.bg@SD",
-    "displayName": "Disney Channel",
-    "logoUrl": "https://i.imgur.com/UxrAiAe.png",
-    "category": "Kids",
-    "country": "BG",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_DisneyJr.tr@SD",
-    "displayName": "Disney Jr",
-    "logoUrl": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png",
-    "category": "Animation",
-    "country": "TR",
     "priority": 1,
     "reason": "Multi-source"
   },
@@ -852,24 +825,6 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_RealMadridTV.es@SD",
-    "displayName": "REAL Madrid TV",
-    "logoUrl": "https://i.imgur.com/5pMo7dL.png",
-    "category": "Sports",
-    "country": "ES",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_TennisChannel.us@SD",
-    "displayName": "Tennis Channel",
-    "logoUrl": "https://i.imgur.com/tsljAnY.png",
-    "category": "Sports",
-    "country": "US",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
     "channelId": "idx_TheWeatherNetwork.ca@SD",
     "displayName": "THE Weather Network",
     "logoUrl": "https://i.imgur.com/V6ZUwUY.png",
@@ -893,6 +848,51 @@
     "logoUrl": "https://i.imgur.com/43oHsHL.png",
     "category": "Business",
     "country": "US",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_RotanaCinema.eg",
+    "displayName": "Rotana Cinema",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Rotana_Cinema_Egy.png",
+    "category": "Egypt",
+    "country": "EG",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_StarChannel.fi",
+    "displayName": "STAR Channel",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/640px-Star_Channel_2020.svg.png",
+    "category": "Finland",
+    "country": "FI",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_FranceInter.fr",
+    "displayName": "France Inter",
+    "logoUrl": "https://i.imgur.com/d9Ncl8m.png",
+    "category": "France",
+    "country": "FR",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_ZDF.de",
+    "displayName": "ZDF",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png",
+    "category": "Germany",
+    "country": "DE",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_3sat.de",
+    "displayName": "3SAT",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png",
+    "category": "Germany",
+    "country": "DE",
     "priority": 1,
     "reason": "Multi-source"
   }
