@@ -9,7 +9,7 @@
   {
     "sourceType": "FREE_CHANNEL",
     "providerName": "FREE_CHANNEL",
-    "channelCount": 7538,
+    "channelCount": 7545,
     "healthyCount": 0,
     "healthPct": 0.0
   },
@@ -37,14 +37,14 @@
   {
     "sourceType": "GLOBAL_INDEX",
     "providerName": "GLOBAL_INDEX",
-    "channelCount": 44396,
+    "channelCount": 44454,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "RADIO",
     "providerName": "RADIO",
-    "channelCount": 722,
+    "channelCount": 729,
     "healthyCount": 0,
     "healthPct": 0.0
   }

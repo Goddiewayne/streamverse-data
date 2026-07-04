@@ -432,15 +432,6 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_RaiSport.it",
-    "displayName": "RAI Sport",
-    "logoUrl": "https://i.imgur.com/xsGljsb.png",
-    "category": "Italy",
-    "country": "IT",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
     "channelId": "idx_AriseNews.uk",
     "displayName": "Arise News",
     "logoUrl": "https://i.imgur.com/B5IXKIb.png",
@@ -513,6 +504,15 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_prem_index_61e9c06e",
+    "displayName": "IN-W 1",
+    "logoUrl": "https://i.imgur.com/Wc5Z3iS.png",
+    "category": "American samoa",
+    "country": "IN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
     "channelId": "idx_prem_us_organized_final_2cbf7e85",
     "displayName": "FOX News Channel",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
@@ -576,6 +576,15 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_prem_final_iptv_dead_5d2edc3d",
+    "displayName": "RAI Sport",
+    "logoUrl": "https://i.imgur.com/6PEevOM.png",
+    "category": "Sports",
+    "country": "IT",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
     "channelId": "idx_prem_final_iptv_dead_a1ccdb73",
     "displayName": "SKY News",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/250px-Sky-news-logo.svg.png",
@@ -635,15 +644,6 @@
     "logoUrl": "https://i.imgur.com/8MRNFb9.png",
     "category": "Mendoza",
     "country": "AR",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_as_61e9c06e",
-    "displayName": "AS-W 1",
-    "logoUrl": "https://i.imgur.com/Wc5Z3iS.png",
-    "category": "American samoa",
-    "country": "AS",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -834,6 +834,15 @@
     "reason": "Multi-source"
   },
   {
+    "channelId": "idx_TMC.fr@SD",
+    "displayName": "TMC",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
+    "category": "General",
+    "country": "FR",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
     "channelId": "idx_TSN3.ca@SD",
     "displayName": "TSN3",
     "logoUrl": "https://i.imgur.com/AYza8KO.png",
@@ -882,15 +891,6 @@
     "channelId": "idx_ZDF.de",
     "displayName": "ZDF",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png",
-    "category": "Germany",
-    "country": "DE",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_3sat.de",
-    "displayName": "3SAT",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png",
     "category": "Germany",
     "country": "DE",
     "priority": 1,
