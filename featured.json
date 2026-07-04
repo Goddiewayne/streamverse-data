@@ -762,137 +762,136 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_BabyFirst.us@Brazil",
-    "displayName": "BABY First",
-    "logoUrl": "https://i.imgur.com/WxLHBwu.png",
-    "category": "Kids",
-    "country": "US",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_BBCNews.uk@Europe",
-    "displayName": "BBC News",
-    "logoUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
-    "category": "News",
-    "country": "UK",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_DeluxeMusic.de@SD",
-    "displayName": "Deluxe Music",
-    "logoUrl": "https://i.imgur.com/HimuPPb.png",
+    "channelId": "idx_9XJalwa.in@SD",
+    "displayName": "9 X Jalwa",
+    "logoUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png",
     "category": "Music",
-    "country": "DE",
+    "country": "IN",
     "priority": 1,
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_FoxBusinessNetwork.us@SD",
-    "displayName": "FOX Business Network",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",
-    "category": "Business",
-    "country": "US",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_FoxSports.ar@SD",
-    "displayName": "FOX Sports",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
-    "category": "Sports",
-    "country": "AR",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_France5.fr@SD",
-    "displayName": "France 5",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png",
+    "channelId": "idx_A2Z.ph@SD",
+    "displayName": "A2Z",
+    "logoUrl": "https://i.imgur.com/1zsdloF.png",
     "category": "General",
-    "country": "FR",
+    "country": "PH",
     "priority": 1,
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_NHLNetwork.us@SD",
-    "displayName": "NHL Network",
-    "logoUrl": "https://i.imgur.com/UNZ8bef.png",
+    "channelId": "idx_APlus.mx@SD",
+    "displayName": "A Plus",
+    "logoUrl": "https://i.imgur.com/TWk9gfd.png",
+    "category": "Culture",
+    "country": "MX",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_ABCKids.au@Sydney",
+    "displayName": "ABC Kids",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+    "category": "Kids",
+    "country": "AU",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_AlkassFour.qa@SD",
+    "displayName": "Alkass Four",
+    "logoUrl": "https://i.imgur.com/iDL65Wu.png",
     "category": "Sports",
-    "country": "US",
+    "country": "QA",
     "priority": 1,
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_TheWeatherNetwork.ca@SD",
-    "displayName": "THE Weather Network",
-    "logoUrl": "https://i.imgur.com/V6ZUwUY.png",
-    "category": "Weather",
-    "country": "CA",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_TMC.fr@SD",
-    "displayName": "TMC",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
-    "category": "General",
-    "country": "FR",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_TSN3.ca@SD",
-    "displayName": "TSN3",
-    "logoUrl": "https://i.imgur.com/AYza8KO.png",
+    "channelId": "idx_AlkassOne.qa@SD",
+    "displayName": "Alkass ONE",
+    "logoUrl": "https://i.imgur.com/10mmlha.png",
     "category": "Sports",
-    "country": "CA",
+    "country": "QA",
     "priority": 1,
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_YahooFinance.us@SD",
-    "displayName": "Yahoo Finance",
-    "logoUrl": "https://i.imgur.com/43oHsHL.png",
-    "category": "Business",
+    "channelId": "idx_AlkassThree.qa@SD",
+    "displayName": "Alkass Three",
+    "logoUrl": "https://i.imgur.com/d57BdFh.png",
+    "category": "Sports",
+    "country": "QA",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_AlkassTwo.qa@SD",
+    "displayName": "Alkass Two",
+    "logoUrl": "https://i.imgur.com/8w61kFX.png",
+    "category": "Sports",
+    "country": "QA",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_AMC.af@SD",
+    "displayName": "AMC",
+    "logoUrl": "https://i.imgur.com/yj8RNnG.png",
+    "category": "Music",
+    "country": "AF",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_ArenaSport1Premium.rs@SD",
+    "displayName": "Arena Sport 1 Premium",
+    "logoUrl": "https://i.imgur.com/csv6YsL.png",
+    "category": "Sports",
+    "country": "RS",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_ArenaSport2Premium.rs@SD",
+    "displayName": "Arena Sport 2 Premium",
+    "logoUrl": "https://i.imgur.com/ztOmQ7P.png",
+    "category": "Sports",
+    "country": "RS",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_ArenaSport3Premium.rs@SD",
+    "displayName": "Arena Sport 3 Premium",
+    "logoUrl": "https://i.imgur.com/gpqemLf.png",
+    "category": "Sports",
+    "country": "RS",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_ARYZindagi.pk@SD",
+    "displayName": "ARY Zindagi",
+    "category": "Entertainment",
+    "country": "PK",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_AsharqDiscovery.sa@SD",
+    "displayName": "Asharq Discovery",
+    "logoUrl": "https://i.imgur.com/Czxi7yk.png",
+    "category": "Documentary",
+    "country": "SA",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_AXNBlack.us@Romania",
+    "displayName": "AXN Black",
+    "logoUrl": "https://i.imgur.com/Peo1QiZ.png",
+    "category": "Movies",
     "country": "US",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_RotanaCinema.eg",
-    "displayName": "Rotana Cinema",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Rotana_Cinema_Egy.png",
-    "category": "Egypt",
-    "country": "EG",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_StarChannel.fi",
-    "displayName": "STAR Channel",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/640px-Star_Channel_2020.svg.png",
-    "category": "Finland",
-    "country": "FI",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_FranceInter.fr",
-    "displayName": "France Inter",
-    "logoUrl": "https://i.imgur.com/d9Ncl8m.png",
-    "category": "France",
-    "country": "FR",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_ZDF.de",
-    "displayName": "ZDF",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png",
-    "category": "Germany",
-    "country": "DE",
     "priority": 1,
     "reason": "Multi-source"
   }

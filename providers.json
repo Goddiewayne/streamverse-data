@@ -1,1 +1,58 @@
-[{"id":"BROADCASTER","count":96},{"id":"DLHD","count":899},{"id":"FREE_CHANNEL","count":7719},{"id":"GLOBAL_INDEX","count":20135},{"id":"RADIO","count":874},{"id":"STMIFY","count":299},{"id":"UPSTREAM_CDN","count":1213},{"id":"YOUTUBE_TV","count":47}]
+[
+  {
+    "sourceType": "BROADCASTER",
+    "providerName": "BROADCASTER",
+    "channelCount": 85,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "FREE_CHANNEL",
+    "providerName": "FREE_CHANNEL",
+    "channelCount": 7545,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "YOUTUBE_TV",
+    "providerName": "YOUTUBE_TV",
+    "channelCount": 47,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "SPORTS_EVENTS",
+    "providerName": "SPORTS_EVENTS",
+    "channelCount": 877,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "WORLD_TV",
+    "providerName": "WORLD_TV",
+    "channelCount": 299,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "GLOBAL_INDEX",
+    "providerName": "GLOBAL_INDEX",
+    "channelCount": 44454,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "RADIO",
+    "providerName": "RADIO",
+    "channelCount": 729,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "UPSTREAM_CDN",
+    "providerName": "UPSTREAM_CDN",
+    "channelCount": 1159,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  }
+]
