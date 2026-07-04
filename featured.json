@@ -798,74 +798,11 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_AlkassFour.qa@SD",
-    "displayName": "Alkass Four",
-    "logoUrl": "https://i.imgur.com/iDL65Wu.png",
-    "category": "Sports",
-    "country": "QA",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_AlkassOne.qa@SD",
-    "displayName": "Alkass ONE",
-    "logoUrl": "https://i.imgur.com/10mmlha.png",
-    "category": "Sports",
-    "country": "QA",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_AlkassThree.qa@SD",
-    "displayName": "Alkass Three",
-    "logoUrl": "https://i.imgur.com/d57BdFh.png",
-    "category": "Sports",
-    "country": "QA",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_AlkassTwo.qa@SD",
-    "displayName": "Alkass Two",
-    "logoUrl": "https://i.imgur.com/8w61kFX.png",
-    "category": "Sports",
-    "country": "QA",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
     "channelId": "idx_AMC.af@SD",
     "displayName": "AMC",
     "logoUrl": "https://i.imgur.com/yj8RNnG.png",
     "category": "Music",
     "country": "AF",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_ArenaSport1Premium.rs@SD",
-    "displayName": "Arena Sport 1 Premium",
-    "logoUrl": "https://i.imgur.com/csv6YsL.png",
-    "category": "Sports",
-    "country": "RS",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_ArenaSport2Premium.rs@SD",
-    "displayName": "Arena Sport 2 Premium",
-    "logoUrl": "https://i.imgur.com/ztOmQ7P.png",
-    "category": "Sports",
-    "country": "RS",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_ArenaSport3Premium.rs@SD",
-    "displayName": "Arena Sport 3 Premium",
-    "logoUrl": "https://i.imgur.com/gpqemLf.png",
-    "category": "Sports",
-    "country": "RS",
     "priority": 1,
     "reason": "Multi-source"
   },
@@ -892,6 +829,69 @@
     "logoUrl": "https://i.imgur.com/Peo1QiZ.png",
     "category": "Movies",
     "country": "US",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_AXNWhite.us@Portugal",
+    "displayName": "AXN White",
+    "logoUrl": "https://i.imgur.com/47IKxmt.png",
+    "category": "Entertainment",
+    "country": "US",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_B4UMovies.in@India",
+    "displayName": "B 4 U Movies",
+    "logoUrl": "https://i.imgur.com/M9kMFJl.png",
+    "category": "Movies",
+    "country": "IN",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_BabyFirst.us@Brazil",
+    "displayName": "BABY First",
+    "logoUrl": "https://i.imgur.com/WxLHBwu.png",
+    "category": "Kids",
+    "country": "US",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_BBCFirst.uk@Poland",
+    "displayName": "BBC First",
+    "logoUrl": "https://i.imgur.com/UBoBYUI.png",
+    "category": "Entertainment",
+    "country": "UK",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_BBCNews.uk@Europe",
+    "displayName": "BBC News",
+    "logoUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+    "category": "News",
+    "country": "UK",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_BET.us@West",
+    "displayName": "BET",
+    "logoUrl": "https://i.imgur.com/copIbc9.png",
+    "category": "Undefined",
+    "country": "US",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_BolEntertainment.pk@SD",
+    "displayName": "BOL Entertainment",
+    "logoUrl": "https://i.imgur.com/eajSRFo.png",
+    "category": "Entertainment",
+    "country": "PK",
     "priority": 1,
     "reason": "Multi-source"
   }

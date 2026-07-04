@@ -21881,26 +21881,9 @@
       "idx_prem_yupptvfast_02e74f10",
       "idx_prem_sunshinetv_5005956d",
       "idx_prem_sunshinetv_2255f846",
-      "up_dlhd_374",
-      "up_dlhd_689",
-      "up_dlhd_690",
-      "up_dlhd_321",
-      "up_dlhd_691",
-      "up_dlhd_694",
-      "up_dlhd_692",
-      "up_dlhd_693",
-      "up_dlhd_974",
-      "up_dlhd_695",
-      "up_dlhd_792",
-      "up_dlhd_793",
-      "up_dlhd_795",
-      "up_dlhd_794",
-      "up_dlhd_796",
-      "up_dlhd_333",
-      "up_dlhd_797",
       "up_stmify_hbo-plus"
     ],
-    "count": 4005
+    "count": 3988
   },
   {
     "category": "Movies  hindi",
@@ -28385,70 +28368,6 @@
       "br_ard_de",
       "br_tve_es",
       "br_abc_tv_au",
-      "up_dlhd_664",
-      "up_dlhd_766",
-      "up_dlhd_742",
-      "up_dlhd_302",
-      "up_dlhd_303",
-      "up_dlhd_283",
-      "up_dlhd_306",
-      "up_dlhd_307",
-      "up_dlhd_51",
-      "up_dlhd_52",
-      "up_dlhd_280",
-      "up_dlhd_309",
-      "up_dlhd_300",
-      "up_dlhd_647",
-      "up_dlhd_748",
-      "up_dlhd_281",
-      "up_dlhd_669",
-      "up_dlhd_696",
-      "up_dlhd_697",
-      "up_dlhd_767",
-      "up_dlhd_608",
-      "up_dlhd_828",
-      "up_dlhd_54",
-      "up_dlhd_656",
-      "up_dlhd_282",
-      "up_dlhd_298",
-      "up_dlhd_317",
-      "up_dlhd_643",
-      "up_dlhd_322",
-      "up_dlhd_768",
-      "up_dlhd_318",
-      "up_dlhd_743",
-      "up_dlhd_761",
-      "up_dlhd_279",
-      "up_dlhd_325",
-      "up_dlhd_769",
-      "up_dlhd_849",
-      "up_dlhd_765",
-      "up_dlhd_646",
-      "up_dlhd_745",
-      "up_dlhd_278",
-      "up_dlhd_645",
-      "up_dlhd_654",
-      "up_dlhd_762",
-      "up_dlhd_53",
-      "up_dlhd_662",
-      "up_dlhd_829",
-      "up_dlhd_653",
-      "up_dlhd_848",
-      "up_dlhd_210",
-      "up_dlhd_287",
-      "up_dlhd_385",
-      "up_dlhd_373",
-      "up_dlhd_66",
-      "up_dlhd_338",
-      "up_dlhd_336",
-      "up_dlhd_800",
-      "up_dlhd_698",
-      "up_dlhd_655",
-      "up_dlhd_644",
-      "up_dlhd_360",
-      "up_dlhd_660",
-      "up_dlhd_763",
-      "up_dlhd_341",
       "up_stmify_e4",
       "up_stmify_br",
       "up_stmify_m6",
@@ -28472,7 +28391,7 @@
       "up_stmify_calle-13",
       "up_stmify_ssc-1"
     ],
-    "count": 2750
+    "count": 2686
   },
   {
     "category": "Movies  hindi dubbed",
@@ -35597,20 +35516,6 @@
       "sport_360",
       "sport_726",
       "sport_501",
-      "up_dlhd_600",
-      "up_dlhd_601",
-      "up_dlhd_316",
-      "up_dlhd_45",
-      "up_dlhd_604",
-      "up_dlhd_605",
-      "up_dlhd_606",
-      "up_dlhd_39",
-      "up_dlhd_758",
-      "up_dlhd_663",
-      "up_dlhd_399",
-      "up_dlhd_404",
-      "up_dlhd_982",
-      "up_dlhd_413",
       "up_stmify_dazn-1",
       "up_stmify_fox-sports-premium",
       "up_stmify_dazn-f1",
@@ -35618,7 +35523,7 @@
       "up_stmify_viaplay-sports-xtra",
       "up_stmify_nbc-sports"
     ],
-    "count": 1500
+    "count": 1486
   },
   {
     "category": "Movies  bangla",
@@ -37970,12 +37875,9 @@
       "br_reuters_now",
       "br_cbs_news_us",
       "br_tve24_es",
-      "br_ait_national_ng",
-      "up_dlhd_345",
-      "up_dlhd_292",
-      "up_dlhd_613"
+      "br_ait_national_ng"
     ],
-    "count": 1147
+    "count": 1144
   },
   {
     "category": "United states",
@@ -39771,11 +39673,9 @@
       "free_roku_3e1d079c",
       "free_roku_777ca2d2",
       "free_roku_437c531a",
-      "free_roku_c4abc8db",
-      "up_dlhd_371",
-      "up_dlhd_344"
+      "free_roku_c4abc8db"
     ],
-    "count": 857
+    "count": 855
   },
   {
     "category": "Movies",
@@ -40607,12 +40507,11 @@
       "free_roku_d3c8d91c",
       "free_roku_75fe5e76",
       "free_roku_2a7d2a67",
-      "up_dlhd_296",
       "up_stmify_viva-cinema",
       "up_stmify_tvn-movies-pinoy",
       "up_stmify_miramax-movie-channel"
     ],
-    "count": 831
+    "count": 830
   },
   {
     "category": "Religious",
@@ -44091,10 +43990,9 @@
       "idx_prem_nelen_ffd23cc9",
       "idx_prem_neotv_ed0b0d5e",
       "idx_prem_neotv_547205eb",
-      "up_dlhd_668",
       "up_stmify_powerkids"
     ],
-    "count": 453
+    "count": 452
   },
   {
     "category": "Spain",
