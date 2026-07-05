@@ -1,7 +1,7 @@
 [
   {
     "channelId": "idx_2M.ma@SD",
-    "displayName": "Ma-21",
+    "displayName": "MA-2 M 1",
     "logoUrl": "https://i.imgur.com/PJYTfHi.png",
     "category": "General",
     "country": "MA",
@@ -28,7 +28,7 @@
   },
   {
     "channelId": "idx_Alarabiya.ae@SD",
-    "displayName": "Alarabiya",
+    "displayName": "AL Arabiya",
     "logoUrl": "https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height\u003dauto\u0026width\u003d512\u0026croppingPoint\u003d\u0026version\u003d1\u0026type\u003dpng",
     "category": "News",
     "country": "AE",
@@ -36,11 +36,47 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_arte.de@HD",
+    "channelId": "idx_AlJazeera.qa@Arabic",
+    "displayName": "AL Jazeera",
+    "logoUrl": "https://i.imgur.com/7bRVpnu.png",
+    "category": "News",
+    "country": "QA",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_AlJazeeraDocumentary.qa@SD",
+    "displayName": "AL Jazeera Documentary",
+    "logoUrl": "https://i.imgur.com/5dNJlLo.png",
+    "category": "Documentary",
+    "country": "QA",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_arte.de@SD",
     "displayName": "ARTE",
     "logoUrl": "https://i.imgur.com/ecXMjNl.png",
     "category": "Entertainment",
     "country": "DE",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_BBCEarth.uk@Poland",
+    "displayName": "BBC Earth",
+    "logoUrl": "https://i.imgur.com/nGSsUd4.png",
+    "category": "Documentary",
+    "country": "UK",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_BloombergTV.us@US",
+    "displayName": "Bloomberg TV",
+    "logoUrl": "https://i.imgur.com/OuogLHx.png",
+    "category": "Business",
+    "country": "US",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -63,26 +99,42 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_CCTV1.cn@HD",
-    "displayName": "CCTV 1",
-    "logoUrl": "https://i.imgur.com/TpA3cUl.png",
-    "category": "General",
+    "channelId": "idx_iptv_ee82304e77f5",
+    "displayName": "CBS News",
+    "category": "Undefined",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CBSNews247.us@SD",
+    "displayName": "CBS News 24/7",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png",
+    "category": "News",
+    "country": "US",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CCTVPlus1.cn@SD",
+    "displayName": "Cctv+ 1",
+    "logoUrl": "https://i.imgur.com/U8d4Is6.png",
+    "category": "News",
     "country": "CN",
     "priority": 0,
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_CCTV2.cn@SD",
-    "displayName": "CCTV 2",
-    "logoUrl": "https://i.imgur.com/ILamhwU.png",
-    "category": "Business",
+    "channelId": "idx_CCTVPlus2.cn@SD",
+    "displayName": "Cctv+ 2",
+    "logoUrl": "https://i.imgur.com/qSg862A.png",
+    "category": "News",
     "country": "CN",
     "priority": 0,
     "reason": "Broadcaster"
   },
   {
     "channelId": "idx_CCTV3.cn@SD",
-    "displayName": "CCTV 3",
+    "displayName": "Cctv-3",
     "logoUrl": "https://i.imgur.com/iFlkIuw.png",
     "category": "Entertainment",
     "country": "CN",
@@ -91,7 +143,7 @@
   },
   {
     "channelId": "idx_CCTV6.cn@HD",
-    "displayName": "CCTV 6",
+    "displayName": "Cctv-6",
     "logoUrl": "https://i.imgur.com/rFiaef7.png",
     "category": "Movies",
     "country": "CN",
@@ -100,7 +152,7 @@
   },
   {
     "channelId": "idx_CCTV8.cn@SD",
-    "displayName": "CCTV 8",
+    "displayName": "Cctv-8",
     "logoUrl": "https://i.imgur.com/GyHaZ8X.png",
     "category": "Culture",
     "country": "CN",
@@ -109,7 +161,7 @@
   },
   {
     "channelId": "idx_CCTV9.cn@SD",
-    "displayName": "CCTV 9",
+    "displayName": "Cctv-9",
     "logoUrl": "https://i.imgur.com/3tivvMm.png",
     "category": "Documentary",
     "country": "CN",
@@ -118,7 +170,7 @@
   },
   {
     "channelId": "idx_CCTV13.cn@HD",
-    "displayName": "CCTV 13",
+    "displayName": "Cctv-13",
     "logoUrl": "https://i.imgur.com/6MTar6J.png",
     "category": "News",
     "country": "CN",
@@ -127,7 +179,7 @@
   },
   {
     "channelId": "idx_CCTV14.cn@HD",
-    "displayName": "CCTV 14",
+    "displayName": "Cctv-14",
     "logoUrl": "https://i.imgur.com/c5SXW7i.png",
     "category": "Kids",
     "country": "CN",
@@ -136,9 +188,27 @@
   },
   {
     "channelId": "idx_CCTV17.cn@HD",
-    "displayName": "CCTV 17",
+    "displayName": "Cctv-17",
     "logoUrl": "https://i.imgur.com/jSQURxS.png",
     "category": "Education",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CentralTV.cl@SD",
+    "displayName": "Central TV",
+    "logoUrl": "https://cdn.m3u.cl/logo/1706_Central_TV.png",
+    "category": "General",
+    "country": "CL",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CGTN.cn@SD",
+    "displayName": "CGTN",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png",
+    "category": "News",
     "country": "CN",
     "priority": 0,
     "reason": "Broadcaster"
@@ -149,6 +219,33 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg",
     "category": "News",
     "country": "NG",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CNA.al@SD",
+    "displayName": "CNA",
+    "logoUrl": "https://codeit.al/wp-content/uploads/2020/08/cna.png",
+    "category": "News",
+    "country": "AL",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_EuronewsEnglish.fr@SD",
+    "displayName": "Euronews English",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png",
+    "category": "News",
+    "country": "FR",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_Fox.pl@SD",
+    "displayName": "FOX",
+    "logoUrl": "https://i.imgur.com/hSDN9YQ.png",
+    "category": "Entertainment",
+    "country": "PL",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -172,7 +269,7 @@
   },
   {
     "channelId": "idx_France24.fr@English",
-    "displayName": "France 24",
+    "displayName": "France 24 English",
     "logoUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png",
     "category": "News",
     "country": "FR",
@@ -198,11 +295,11 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_NationalGeographic.gr@SD",
+    "channelId": "idx_NationalGeographic.bg@SD",
     "displayName": "National Geographic",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "category": "Documentary",
-    "country": "GR",
+    "country": "BG",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -216,15 +313,6 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_NewsCentral.ng@SD",
-    "displayName": "NEWS Central",
-    "logoUrl": "https://i.imgur.com/qvCgI8N.png",
-    "category": "News",
-    "country": "NG",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
     "channelId": "idx_NewsmaxTV.us@SD",
     "displayName": "Newsmax TV",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",
@@ -234,8 +322,17 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_NFLChannel.us@SD",
+    "displayName": "NFL Channel",
+    "logoUrl": "https://i.imgur.com/mPGtwAP.png",
+    "category": "Sports",
+    "country": "US",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
     "channelId": "idx_NHKWorldJapan.jp@SD",
-    "displayName": "NHK World Japan",
+    "displayName": "NHK World-japan",
     "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
     "category": "News",
     "country": "JP",
@@ -248,6 +345,13 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png",
     "category": "News",
     "country": "US",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_iptv_f67af5470791",
+    "displayName": "PBS Food",
+    "category": "Undefined",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -280,7 +384,7 @@
   },
   {
     "channelId": "idx_Rai1.it@SD",
-    "displayName": "RAI1",
+    "displayName": "RAI 1",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png",
     "category": "Undefined",
     "country": "IT",
@@ -289,7 +393,7 @@
   },
   {
     "channelId": "idx_Rai2.it@SD",
-    "displayName": "RAI2",
+    "displayName": "RAI 2",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
     "category": "Undefined",
     "country": "IT",
@@ -298,7 +402,7 @@
   },
   {
     "channelId": "idx_Rai3.it@HD",
-    "displayName": "RAI3",
+    "displayName": "RAI 3",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
     "category": "Undefined",
     "country": "IT",
@@ -307,7 +411,7 @@
   },
   {
     "channelId": "idx_Rai4.it@SD",
-    "displayName": "RAI4",
+    "displayName": "RAI 4",
     "logoUrl": "https://i.imgur.com/sEY21rg.png",
     "category": "Undefined",
     "country": "IT",
@@ -315,17 +419,26 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_RTDocumentary.ru@Russian",
-    "displayName": "RT Documentary",
-    "logoUrl": "https://i.imgur.com/aeu5zIC.png",
-    "category": "Documentary",
+    "channelId": "idx_RaiNews24.it@SD",
+    "displayName": "RAI News 24",
+    "logoUrl": "https://i.imgur.com/n2u57y3.png",
+    "category": "News",
+    "country": "IT",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_RT.ru@SD",
+    "displayName": "RT News",
+    "logoUrl": "https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock\u003d720x540",
+    "category": "News",
     "country": "RU",
     "priority": 0,
     "reason": "Broadcaster"
   },
   {
     "channelId": "idx_RTP1.pt@HD",
-    "displayName": "RTP1",
+    "displayName": "RTP 1",
     "logoUrl": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png",
     "category": "General",
     "country": "PT",
@@ -342,8 +455,44 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_Showtime.us@East",
+    "displayName": "Showtime",
+    "logoUrl": "https://i.imgur.com/Or0LKsu.png",
+    "category": "Undefined",
+    "country": "US",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_SkyNews.ie@SD",
+    "displayName": "SKY News",
+    "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
+    "category": "News",
+    "country": "IE",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_Starz.us@East",
+    "displayName": "Starz",
+    "logoUrl": "https://i.imgur.com/N7oSm4d.png",
+    "category": "Undefined",
+    "country": "US",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_TRT.gr@SD",
+    "displayName": "TRT",
+    "logoUrl": "https://i.imgur.com/g0jPOcC.png",
+    "category": "News",
+    "country": "GR",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
     "channelId": "idx_TRT1.tr@SD",
-    "displayName": "TRT1",
+    "displayName": "TRT 1",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png",
     "category": "Undefined",
     "country": "TR",
@@ -369,15 +518,6 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_TV3.gh@SD",
-    "displayName": "TV3",
-    "logoUrl": "https://i.imgur.com/8t967Hq.png",
-    "category": "Undefined",
-    "country": "GH",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
     "channelId": "idx_TV5.mn@SD",
     "displayName": "TV5",
     "logoUrl": "https://i.imgur.com/asGQfGN.png",
@@ -387,20 +527,11 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_TVC.ng@SD",
+    "channelId": "idx_TVC.ec@SD",
     "displayName": "TVC",
-    "logoUrl": "https://i.imgur.com/ReV8R5S.png",
-    "category": "Undefined",
-    "country": "NG",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_TVCNews.ng@SD",
-    "displayName": "TVC News",
-    "logoUrl": "https://i.imgur.com/jaSq18B.png",
-    "category": "News",
-    "country": "NG",
+    "logoUrl": "https://i.imgur.com/zhdIwlm.png",
+    "category": "General",
+    "country": "EC",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -414,8 +545,26 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_WION.in@SD",
+    "displayName": "WION",
+    "logoUrl": "https://i.imgur.com/Wc5Z3iS.png",
+    "category": "News",
+    "country": "IN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_CCTV4Asia.cn",
+    "displayName": "Cctv-4 中文国际（亚）",
+    "logoUrl": "https://i.imgur.com/ovUSVEQ.png",
+    "category": "China",
+    "country": "CN",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
     "channelId": "idx_CCTV5.cn",
-    "displayName": "CCTV 5",
+    "displayName": "Cctv-5 体育",
     "logoUrl": "https://i.imgur.com/Mut2omN.png",
     "category": "China",
     "country": "CN",
@@ -423,11 +572,19 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_RaiNews24.it",
-    "displayName": "RAI News 24",
-    "logoUrl": "https://i.imgur.com/gdzGwB6.png",
+    "channelId": "idx_RaiSport.it",
+    "displayName": "RAI Sport",
+    "logoUrl": "https://i.imgur.com/xsGljsb.png",
     "category": "Italy",
     "country": "IT",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_freetv_087accc5324b",
+    "displayName": "ABC TV",
+    "logoUrl": "https://i.imgur.com/nVmIeTD.png",
+    "category": "Italy",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -441,33 +598,6 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_BloombergTelevision.us",
-    "displayName": "Bloomberg Television",
-    "logoUrl": "https://i.imgur.com/VnCcH73.png",
-    "category": "Usa",
-    "country": "US",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_AlJazeeraDocumentary.qa",
-    "displayName": "AL Jazeera Documentary",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png",
-    "category": "Documentaries ar",
-    "country": "QA",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_EuronewsEnglish.fr",
-    "displayName": "Euronews English",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",
-    "category": "News",
-    "country": "FR",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
     "channelId": "idx_DWEnglish.de",
     "displayName": "DW English",
     "logoUrl": "https://i.imgur.com/A1xzjOI.png",
@@ -477,209 +607,23 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_CGTN.cn",
-    "displayName": "CGTN",
-    "logoUrl": "https://i.imgur.com/fMsJYzl.png",
-    "category": "News",
-    "country": "CN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_RT.ru",
-    "displayName": "RU-R 3",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png",
-    "category": "News",
-    "country": "RU",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_SABCNews.gh",
-    "displayName": "SABC News",
-    "logoUrl": "https://i.imgur.com/H9q3Q9d.png",
-    "category": "News",
-    "country": "GH",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_index_61e9c06e",
-    "displayName": "IN-W 1",
-    "logoUrl": "https://i.imgur.com/Wc5Z3iS.png",
-    "category": "American samoa",
-    "country": "IN",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_us_organized_final_2cbf7e85",
-    "displayName": "FOX News Channel",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
-    "category": "News",
-    "country": "US",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_us_organized_final_8e737ea4",
-    "displayName": "Showtime",
-    "logoUrl": "https://i.imgur.com/Or0LKsu.png",
-    "category": "Undefined",
-    "country": "US",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_us_organized_final_625d534a",
-    "displayName": "Starz",
-    "logoUrl": "https://i.imgur.com/N7oSm4d.png",
-    "category": "Undefined",
-    "country": "US",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_us_organized_final_6e60cf89",
-    "displayName": "NFL Network",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png",
+    "channelId": "sport_374",
+    "displayName": "Cinemax",
     "category": "Sports",
-    "country": "US",
     "priority": 0,
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_prem_dhanytv-ott_8bbfa63c",
-    "displayName": "AL Jazeera English",
-    "logoUrl": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1755135969_tvchannels_v1.jpg",
-    "category": "News",
-    "country": "ID",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_final_iptv_active_10718ab4",
-    "displayName": "HBO",
-    "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",
-    "category": "Movies",
-    "country": "US",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_final_iptv_active_7b0ef842",
+    "channelId": "sport_44",
     "displayName": "ESPN",
-    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg",
     "category": "Sports",
-    "country": "FI",
     "priority": 0,
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_prem_final_iptv_dead_5d2edc3d",
-    "displayName": "RAI Sport",
-    "logoUrl": "https://i.imgur.com/6PEevOM.png",
+    "channelId": "sport_321",
+    "displayName": "HBO",
     "category": "Sports",
-    "country": "IT",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_final_iptv_dead_a1ccdb73",
-    "displayName": "SKY News",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/250px-Sky-news-logo.svg.png",
-    "category": "News",
-    "country": "UK",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_dhanytv_568c7520",
-    "displayName": "CNA",
-    "logoUrl": "https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png",
-    "category": "News",
-    "country": "ID",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_dhanytv_8249da69",
-    "displayName": "AL Jazeera Arabic",
-    "logoUrl": "https://www.mncvision.id/userfiles/image/channel/aljazeera.png",
-    "category": "News",
-    "country": "DH",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_dhanytv_258f178b",
-    "displayName": "CGTN",
-    "logoUrl": "https://static.mncnow.id/images/channel/87f1d571/242b_r32.jpg",
-    "category": "News",
-    "country": "ID",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_dhanytv_9681b549",
-    "displayName": "TRT World",
-    "logoUrl": "https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg",
-    "category": "News",
-    "country": "DH",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_dhanytv_c05a594b",
-    "displayName": "CCTV 4",
-    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest/scale-to-width-down/250?cb\u003d20200119091533",
-    "category": "China",
-    "country": "DH",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_ar-m_f623e75a",
-    "displayName": "AR-D 1",
-    "logoUrl": "https://i.imgur.com/8MRNFb9.png",
-    "category": "Mendoza",
-    "country": "AR",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_br_7ae992d9",
-    "displayName": "BR-C 4",
-    "logoUrl": "https://images.pluto.tv/channels/62310f66d5888f0007534342/colorLogoPNG_1778002391431.png",
-    "category": "Premium",
-    "country": "BR",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "idx_prem_sunshinetv_0874f230",
-    "displayName": "Cinemaxhd",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
-    "category": "Movies",
-    "country": "SU",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "free_pluto_1968b88c",
-    "displayName": "US-B 1",
-    "logoUrl": "https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png",
-    "category": "United states",
-    "country": "US",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "free_pluto_466447c4",
-    "displayName": "US-S 10",
-    "logoUrl": "https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png",
-    "category": "United states",
-    "country": "US",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -700,11 +644,20 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "br_pbs_food",
-    "displayName": "PBS Food",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png",
-    "category": "Food",
-    "country": "US",
+    "channelId": "br_rt_documentary",
+    "displayName": "RT Documentary",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/RT_Documentary_logo.svg/512px-RT_Documentary_logo.svg.png",
+    "category": "Documentary",
+    "country": "RU",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "br_tv3_gh",
+    "displayName": "TV 3 Ghana",
+    "logoUrl": "https://i.imgur.com/8t967Hq.png",
+    "category": "General",
+    "country": "GH",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -718,11 +671,29 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "br_cbs_news_us",
-    "displayName": "CBS News 24/7",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/CBS_News_logo.svg/512px-CBS_News_logo.svg.png",
+    "channelId": "br_dw_de",
+    "displayName": "DW Deutsch",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png",
     "category": "News",
-    "country": "US",
+    "country": "DE",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "br_aljazeera_ar",
+    "displayName": "AL Jazeera Arabic",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Al_Jazeera_English_logo.svg/512px-Al_Jazeera_English_logo.svg.png",
+    "category": "News",
+    "country": "QA",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "br_cgtn_en_cn",
+    "displayName": "CGTN English",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CGTN.svg/512px-CGTN.svg.png",
+    "category": "News",
+    "country": "CN",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -745,15 +716,6 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "br_abc_tv_au",
-    "displayName": "ABC TV",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/ABC_TV_%28Australian_TV_channel%29_logo.svg/512px-ABC_TV_%28Australian_TV_channel%29_logo.svg.png",
-    "category": "General",
-    "country": "AU",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
     "channelId": "br_ait_national_ng",
     "displayName": "AIT National",
     "category": "News",
@@ -762,11 +724,36 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_iptv_69feb58e2269",
+    "displayName": "4 K Travel TV",
+    "category": "Undefined",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
     "channelId": "idx_9XJalwa.in@SD",
     "displayName": "9 X Jalwa",
     "logoUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png",
     "category": "Music",
     "country": "IN",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_9XM.in@SD",
+    "displayName": "9XM",
+    "logoUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png",
+    "category": "Music",
+    "country": "IN",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_scifi.ru@SD",
+    "displayName": ".sci-fi",
+    "logoUrl": "https://i.imgur.com/nSSUHcg.png",
+    "category": "Science",
+    "country": "RU",
     "priority": 1,
     "reason": "Multi-source"
   },
@@ -789,6 +776,15 @@
     "reason": "Multi-source"
   },
   {
+    "channelId": "idx_ABC.us@East",
+    "displayName": "ABC",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+    "category": "General",
+    "country": "US",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
     "channelId": "idx_ABCKids.au@Sydney",
     "displayName": "ABC Kids",
     "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
@@ -803,6 +799,15 @@
     "logoUrl": "https://i.imgur.com/yj8RNnG.png",
     "category": "Music",
     "country": "AF",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_ArirangTV.kr@SD",
+    "displayName": "Arirang TV",
+    "logoUrl": "https://i.imgur.com/Asu5pE9.png",
+    "category": "General",
+    "country": "KR",
     "priority": 1,
     "reason": "Multi-source"
   },
@@ -824,7 +829,7 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_AXNBlack.us@Romania",
+    "channelId": "idx_AXNBlack.us@Bulgary",
     "displayName": "AXN Black",
     "logoUrl": "https://i.imgur.com/Peo1QiZ.png",
     "category": "Movies",
@@ -833,7 +838,7 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_AXNWhite.us@Portugal",
+    "channelId": "idx_AXNWhite.us@SD",
     "displayName": "AXN White",
     "logoUrl": "https://i.imgur.com/47IKxmt.png",
     "category": "Entertainment",
@@ -852,7 +857,7 @@
   },
   {
     "channelId": "idx_BabyFirst.us@Brazil",
-    "displayName": "BABY First",
+    "displayName": "Babyfirst",
     "logoUrl": "https://i.imgur.com/WxLHBwu.png",
     "category": "Kids",
     "country": "US",
@@ -869,29 +874,11 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_BBCNews.uk@Europe",
-    "displayName": "BBC News",
-    "logoUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
-    "category": "News",
+    "channelId": "idx_BBCFour.uk@UK",
+    "displayName": "BBC Four",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
+    "category": "Documentary",
     "country": "UK",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_BET.us@West",
-    "displayName": "BET",
-    "logoUrl": "https://i.imgur.com/copIbc9.png",
-    "category": "Undefined",
-    "country": "US",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_BolEntertainment.pk@SD",
-    "displayName": "BOL Entertainment",
-    "logoUrl": "https://i.imgur.com/eajSRFo.png",
-    "category": "Entertainment",
-    "country": "PK",
     "priority": 1,
     "reason": "Multi-source"
   }

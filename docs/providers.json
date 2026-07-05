@@ -2,14 +2,14 @@
   {
     "sourceType": "BROADCASTER",
     "providerName": "BROADCASTER",
-    "channelCount": 85,
+    "channelCount": 82,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "FREE_CHANNEL",
     "providerName": "FREE_CHANNEL",
-    "channelCount": 7545,
+    "channelCount": 4370,
     "healthyCount": 0,
     "healthPct": 0.0
   },
@@ -23,35 +23,35 @@
   {
     "sourceType": "SPORTS_EVENTS",
     "providerName": "SPORTS_EVENTS",
-    "channelCount": 877,
+    "channelCount": 875,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "WORLD_TV",
     "providerName": "WORLD_TV",
-    "channelCount": 299,
+    "channelCount": 296,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "GLOBAL_INDEX",
     "providerName": "GLOBAL_INDEX",
-    "channelCount": 44454,
+    "channelCount": 11616,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "RADIO",
     "providerName": "RADIO",
-    "channelCount": 729,
+    "channelCount": 730,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "UPSTREAM_CDN",
     "providerName": "UPSTREAM_CDN",
-    "channelCount": 322,
+    "channelCount": 319,
     "healthyCount": 0,
     "healthPct": 0.0
   }
