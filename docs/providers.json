@@ -54,5 +54,12 @@
     "channelCount": 319,
     "healthyCount": 0,
     "healthPct": 0.0
+  },
+  {
+    "sourceType": "STARTIMES",
+    "providerName": "STARTIMES",
+    "channelCount": 0,
+    "healthyCount": 0,
+    "healthPct": 0.0
   }
 ]
