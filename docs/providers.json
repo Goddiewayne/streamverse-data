@@ -37,14 +37,14 @@
   {
     "sourceType": "GLOBAL_INDEX",
     "providerName": "GLOBAL_INDEX",
-    "channelCount": 11616,
+    "channelCount": 11622,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "RADIO",
     "providerName": "RADIO",
-    "channelCount": 728,
+    "channelCount": 724,
     "healthyCount": 0,
     "healthPct": 0.0
   },
@@ -58,7 +58,7 @@
   {
     "sourceType": "STARTIMES",
     "providerName": "STARTIMES",
-    "channelCount": 0,
+    "channelCount": 64,
     "healthyCount": 0,
     "healthPct": 0.0
   }
