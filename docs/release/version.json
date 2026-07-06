@@ -1,15 +1,15 @@
 {
-  "versionName": "1.2.0",
+  "versionName": "0.1.202607062125",
   "versionCode": 4,
-  "releaseNotes": "fix: add missing return in SourceResolutionEngine closure",
+  "releaseNotes": "iOS build fixes: actor isolation, zlib bindings, buildTvgIdMap label",
   "apks": {
     "phone": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.2.0/StreamVerse-Phone-v1.2.0-release.apk",
-      "sha256": "f05d4c755de663e434bee6edc1f708c71ee1548ec7395177e849eac2b1e290a2"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v0.1.202607062125/StreamVerse-Phone-v0.1.202607062125-release.apk",
+      "sha256": "f6df40b02b4f1da319149165df557d2a11b25566c7c099859b732d089afb7b94"
     },
     "tv": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.2.0/StreamVerse-TV-v1.2.0-release.apk",
-      "sha256": "8fe6fd62608a90e97fe0fb4df2255028dc6e166a20faf1e4c4e0b35b7daee287"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v0.1.202607062125/StreamVerse-TV-v0.1.202607062125-release.apk",
+      "sha256": "4498fa9fea2d41b1a530391fa7f04e467fd51a6997800a5c729eb384a4d1f679"
     }
   }
 }
