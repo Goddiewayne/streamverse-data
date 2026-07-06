@@ -1,15 +1,15 @@
 {
   "versionName": "1.2.0",
   "versionCode": 4,
-  "releaseNotes": "fix: remove duplicate HomeSection from Programme.swift (conflict with HomeViewModel.HomeSection)",
+  "releaseNotes": "fix: resolve Swift 6 actor-isolation errors in ViewModels and StreamResolver",
   "apks": {
     "phone": {
       "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.2.0/StreamVerse-Phone-v1.2.0-release.apk",
-      "sha256": "3112631489b1ce374c9197317407fb405b8323247079e37f2ec22c1587997e43"
+      "sha256": "6e30a6e8e5a743e5c9bc4463c99d07cfaed4156663fb9e8378cf959ffb5993a3"
     },
     "tv": {
       "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.2.0/StreamVerse-TV-v1.2.0-release.apk",
-      "sha256": "b1db58dc9e30624ea9530be775735e44ba813e3b880a5758aa959da2f3228f9e"
+      "sha256": "723f77ba5d0bcea27157e4675b35e520606096087c9d68c9c9030f367f729c38"
     }
   }
 }
