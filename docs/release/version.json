@@ -1,15 +1,15 @@
 {
   "versionName": "1.2.0",
   "versionCode": 4,
-  "releaseNotes": "fix: resolve Swift 6 actor-isolation errors in ViewModels and StreamResolver",
+  "releaseNotes": "fix: add missing return in SourceResolutionEngine closure",
   "apks": {
     "phone": {
       "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.2.0/StreamVerse-Phone-v1.2.0-release.apk",
-      "sha256": "6e30a6e8e5a743e5c9bc4463c99d07cfaed4156663fb9e8378cf959ffb5993a3"
+      "sha256": "f05d4c755de663e434bee6edc1f708c71ee1548ec7395177e849eac2b1e290a2"
     },
     "tv": {
       "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.2.0/StreamVerse-TV-v1.2.0-release.apk",
-      "sha256": "723f77ba5d0bcea27157e4675b35e520606096087c9d68c9c9030f367f729c38"
+      "sha256": "8fe6fd62608a90e97fe0fb4df2255028dc6e166a20faf1e4c4e0b35b7daee287"
     }
   }
 }
