@@ -1,15 +1,15 @@
 {
   "versionName": "1.2.0",
   "versionCode": 4,
-  "releaseNotes": "fix: create AppIcon asset, use GITHUB_TOKEN with contents:write for releases",
+  "releaseNotes": "fix: remove duplicate HomeSection from Programme.swift (conflict with HomeViewModel.HomeSection)",
   "apks": {
     "phone": {
       "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.2.0/StreamVerse-Phone-v1.2.0-release.apk",
-      "sha256": "996525b57d7232adec0c2a1ad4229737bf109e199ddd2c0aa832361e76fe9e8d"
+      "sha256": "3112631489b1ce374c9197317407fb405b8323247079e37f2ec22c1587997e43"
     },
     "tv": {
       "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.2.0/StreamVerse-TV-v1.2.0-release.apk",
-      "sha256": "37f7f4bdb9b6722325493bd3f83ac6c7fce6d6de5086d7ac7cb8e776d79c5b40"
+      "sha256": "b1db58dc9e30624ea9530be775735e44ba813e3b880a5758aa959da2f3228f9e"
     }
   }
 }
