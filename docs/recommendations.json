@@ -800,16 +800,24 @@
     "Czech republic": [
       "idx_CTDecko.cz",
       "idx_CTart.cz",
-      "idx_freetv_138a439292d5",
+      "idx_freetv_5fee7b66e45a",
+      "idx_NovaCinema.cz",
+      "idx_NovaAction.cz",
+      "idx_NovaFun.cz",
+      "idx_NovaGold.cz",
+      "idx_NovaLady.cz",
+      "idx_freetv_a3a563d07db0",
+      "idx_PrimaKrimi.cz",
+      "idx_PrimaCool.cz",
       "idx_JojFamily.sk",
+      "idx_JojCinema.cz",
+      "idx_CSFilm.cz",
+      "idx_CSHistory.cz",
+      "idx_CSMystery.cz",
       "idx_SlagrOriginal.cz",
       "idx_SlagrMuzika.cz",
       "idx_SlagrPremium.cz",
-      "idx_PrimaKrimi.cz",
-      "idx_PrimaMax.cz",
-      "idx_PrimaCool.cz",
-      "idx_freetv_a3a563d07db0",
-      "idx_PrahaTV.cz"
+      "idx_RetroMusicTV.cz"
     ],
     "Denmark": [
       "idx_TVSYD.dk",
@@ -849,8 +857,6 @@
       "idx_WorTV.fi"
     ],
     "France": [
-      "idx_C8.fr",
-      "idx_NRJ12.fr",
       "idx_LCP.fr",
       "idx_PublicSenat.fr",
       "idx_EuronewsFrench.fr",
@@ -868,7 +874,9 @@
       "free_plex_9fe1541b",
       "free_plex_320b944b",
       "free_plex_832aeaaf",
-      "free_plex_25185579"
+      "free_plex_25185579",
+      "free_plex_b2b7986a",
+      "free_plex_ccffec92"
     ],
     "Georgia": [
       "idx_PosTV.ge",
@@ -1023,6 +1031,7 @@
       "idx_noticiasnrt.com",
       "free_pluto_63af74da",
       "free_pluto_35f8d219",
+      "free_pluto_971b84d5",
       "free_pluto_2fbd2582",
       "free_plex_2b8df36e",
       "free_plex_eb1cdc73",
@@ -1035,8 +1044,7 @@
       "free_plex_7a3e746d",
       "free_plex_250ea134",
       "free_plex_cfe1f9a9",
-      "free_plex_b2f99579",
-      "free_plex_db2835b1"
+      "free_plex_b2f99579"
     ],
     "Netherlands": [
       "idx_NPO1.nl",
@@ -1094,13 +1102,19 @@
       "idx_InformerTV.rs"
     ],
     "Slovakia": [
-      "idx_freetv_c4ad6c539423",
-      "idx_freetv_c9e63ffe11a1",
-      "idx_TVJOJ.sk",
+      "idx_Markiza.sk",
+      "idx_MarkizaDoma.sk",
+      "idx_MarkizaDajto.sk",
+      "idx_freetv_18201fe3dc6d",
+      "idx_JOJ.sk",
       "idx_JOJPlus.sk",
-      "idx_JOJWAU.sk",
+      "idx_JOJWau.sk",
       "idx_JOJ24.sk",
       "idx_JOJSport.sk",
+      "idx_Jojko.sk",
+      "idx_RTVS24.sk",
+      "idx_freetv_3c9e98dc355f",
+      "idx_freetv_69cae994669a",
       "idx_TA3.sk"
     ],
     "Slovenia": [
@@ -1322,28 +1336,6 @@
       "idx_freetv_983f13c6d6d0",
       "idx_freetv_9e2f70271837"
     ],
-    "United kingdom": [
-      "free_pluto_eedbc27d",
-      "free_pluto_69e02606",
-      "free_pluto_66d69fca",
-      "free_pluto_14f53bb7",
-      "free_pluto_f2af878c",
-      "free_pluto_4fa99e15",
-      "free_plex_a376c0e4",
-      "free_plex_4f1791d9",
-      "free_plex_6f5a3045",
-      "free_plex_f4e4db9d",
-      "free_plex_7fe27487",
-      "free_plex_1340108d",
-      "free_plex_603127b9",
-      "free_plex_6e640ea2",
-      "free_plex_2e5786bc",
-      "free_plex_73baa3be",
-      "free_plex_3201ace5",
-      "free_plex_33e9444b",
-      "free_plex_1335ce22",
-      "free_plex_d6238a06"
-    ],
     "United states": [
       "free_pluto_b93b85a3",
       "free_pluto_3078ce32",
@@ -1365,6 +1357,28 @@
       "free_pluto_75482ed8",
       "free_pluto_c8c64ea9",
       "free_plex_bc088da4"
+    ],
+    "United kingdom": [
+      "free_pluto_69e02606",
+      "free_pluto_66d69fca",
+      "free_pluto_14f53bb7",
+      "free_pluto_f2af878c",
+      "free_pluto_4fa99e15",
+      "free_plex_a376c0e4",
+      "free_plex_4f1791d9",
+      "free_plex_6f5a3045",
+      "free_plex_f4e4db9d",
+      "free_plex_7fe27487",
+      "free_plex_1340108d",
+      "free_plex_603127b9",
+      "free_plex_6e640ea2",
+      "free_plex_2e5786bc",
+      "free_plex_73baa3be",
+      "free_plex_3201ace5",
+      "free_plex_33e9444b",
+      "free_plex_1335ce22",
+      "free_plex_d6238a06",
+      "free_plex_dffe67cb"
     ],
     "Animals": [
       "free_roku_bfb2d338",
@@ -1451,10 +1465,15 @@
     ],
     "Local news": [
       "free_tubi_03fe5924",
+      "free_tubi_56a5e403",
+      "free_tubi_0c22980d",
       "free_tubi_ad986fb4",
-      "free_tubi_cb573265",
-      "free_tubi_19cfaed8",
-      "free_tubi_e9c1d8bf"
+      "free_tubi_53c0b40c",
+      "free_tubi_f5095aab",
+      "free_tubi_f753f72c",
+      "free_tubi_749c0afe",
+      "free_tubi_41a43f15",
+      "free_tubi_ac7ce182"
     ],
     "Espaol": [
       "free_tubi_ffb37b76"
@@ -1577,6 +1596,7 @@
       "free_xumo_323b64d0",
       "free_xumo_8e8ce93c",
       "free_xumo_fd63b8f3",
+      "free_xumo_324c5367",
       "free_xumo_7c634a6e",
       "free_xumo_347baac0",
       "free_xumo_4724c3aa",
@@ -1584,7 +1604,6 @@
       "free_xumo_5121eb5f",
       "free_xumo_351dcf04",
       "free_xumo_42060356",
-      "free_xumo_e9af08a5",
       "free_xumo_3fc7d474",
       "free_xumo_34e15bb4"
     ],
@@ -1595,19 +1614,19 @@
       "radio_78012206-1aa1-11e9-a80b-52543be04c81",
       "radio_da5f481e-f7d6-49b3-b213-514027740d39",
       "radio_1c3e8be2-5b14-4933-bad3-87cbc227cba4",
+      "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
       "radio_d28420a4-eccf-47a2-ace1-088c7e7cb7e0",
       "radio_9617a958-0601-11e8-ae97-52543be04c81",
-      "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
       "radio_240d28b9-7858-48d2-a816-9cf8e1875fe8",
       "radio_692a3b69-0f68-11ea-a87e-52543be04c81",
       "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
       "radio_313046e3-b203-4b9d-bc3e-393da7d97126",
       "radio_96126f56-0601-11e8-ae97-52543be04c81",
       "radio_ea8059be-d119-4de3-b27b-0d9bd6aedb17",
-      "radio_1b762b21-2ec6-412a-a231-fa34a96f4f99",
-      "radio_960c37c6-0601-11e8-ae97-52543be04c81",
       "radio_962cc6df-0601-11e8-ae97-52543be04c81",
-      "radio_6add27d4-5573-47b4-ae27-1d05834a9a4a",
+      "radio_960c37c6-0601-11e8-ae97-52543be04c81",
+      "radio_1b762b21-2ec6-412a-a231-fa34a96f4f99",
+      "radio_9606f727-0601-11e8-ae97-52543be04c81",
       "radio_9611ecb1-0601-11e8-ae97-52543be04c81"
     ],
     "Premium": [
