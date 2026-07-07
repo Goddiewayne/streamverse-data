@@ -99,9 +99,11 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_iptv_ee82304e77f5",
-    "displayName": "CBS News",
-    "category": "Undefined",
+    "channelId": "idx_CBS.us@East",
+    "displayName": "CBS",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
+    "category": "General",
+    "country": "US",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -228,6 +230,15 @@
     "logoUrl": "https://codeit.al/wp-content/uploads/2020/08/cna.png",
     "category": "News",
     "country": "AL",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
+    "channelId": "idx_ESPN.br@SD",
+    "displayName": "ESPN",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "category": "Sports",
+    "country": "BR",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -609,13 +620,6 @@
   {
     "channelId": "sport_374",
     "displayName": "Cinemax",
-    "category": "Sports",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
-    "channelId": "sport_44",
-    "displayName": "ESPN",
     "category": "Sports",
     "priority": 0,
     "reason": "Broadcaster"

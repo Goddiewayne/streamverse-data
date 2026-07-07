@@ -1,7 +1,7 @@
 {
   "popular": [
     "idx_BloombergTV.us@US",
-    "idx_iptv_ee82304e77f5",
+    "idx_CBS.us@East",
     "idx_CGTN.cn@SD",
     "idx_France24.fr@English",
     "idx_BBCNews.uk@Europe",
@@ -24,12 +24,13 @@
     "idx_MLB.us@SD",
     "idx_NewsmaxTV.us@SD",
     "idx_NHLNetwork.us@SD",
-    "idx_Nicktoons.us@CA",
+    "idx_Nicktoons.cz@SD",
     "idx_RTL.hu@SD",
     "idx_SkyNews.ie@SD",
     "idx_Starz.us@East",
     "idx_TennisChannel.us@SD",
     "idx_TimesNow.in@SD",
+    "idx_CCTV4Asia.cn",
     "idx_Boing.it",
     "idx_DubaiSports1.ae",
     "idx_DubaiSports2.ae",
@@ -48,12 +49,11 @@
     "idx_Channel8.gr@HD",
     "idx_ChannelOne.lk@SD",
     "idx_ClubTV.cl@SD",
-    "idx_CNBC.us@SD",
-    "idx_CTV.bo@SD"
+    "idx_CNBC.us@SD"
   ],
   "trending": [
     "idx_BloombergTV.us@US",
-    "idx_iptv_ee82304e77f5",
+    "idx_CBS.us@East",
     "idx_CGTN.cn@SD",
     "idx_France24.fr@English",
     "idx_BBCNews.uk@Europe",
@@ -190,9 +190,9 @@
       "idx_GSTV.jp@SD",
       "idx_Handystar.de@SD",
       "idx_HomeShopping.kr@SD",
-      "idx_HomeShoppingRussia.ru@SD",
       "idx_HSE.de@SD",
-      "idx_HSEExtra.de@SD"
+      "idx_HSEExtra.de@SD",
+      "idx_HSETrend.de@SD"
     ],
     "Entertainment": [
       "idx_1KZNTV.za@SD",
@@ -402,6 +402,7 @@
       "idx_DiemaFamily.bg@SD",
       "idx_DoveChannel.us@SD",
       "idx_EmanTv.iq@HD",
+      "idx_FETV.us@SD",
       "idx_Freeform.us@East",
       "idx_Freeform.us@West",
       "idx_GreenTV.bd@SD",
@@ -411,8 +412,7 @@
       "idx_Mixkurdy.iq@HD",
       "idx_MyFamily.id@SD",
       "idx_PositivTV.us@SD",
-      "idx_SevimliTV.uz@SD",
-      "idx_ShowtimeFamilyZone.us@East"
+      "idx_SevimliTV.uz@SD"
     ],
     "Lifestyle": [
       "idx_9Life.au@Sydney",
@@ -431,10 +431,10 @@
       "idx_BetterHealthTV.us@SD",
       "idx_BizTV.us@SD",
       "idx_BiznetLifestyle.id@SD",
+      "idx_BizzTV.tt@SD",
       "idx_Boligkjopiblinde.se@NO",
       "idx_Boligkobiblinde.se@DK",
-      "idx_BuyingBlindDenmark.se@SE",
-      "idx_CaTine.ro@SD"
+      "idx_BuyingBlindDenmark.se@SE"
     ],
     "Outdoor": [
       "idx_30ADarcizzleOffshore.us@SD",
@@ -663,9 +663,6 @@
       "idx_TV7Albania.al",
       "idx_TVApollon.al"
     ],
-    "Andorra": [
-      "idx_AndorraTV.ad"
-    ],
     "Argentina": [
       "idx_TodoNoticias.ar",
       "idx_Encuentro.ar",
@@ -773,7 +770,6 @@
       "idx_UCVTV.cl",
       "idx_24Horas.cl",
       "idx_UChileTV.cl",
-      "idx_T13.cl",
       "idx_ElPinguinoTV.cl",
       "idx_D13.cl",
       "idx_CHVNoticias.cl",
@@ -902,8 +898,6 @@
       "idx_MakTV.gr",
       "idx_4E.gr",
       "idx_pontostv.gr",
-      "idx_hlektra.gr",
-      "idx_lepantortv.gr",
       "idx_lychnostv.gr",
       "idx_epsilon.gr",
       "idx_digitalstar.gr",
@@ -1596,25 +1590,25 @@
     ],
     "Radio": [
       "radio_d1a54d2e-623e-4970-ab11-35f7b56c5ec3",
-      "radio_dfcef843-6bf9-40f6-b3fe-2b224df86e48",
       "radio_7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d",
-      "radio_da5f481e-f7d6-49b3-b213-514027740d39",
+      "radio_dfcef843-6bf9-40f6-b3fe-2b224df86e48",
       "radio_78012206-1aa1-11e9-a80b-52543be04c81",
-      "radio_d28420a4-eccf-47a2-ace1-088c7e7cb7e0",
+      "radio_da5f481e-f7d6-49b3-b213-514027740d39",
       "radio_1c3e8be2-5b14-4933-bad3-87cbc227cba4",
+      "radio_d28420a4-eccf-47a2-ace1-088c7e7cb7e0",
       "radio_9617a958-0601-11e8-ae97-52543be04c81",
       "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
-      "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
       "radio_240d28b9-7858-48d2-a816-9cf8e1875fe8",
-      "radio_96126f56-0601-11e8-ae97-52543be04c81",
+      "radio_692a3b69-0f68-11ea-a87e-52543be04c81",
+      "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
       "radio_313046e3-b203-4b9d-bc3e-393da7d97126",
-      "radio_6add27d4-5573-47b4-ae27-1d05834a9a4a",
+      "radio_96126f56-0601-11e8-ae97-52543be04c81",
+      "radio_ea8059be-d119-4de3-b27b-0d9bd6aedb17",
       "radio_1b762b21-2ec6-412a-a231-fa34a96f4f99",
       "radio_960c37c6-0601-11e8-ae97-52543be04c81",
-      "radio_692a3b69-0f68-11ea-a87e-52543be04c81",
       "radio_962cc6df-0601-11e8-ae97-52543be04c81",
-      "radio_9611ecb1-0601-11e8-ae97-52543be04c81",
-      "radio_9606f727-0601-11e8-ae97-52543be04c81"
+      "radio_6add27d4-5573-47b4-ae27-1d05834a9a4a",
+      "radio_9611ecb1-0601-11e8-ae97-52543be04c81"
     ],
     "Premium": [
       "up_stmify_hbo-plus"
