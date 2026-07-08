@@ -8,6 +8,7 @@
     "idx_CBC.eg@SD",
     "idx_France2.fr@SD",
     "idx_France3.fr@National",
+    "idx_GBNews.uk@SD",
     "idx_NFLChannel.us@SD",
     "idx_NHKWorldJapan.jp@SD",
     "idx_SABCNews.za@SD",
@@ -19,7 +20,6 @@
     "idx_CNA.al@SD",
     "idx_ComedyCentral.nl@SD",
     "idx_France5.fr@SD",
-    "idx_GBNews.uk@SD",
     "idx_History.bg@SD",
     "idx_MLB.us@SD",
     "idx_NewsmaxTV.us@SD",
@@ -30,7 +30,6 @@
     "idx_Starz.us@East",
     "idx_TennisChannel.us@SD",
     "idx_TimesNow.in@SD",
-    "idx_CCTV4Asia.cn",
     "idx_Boing.it",
     "idx_DubaiSports1.ae",
     "idx_DubaiSports2.ae",
@@ -49,7 +48,8 @@
     "idx_Channel8.gr@HD",
     "idx_ChannelOne.lk@SD",
     "idx_ClubTV.cl@SD",
-    "idx_CNBC.us@SD"
+    "idx_CNBC.us@SD",
+    "idx_CTV.bo@SD"
   ],
   "trending": [
     "idx_BloombergTV.us@US",
@@ -60,6 +60,7 @@
     "idx_CBC.eg@SD",
     "idx_France2.fr@SD",
     "idx_France3.fr@National",
+    "idx_GBNews.uk@SD",
     "idx_NFLChannel.us@SD",
     "idx_NHKWorldJapan.jp@SD",
     "idx_SABCNews.za@SD",
@@ -70,8 +71,7 @@
     "idx_CBSSportsGolazoNetwork.us@SD",
     "idx_CNA.al@SD",
     "idx_ComedyCentral.nl@SD",
-    "idx_France5.fr@SD",
-    "idx_GBNews.uk@SD"
+    "idx_France5.fr@SD"
   ],
   "recentlyAdded": [
     "star_startimes_1602873311",
@@ -454,9 +454,9 @@
       "idx_Dikij.ru@SD",
       "idx_DuckHuntingTV.us@SD",
       "idx_ElMundodelCampo.co@SD",
+      "idx_FishTV.br@SD",
       "idx_ItalianFishingTV.it@SD",
-      "idx_LoveNature.ca@SD",
-      "idx_Ohotnikirybolov.ru@SD"
+      "idx_LoveNature.ca@SD"
     ],
     "Sports": [
       "idx_30AGolfKingdom.us@SD",
@@ -552,6 +552,7 @@
     "Education": [
       "idx_A2iNaija.sn@SD",
       "idx_ABCEntertains.au@Sydney",
+      "idx_AgroCanal.br@SD",
       "idx_AlAlamiya2.sd@SD",
       "idx_AlHiwarTV.uk@SD",
       "idx_ALTV.th@SD",
@@ -568,8 +569,7 @@
       "idx_CanalEducativo.cu@SD",
       "idx_CanalEducativo2.cu@SD",
       "idx_CanalFDR.br@SD",
-      "idx_CanalSaude.br@SD",
-      "idx_CFTUDT.ca@SD"
+      "idx_CanalFutura.br@SD"
     ],
     "Legislative": [
       "idx_TheCityofMarina.us@SD",
@@ -585,13 +585,13 @@
       "idx_BrevardGovernmentAccessTV.us@SD",
       "idx_BPTV.us@SD",
       "idx_CameradeiDeputati.it@SD",
+      "idx_CanalCongreso.co@SD",
       "idx_CanaldelCongreso451.mx@SD",
       "idx_CanalGov.br@SD",
       "idx_CanalParlamento.es@SD",
       "idx_CanalParlamentodelCongresodeJalisco.mx@SD",
       "idx_CDTV.cl@SD",
-      "idx_CFMTVChannel98.us@SD",
-      "idx_ChamberTV.lu@SD"
+      "idx_CFMTVChannel98.us@SD"
     ],
     "Weather": [
       "idx_AccuWeatherNetwork.us@SD",
@@ -613,6 +613,8 @@
       "idx_ChefRocShow.us@SD",
       "idx_CookingPanda.us@SD",
       "idx_DensFoodChannel.id@SD",
+      "idx_ElGourmet.ar@Panregional",
+      "idx_ElGourmet.ar@South",
       "idx_FoodTime.ru@SD",
       "idx_GEMFood.tr@SD",
       "idx_GordonRamsaysHellsKitchen.us@SD",
@@ -623,9 +625,7 @@
       "idx_JordanKitchen.jo@SD",
       "idx_KitchenTV.rs@SD",
       "idx_KulinarTV.ru@SD",
-      "idx_MadDogandMerrill.us@SD",
-      "idx_MasalaTV.pk@SD",
-      "idx_MAXEats.id@SD"
+      "idx_MadDogandMerrill.us@SD"
     ],
     "Travel": [
       "idx_ArubaTV.aw@SD",
@@ -672,7 +672,6 @@
       "idx_TVPublica.ar",
       "idx_CronicaTV.ar",
       "idx_ElDestape.ar",
-      "idx_C5N.ar",
       "idx_LaNacionPlus.ar",
       "idx_BarricadaTV.ar",
       "idx_UrbanaTeve.ar",
@@ -861,6 +860,7 @@
       "idx_PublicSenat.fr",
       "idx_EuronewsFrench.fr",
       "free_pluto_9324a629",
+      "free_pluto_ca16ce6e",
       "free_pluto_052099a6",
       "free_pluto_7412117b",
       "free_plex_c10ce343",
@@ -875,12 +875,10 @@
       "free_plex_320b944b",
       "free_plex_832aeaaf",
       "free_plex_25185579",
-      "free_plex_b2b7986a",
-      "free_plex_ccffec92"
+      "free_plex_b2b7986a"
     ],
     "Georgia": [
-      "idx_PosTV.ge",
-      "idx_EuroNewsGeorgia.ge"
+      "idx_PosTV.ge"
     ],
     "Germany": [
       "idx_SchlagerDeluxe.de",
@@ -1071,7 +1069,6 @@
     ],
     "Peru": [
       "idx_ATVPlus.pe",
-      "idx_Karibena.pe",
       "idx_TopLatinoTV.pe"
     ],
     "Poland": [
@@ -1312,6 +1309,7 @@
     ],
     "News es": [
       "idx_EuronewsSpanish.fr",
+      "idx_CGTNSpanish.cn",
       "idx_RTenEspanol.ru"
     ],
     "Vod italy": [
@@ -1438,7 +1436,9 @@
       "free_roku_1aa598e9",
       "free_roku_b69c5521",
       "free_roku_e42c5350",
+      "free_roku_eb666537",
       "free_roku_00f1b55a",
+      "free_roku_d20ffdc8",
       "free_roku_4186045b",
       "free_roku_699a106c",
       "free_roku_eb980640",
@@ -1446,15 +1446,23 @@
       "free_roku_3ed6532a",
       "free_roku_1127ff8b",
       "free_roku_6023c30e",
-      "free_roku_698eacfd",
-      "free_roku_2148bcbf",
-      "free_roku_10864c9a"
+      "free_roku_698eacfd"
     ],
     "Sports on now": [
       "free_tubi_ba9b37b5",
       "free_tubi_a3b792c5",
-      "free_tubi_94a17db6",
-      "free_tubi_0ac50e43"
+      "free_tubi_94a17db6"
+    ],
+    "Local news": [
+      "free_tubi_f1c63592",
+      "free_tubi_03fe5924",
+      "free_tubi_ad986fb4",
+      "free_tubi_62387222",
+      "free_tubi_1c66e6a0",
+      "free_tubi_b2d28e9b",
+      "free_tubi_f41e68eb",
+      "free_tubi_a8afde88",
+      "free_tubi_3448ec45"
     ],
     "Movie channels": [
       "free_tubi_2e7d684c"
@@ -1462,18 +1470,6 @@
     "Pop culture": [
       "free_tubi_eddbbd59",
       "free_tubi_697d097a"
-    ],
-    "Local news": [
-      "free_tubi_03fe5924",
-      "free_tubi_56a5e403",
-      "free_tubi_0c22980d",
-      "free_tubi_ad986fb4",
-      "free_tubi_53c0b40c",
-      "free_tubi_f5095aab",
-      "free_tubi_f753f72c",
-      "free_tubi_749c0afe",
-      "free_tubi_41a43f15",
-      "free_tubi_ac7ce182"
     ],
     "Espaol": [
       "free_tubi_ffb37b76"
@@ -1604,29 +1600,29 @@
       "free_xumo_5121eb5f",
       "free_xumo_351dcf04",
       "free_xumo_42060356",
-      "free_xumo_3fc7d474",
-      "free_xumo_34e15bb4"
+      "free_xumo_e9af08a5",
+      "free_xumo_3fc7d474"
     ],
     "Radio": [
       "radio_d1a54d2e-623e-4970-ab11-35f7b56c5ec3",
       "radio_7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d",
       "radio_dfcef843-6bf9-40f6-b3fe-2b224df86e48",
+      "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
       "radio_78012206-1aa1-11e9-a80b-52543be04c81",
       "radio_da5f481e-f7d6-49b3-b213-514027740d39",
+      "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
       "radio_1c3e8be2-5b14-4933-bad3-87cbc227cba4",
-      "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
+      "radio_313046e3-b203-4b9d-bc3e-393da7d97126",
       "radio_d28420a4-eccf-47a2-ace1-088c7e7cb7e0",
       "radio_9617a958-0601-11e8-ae97-52543be04c81",
       "radio_240d28b9-7858-48d2-a816-9cf8e1875fe8",
-      "radio_692a3b69-0f68-11ea-a87e-52543be04c81",
-      "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
-      "radio_313046e3-b203-4b9d-bc3e-393da7d97126",
       "radio_96126f56-0601-11e8-ae97-52543be04c81",
       "radio_ea8059be-d119-4de3-b27b-0d9bd6aedb17",
-      "radio_962cc6df-0601-11e8-ae97-52543be04c81",
-      "radio_960c37c6-0601-11e8-ae97-52543be04c81",
-      "radio_1b762b21-2ec6-412a-a231-fa34a96f4f99",
+      "radio_692a3b69-0f68-11ea-a87e-52543be04c81",
+      "radio_96185693-0601-11e8-ae97-52543be04c81",
       "radio_9606f727-0601-11e8-ae97-52543be04c81",
+      "radio_6efe216d-bf7e-11e9-8502-52543be04c81",
+      "radio_962cc6df-0601-11e8-ae97-52543be04c81",
       "radio_9611ecb1-0601-11e8-ae97-52543be04c81"
     ],
     "Premium": [
