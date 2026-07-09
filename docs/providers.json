@@ -9,7 +9,7 @@
   {
     "sourceType": "FREE_CHANNEL",
     "providerName": "FREE_CHANNEL",
-    "channelCount": 4385,
+    "channelCount": 4381,
     "healthyCount": 0,
     "healthPct": 0.0
   },
@@ -37,7 +37,7 @@
   {
     "sourceType": "GLOBAL_INDEX",
     "providerName": "GLOBAL_INDEX",
-    "channelCount": 11781,
+    "channelCount": 11795,
     "healthyCount": 0,
     "healthPct": 0.0
   },
