@@ -1,15 +1,62 @@
 {
-  "versionName": "1.3.3",
-  "versionCode": 10,
-  "releaseNotes": "v1.3.3: update publish/version.json with new APK hashes and release notes",
+  "versionName": "1.3.4",
+  "versionCode": 11,
+  "releaseNotes": "v1.3.4: premium television focus system — multi-layer D-Pad treatment
+
+Focus Engine (TVFocus.kt rewrite):
+- SCALE_CARD 1.18x, SCALE_WIDE 1.12x, SCALE_HERO 1.06x, SCALE_BILLBOARD 1.03x
+- Elevation: 3dp rest → 60dp focus, translationZ 22dp
+- Glow: 3dp accent ring + 12dp soft halo (was 2dp + 6dp)
+- Glow pulse: subtle breathing animation while focused (skipped reduced motion)
+- Dim scrim: 30% black (was 22%) for stronger background recession
+- Artwork brightness: +20% (was +14%)
+- Border illumination: 2dp cyan stroke on card background when focused
+- Sheen sweep: wider 160dp strip with 5-stop gradient
+- Spring animation: OvershootInterpolator(1.4f) for focus, DecelerateInterpolator(2.2f) for unfocus
+- DURATION_MS 200ms focus, 140ms fast snap-back
+
+Unified Presenters:
+- TVFeaturedPresenter: migrated from manual 1.05x focus to TVFocus with glow/dim/sheen
+- TVSuggestionPresenter: migrated from manual 1.10x focus to TVFocus with glow/dim
+- TVChannelPresenter: added accent border illumination via TVFocus.animateBorder()
+- TVOnNowPresenter: added accent border illumination
+- TVSettingsCardPresenter: added accent border illumination
+- All presenters now share one unmistakable visual language
+
+Billboard Hero Focus:
+- TVBillboardView: added TVFocus glow overlay with pulse
+- Backdrop brightness: 0.55 → 0.85 on focus (was 0.8)
+- Watch Now button: 1.10x scale (was 1.08x) with spring animation
+- Elevation: 30dp + 16dp translationZ
+- GPU shadow colors: cyan-tinted spot/ambient
+
+Guide Panel Focus (TVPlaybackActivity):
+- Selected row: 1.06x scale (was 1.04x) with spring animation
+- Background: 33% cyan with 77% cyan border (was 26%/55%)
+- Elevation: 14dp + 8dp translationZ (was 10dp)
+- Name text: cyan shadow glow when selected
+- Logo brightness: full on selected, 75% on others
+- Accent bar: wider (5dp) and taller (48dp) when selected
+
+Source Chips:
+- Cursor: 1.12x spring animation (was 1.08x instant)
+- Playing: filled cyan background
+- Cursor: 33% cyan background with white ring
+- Elevation: 8dp cursor, 2dp rest
+
+Row-Level Focus Awareness (TVBrowseFragment):
+- Sibling rows dim to 72% alpha when a new row gains focus
+- Smooth 250ms crossfade animation
+- Active row stays at full alpha
+- De-emphasis cancelled on view destroy",
   "apks": {
     "phone": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.3.3/StreamVerse-Phone-v1.3.3-release.apk",
-      "sha256": "23f65a77a6469a789748ede4d7fe07c7f8df5e1d27796de858db369ce0dc81c3"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.3.4/StreamVerse-Phone-v1.3.4-release.apk",
+      "sha256": "ed18fc4baca7375f53dddb31c5cabc8cb2f188389292e65ade5d6297ba258400"
     },
     "tv": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.3.3/StreamVerse-TV-v1.3.3-release.apk",
-      "sha256": "7d9904c953afa0c9d8a5202a0190ae932d2c38ba9ce3a58e390ce230691c590d"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.3.4/StreamVerse-TV-v1.3.4-release.apk",
+      "sha256": "8f2878f3862b2cb372c0783da577ccc597f58d93e72089cd3a2eaf8a12e28f81"
     }
   }
 }
