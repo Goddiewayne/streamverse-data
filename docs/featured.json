@@ -869,19 +869,19 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_BBCFirst.uk@Poland",
-    "displayName": "BBC First",
-    "logoUrl": "https://i.imgur.com/UBoBYUI.png",
-    "category": "Entertainment",
+    "channelId": "idx_BBCAlba.uk@SD",
+    "displayName": "BBC Alba",
+    "logoUrl": "https://i.imgur.com/36KDxLg.png",
+    "category": "General",
     "country": "UK",
     "priority": 1,
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_BBCFour.uk@UK",
-    "displayName": "BBC Four",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
-    "category": "Documentary",
+    "channelId": "idx_BBCFirst.uk@Poland",
+    "displayName": "BBC First",
+    "logoUrl": "https://i.imgur.com/UBoBYUI.png",
+    "category": "Entertainment",
     "country": "UK",
     "priority": 1,
     "reason": "Multi-source"
