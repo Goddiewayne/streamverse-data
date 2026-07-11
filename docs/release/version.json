@@ -1,30 +1,15 @@
 {
-  "versionName": "1.3.5",
-  "versionCode": 12,
-  "releaseNotes": "v1.3.5: Source recovery engine — final sweep before TV Static
-
-SourceRecoveryEngine runs a 4-step recovery sweep before declaring
-ALL_SOURCES_EXHAUSTED:
- 1. Cached streams for untried source types
- 2. Previously-good source from persistent health memory
- 3. Re-resolve dynamic tokens (DLHD fresh JWT, World TV extraction)
- 4. Health-based pick from ChannelHealthEngine history
-
-Cooldown tracking: 30s/60s/120s escalating after 2/5/10 failures.
-
-Integrated into both playback engines:
-- TVPlaybackActivity.tryNextSource(): recovery sweep before UNAVAILABLE
-- TVPlaybackActivity.staticRetryFire(): recovery picks alternate source
-- PlayerViewModel.advanceToNextSource(): recovery before showStatic
-- playNextUrl()/onPlayerError(): recovery via advanceToNextSource",
+  "versionName": "1.3.6",
+  "versionCode": 13,
+  "releaseNotes": "v1.3.6: session-locked source management — suspend all sources once playback starts",
   "apks": {
     "phone": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.3.5/StreamVerse-Phone-v1.3.5-release.apk",
-      "sha256": "c3af88c402ee95d3f7110146037f389d3229955a7727498f24c752389ebe596c"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.3.6/StreamVerse-Phone-v1.3.6-release.apk",
+      "sha256": "9cae8e107ce059b25f7fd25fffc9c0e7ee9b9cac9316af08026a473393a83c23"
     },
     "tv": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.3.5/StreamVerse-TV-v1.3.5-release.apk",
-      "sha256": "a34d40358d9567204dbd0bdea97bd05899d27e0970afb05dc05277d0cdb56bde"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.3.6/StreamVerse-TV-v1.3.6-release.apk",
+      "sha256": "be309bff970b806906923f050fae749cc326165a253caccafe39fd85e7f8a6d7"
     }
   }
 }
