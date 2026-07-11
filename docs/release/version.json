@@ -1,15 +1,34 @@
 {
-  "versionName": "0.1.202607062125",
-  "versionCode": 4,
-  "releaseNotes": "iOS build fixes: actor isolation, zlib bindings, buildTvgIdMap label",
+  "versionName": "1.3.0",
+  "versionCode": 7,
+  "releaseNotes": "v1.3.0: mobile redesign - design system, unified cards, Guide tab, perf + a11y
+
+- Token design system: Dimens (spacing/radius), Motion (reduced-motion aware
+  pressScale + draw-phase staggered entrance), Surface0-3 hierarchy
+- One ChannelCard everywhere: LIVE/quality/favourite/playing states,
+  category + source-count metadata line
+- Guide promoted to bottom tab; readable EPG rows, date header, NOW badges,
+  A-Z fast-scroll rail; filtering/sorting moved off the main thread
+- Home: single rail renderer replaces 8 duplicated blocks; refined hero,
+  greeting top bar; live-index debounce for the ranking pipeline
+- Search: pill tabs, memoized catalogue grouping, bounded-Levenshtein typo
+  tolerance fallback
+- Player: fixed dead source chips (.clickable never invoked onClick),
+  restyled mini player + surf buttons
+- Fixed 0-9 See All (hyphen vs en-dash) and Now-line drawing over guide rail
+- Removed per-item double-spring entrance (~600 recomposing animations per
+  Home render) and O(n^2) indexOf in three grids
+- Settings on shared tokens; infinite animations stilled under reduced motion
+
+Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>",
   "apks": {
     "phone": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v0.1.202607062125/StreamVerse-Phone-v0.1.202607062125-release.apk",
-      "sha256": "f6df40b02b4f1da319149165df557d2a11b25566c7c099859b732d089afb7b94"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.3.0/StreamVerse-Phone-v1.3.0-release.apk",
+      "sha256": "b0aa75a499b93dc15c1226b9a5f42fb5ae67930a9aa354af91f7b3979b752248"
     },
     "tv": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v0.1.202607062125/StreamVerse-TV-v0.1.202607062125-release.apk",
-      "sha256": "4498fa9fea2d41b1a530391fa7f04e467fd51a6997800a5c729eb384a4d1f679"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.3.0/StreamVerse-TV-v1.3.0-release.apk",
+      "sha256": "0403cc2bab22511ce75036b6a73307bc7bd2d4cdf8fced6b207295d0cb25a0ee"
     }
   }
 }
