@@ -252,13 +252,13 @@
       "idx_ArabTV.cl@SD",
       "idx_ART.gr@SD",
       "idx_Arte1.br@SD",
+      "idx_ARTV.cl@SD",
       "idx_AsiriTV.pe@SD",
       "idx_Athaqafia.ma@SD",
       "idx_ATR.ua@SD",
       "idx_AuroraArte.it@SD",
       "idx_BalchiTV.aw@SD",
-      "idx_BAMTV.be@SD",
-      "idx_Bonairetv.bq@SD"
+      "idx_BAMTV.be@SD"
     ],
     "Religious": [
       "idx_3ABNCanada.ca@SD",
@@ -583,18 +583,19 @@
       "idx_CVCGovernment.us@SD",
       "idx_BrevardGovernmentAccessTV.us@SD",
       "idx_BPTV.us@SD",
+      "idx_CSPAN.us@SD",
+      "idx_CSPAN2.us@SD",
       "idx_CameradeiDeputati.it@SD",
       "idx_CanalCongreso.co@SD",
       "idx_CanaldelCongreso451.mx@SD",
       "idx_CanalGov.br@SD",
       "idx_CanalParlamento.es@SD",
-      "idx_CanalParlamentodelCongresodeJalisco.mx@SD",
-      "idx_CDTV.cl@SD",
-      "idx_CFMTVChannel98.us@SD"
+      "idx_CanalParlamentodelCongresodeJalisco.mx@SD"
     ],
     "Weather": [
       "idx_AccuWeatherNetwork.us@SD",
       "idx_AccuWeatherNOW.us@SD",
+      "idx_AlabamaWeatherNetwork.us@SD",
       "idx_FoxWeather.us@SD",
       "idx_Meteonews.ch@SD",
       "idx_SkyNewsWeather.uk@SD",
@@ -650,8 +651,8 @@
     ],
     "Relax": [
       "idx_BetterLifeNatureChannel.us@SD",
-      "idx_FunBoxUHD.nl@SD",
       "idx_MyZenTV.fr@SD",
+      "idx_ScreenDreams.us@SD",
       "idx_ZenLIFEbyStingray.ca@HD"
     ],
     "Albania": [
@@ -744,7 +745,6 @@
       "free_plex_3d0f2f16",
       "free_plex_e6efe4ee",
       "free_plex_553f30ed",
-      "free_plex_5f45648a",
       "free_plex_1b51b055",
       "free_plex_f595267d",
       "free_plex_394cf71d",
@@ -753,7 +753,8 @@
       "free_plex_067e4b93",
       "free_plex_e09ac75f",
       "free_plex_3c2447b7",
-      "free_plex_9f363c50"
+      "free_plex_9f363c50",
+      "free_plex_cc7e0776"
     ],
     "Chad": [
       "idx_Tchad24.td"
@@ -1446,19 +1447,23 @@
       "free_tubi_a3b792c5",
       "free_tubi_94a17db6"
     ],
+    "Local news": [
+      "free_tubi_f1c63592",
+      "free_tubi_03fe5924",
+      "free_tubi_ad986fb4",
+      "free_tubi_62387222",
+      "free_tubi_1c66e6a0",
+      "free_tubi_b2d28e9b",
+      "free_tubi_f41e68eb",
+      "free_tubi_a8afde88",
+      "free_tubi_3448ec45"
+    ],
     "Movie channels": [
       "free_tubi_2e7d684c"
     ],
     "Pop culture": [
       "free_tubi_eddbbd59",
       "free_tubi_697d097a"
-    ],
-    "Local news": [
-      "free_tubi_03fe5924",
-      "free_tubi_ad986fb4",
-      "free_tubi_cb573265",
-      "free_tubi_19cfaed8",
-      "free_tubi_e9c1d8bf"
     ],
     "Espaol": [
       "free_tubi_ffb37b76"
@@ -1581,6 +1586,7 @@
       "free_xumo_323b64d0",
       "free_xumo_8e8ce93c",
       "free_xumo_fd63b8f3",
+      "free_xumo_324c5367",
       "free_xumo_7c634a6e",
       "free_xumo_347baac0",
       "free_xumo_4724c3aa",
@@ -1589,30 +1595,29 @@
       "free_xumo_351dcf04",
       "free_xumo_42060356",
       "free_xumo_e9af08a5",
-      "free_xumo_3fc7d474",
-      "free_xumo_34e15bb4"
+      "free_xumo_3fc7d474"
     ],
     "Radio": [
       "radio_d1a54d2e-623e-4970-ab11-35f7b56c5ec3",
       "radio_78012206-1aa1-11e9-a80b-52543be04c81",
-      "radio_9617a958-0601-11e8-ae97-52543be04c81",
-      "radio_d28420a4-eccf-47a2-ace1-088c7e7cb7e0",
-      "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
-      "radio_dfcef843-6bf9-40f6-b3fe-2b224df86e48",
       "radio_7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d",
+      "radio_9617a958-0601-11e8-ae97-52543be04c81",
+      "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
+      "radio_d28420a4-eccf-47a2-ace1-088c7e7cb7e0",
+      "radio_dfcef843-6bf9-40f6-b3fe-2b224df86e48",
       "radio_240d28b9-7858-48d2-a816-9cf8e1875fe8",
       "radio_1c3e8be2-5b14-4933-bad3-87cbc227cba4",
-      "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
       "radio_1b762b21-2ec6-412a-a231-fa34a96f4f99",
+      "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
       "radio_962cc6df-0601-11e8-ae97-52543be04c81",
-      "radio_9606f727-0601-11e8-ae97-52543be04c81",
       "radio_692a3b69-0f68-11ea-a87e-52543be04c81",
-      "radio_6add27d4-5573-47b4-ae27-1d05834a9a4a",
-      "radio_216ee092-939d-43b6-8562-c646f73ad89f",
+      "radio_9606f727-0601-11e8-ae97-52543be04c81",
       "radio_313046e3-b203-4b9d-bc3e-393da7d97126",
-      "radio_4ad5bdc7-01e5-47c9-a1f9-751671b4707e",
-      "radio_902ea231-d537-4dc8-8708-6819418086d0",
-      "radio_dbdae111-2ceb-48e8-aa6b-cc544c57d043"
+      "radio_96126f56-0601-11e8-ae97-52543be04c81",
+      "radio_da5f481e-f7d6-49b3-b213-514027740d39",
+      "radio_6add27d4-5573-47b4-ae27-1d05834a9a4a",
+      "radio_ea8059be-d119-4de3-b27b-0d9bd6aedb17",
+      "radio_216ee092-939d-43b6-8562-c646f73ad89f"
     ],
     "Premium": [
       "up_stmify_hbo-plus"
