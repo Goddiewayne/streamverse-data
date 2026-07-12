@@ -1,15 +1,15 @@
 {
-  "versionName": "1.3.9",
-  "versionCode": 16,
-  "releaseNotes": "v1.3.9: version bump + release APKs",
+  "versionName": "1.4.0",
+  "versionCode": 17,
+  "releaseNotes": "v1.4.0: DRM DASH fix — extract Widevine license from MPD PSSH, parse binary CENC box + UTF-16LE WRMHeader. TV app gets Widevine UUID support.",
   "apks": {
     "phone": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.3.9/StreamVerse-Phone-v1.3.9-release.apk",
-      "sha256": "295e239231f33d58bc2b0598292c47997c62027e042ca1cceac139fedb53a393"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.4.0/StreamVerse-Phone-v1.4.0-release.apk",
+      "sha256": "75bf3fbf8878462ba2ecaa326ce51c9a0df95771076ca99f00dc4a7a6c1e7034"
     },
     "tv": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.3.9/StreamVerse-TV-v1.3.9-release.apk",
-      "sha256": "4c5e1362160a4aaee05c7c435d56c35e612c166e30f9689fc27bcc5c9e6f7b4a"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.4.0/StreamVerse-TV-v1.4.0-release.apk",
+      "sha256": "c939d29d4bbb325911446c47e182d0af9781b3b642f92c9f12dfb7c33abc7112"
     }
   }
 }
