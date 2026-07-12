@@ -728,8 +728,69 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "idx_1Plus1Marafon.ua@SD",
+    "displayName": "1+1 Marafon",
+    "logoUrl": "https://i.imgur.com/smQKa2G.png",
+    "category": "General",
+    "country": "UA",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_1TV.ge@SD",
+    "displayName": "1TV",
+    "logoUrl": "https://i.imgur.com/FSkYLPK.png",
+    "category": "General",
+    "country": "GE",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_2TV.ge@SD",
+    "displayName": "2TV",
+    "logoUrl": "https://i.imgur.com/FJBL6zI.png",
+    "category": "General",
+    "country": "GE",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_3CatInfo.es@SD",
+    "displayName": "3 Catinfo",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png",
+    "category": "News",
+    "country": "ES",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_3HD.th@SD",
+    "displayName": "3HD",
+    "logoUrl": "https://i.imgur.com/YRiulCU.png",
+    "category": "General",
+    "country": "TH",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_4FunTV.pl@SD",
+    "displayName": "4 Fun TV",
+    "logoUrl": "https://i.imgur.com/rI1wo2l.png",
+    "category": "Music",
+    "country": "PL",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
     "channelId": "idx_iptv_69feb58e2269",
     "displayName": "4 K Travel TV",
+    "category": "Undefined",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_iptv_b30c85b93bc1",
+    "displayName": "4UV",
     "category": "Undefined",
     "priority": 1,
     "reason": "Multi-source"
@@ -753,136 +814,72 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_scifi.ru@SD",
-    "displayName": ".sci-fi",
-    "logoUrl": "https://i.imgur.com/nSSUHcg.png",
-    "category": "Science",
+    "channelId": "idx_12TVParma.it@SD",
+    "displayName": "12 TV Parma",
+    "logoUrl": "https://i.imgur.com/mBYxWOg.png",
+    "category": "General",
+    "country": "IT",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_Channel12.ru@SD",
+    "displayName": "12 Канал",
+    "logoUrl": "https://i.imgur.com/OA9hm6e.png",
+    "category": "General",
     "country": "RU",
     "priority": 1,
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_A2Z.ph@SD",
-    "displayName": "A2Z",
-    "logoUrl": "https://i.imgur.com/1zsdloF.png",
-    "category": "General",
-    "country": "PH",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_APlus.mx@SD",
-    "displayName": "A Plus",
-    "logoUrl": "https://i.imgur.com/TWk9gfd.png",
-    "category": "Culture",
-    "country": "MX",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_ABC.us@East",
-    "displayName": "ABC",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-    "category": "General",
-    "country": "US",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_ABCKids.au@Sydney",
-    "displayName": "ABC Kids",
-    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+    "channelId": "idx_13Kids.cl@SD",
+    "displayName": "13 Kids",
+    "logoUrl": "https://i.imgur.com/8WJUbSD.png",
     "category": "Kids",
-    "country": "AU",
+    "country": "CL",
     "priority": 1,
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_AMC.af@SD",
-    "displayName": "AMC",
-    "logoUrl": "https://i.imgur.com/yj8RNnG.png",
-    "category": "Music",
-    "country": "AF",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_ArirangTV.kr@SD",
-    "displayName": "Arirang TV",
-    "logoUrl": "https://i.imgur.com/Asu5pE9.png",
-    "category": "General",
-    "country": "KR",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_ARYZindagi.pk@SD",
-    "displayName": "ARY Zindagi",
+    "channelId": "idx_13Realities.cl@SD",
+    "displayName": "13 Realities",
+    "logoUrl": "https://i.imgur.com/m0SuwMU.png",
     "category": "Entertainment",
-    "country": "PK",
+    "country": "CL",
     "priority": 1,
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_AsharqDiscovery.sa@SD",
-    "displayName": "Asharq Discovery",
-    "logoUrl": "https://i.imgur.com/Czxi7yk.png",
-    "category": "Documentary",
-    "country": "SA",
+    "channelId": "idx_13T.cl@SD",
+    "displayName": "13 Teleseries",
+    "logoUrl": "https://i.imgur.com/csBNi2L.png",
+    "category": "Entertainment",
+    "country": "CL",
     "priority": 1,
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_AXNBlack.us@Bulgary",
-    "displayName": "AXN Black",
-    "logoUrl": "https://i.imgur.com/Peo1QiZ.png",
+    "channelId": "idx_16tvBudapest.hu@SD",
+    "displayName": "16 TV Budapest",
+    "logoUrl": "https://i.imgur.com/04fCzHl.png",
+    "category": "General",
+    "country": "HU",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_iptv_2eb6f280088a",
+    "displayName": "21 Jump Street",
+    "category": "Undefined",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_24HourFreeMovies.us@SD",
+    "displayName": "24 Hour Free Movies",
+    "logoUrl": "https://i.imgur.com/iSVnzR1.png",
     "category": "Movies",
     "country": "US",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_AXNWhite.us@SD",
-    "displayName": "AXN White",
-    "logoUrl": "https://i.imgur.com/47IKxmt.png",
-    "category": "Entertainment",
-    "country": "US",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_B4UMovies.in@India",
-    "displayName": "B 4 U Movies",
-    "logoUrl": "https://i.imgur.com/M9kMFJl.png",
-    "category": "Movies",
-    "country": "IN",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_BabyFirst.us@Brazil",
-    "displayName": "Babyfirst",
-    "logoUrl": "https://i.imgur.com/WxLHBwu.png",
-    "category": "Kids",
-    "country": "US",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_BBCAlba.uk@SD",
-    "displayName": "BBC Alba",
-    "logoUrl": "https://i.imgur.com/36KDxLg.png",
-    "category": "General",
-    "country": "UK",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_BBCFirst.uk@Poland",
-    "displayName": "BBC First",
-    "logoUrl": "https://i.imgur.com/UBoBYUI.png",
-    "category": "Entertainment",
-    "country": "UK",
     "priority": 1,
     "reason": "Multi-source"
   }
