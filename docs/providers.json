@@ -44,7 +44,7 @@
   {
     "sourceType": "RADIO",
     "providerName": "RADIO",
-    "channelCount": 727,
+    "channelCount": 728,
     "healthyCount": 0,
     "healthPct": 0.0
   },
@@ -59,6 +59,13 @@
     "sourceType": "STARTIMES",
     "providerName": "STARTIMES",
     "channelCount": 64,
+    "healthyCount": 0,
+    "healthPct": 0.0
+  },
+  {
+    "sourceType": "FAMELACK",
+    "providerName": "FAMELACK",
+    "channelCount": 0,
     "healthyCount": 0,
     "healthPct": 0.0
   }
