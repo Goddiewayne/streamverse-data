@@ -20,10 +20,10 @@
     "idx_MLB.us@SD",
     "idx_NewsmaxTV.us@SD",
     "idx_NHLNetwork.us@SD",
-    "idx_Nicktoons.cz@SD",
     "idx_SkyNews.ie@SD",
     "idx_TennisChannel.us@SD",
     "idx_TimesNow.in@SD",
+    "idx_CCTV4Asia.cn",
     "idx_9XJalwa.in@SD",
     "idx_ABC.us@East",
     "idx_ABCAustralia.au@SD",
@@ -611,6 +611,7 @@
       "idx_bonappetit.us@SD",
       "idx_ChefChampion.us@SD",
       "idx_ChefRocShow.us@SD",
+      "idx_ChefTV.br@SD",
       "idx_CookingPanda.us@SD",
       "idx_DensFoodChannel.id@SD",
       "idx_ElGourmet.ar@Panregional",
@@ -624,8 +625,7 @@
       "idx_IntheKitchen.us@SD",
       "idx_JordanKitchen.jo@SD",
       "idx_KitchenTV.rs@SD",
-      "idx_KulinarTV.ru@SD",
-      "idx_MadDogandMerrill.us@SD"
+      "idx_KulinarTV.ru@SD"
     ],
     "Travel": [
       "idx_ArubaTV.aw@SD",
@@ -876,13 +876,7 @@
       "idx_HRFernsehen.de",
       "idx_MDRFernsehenSachsen.de",
       "idx_MDRFernsehenSachsenAnhalt.de",
-      "idx_MDRFernsehenThuringen.de",
-      "free_pluto_b785780b",
-      "free_pluto_fbd6eb8c",
-      "free_pluto_85aa8e35",
-      "free_pluto_bdd3b4ce",
-      "free_pluto_4e894d51",
-      "free_pluto_293e6091"
+      "idx_MDRFernsehenThuringen.de"
     ],
     "Greece": [
       "idx_ERTSports3.gr",
@@ -1169,8 +1163,7 @@
       "idx_Sundskanalen.se",
       "idx_OppnaKanalenSkovde.se",
       "idx_LTVU.se",
-      "idx_SuryoyoSat.se",
-      "free_pluto_5e3e3e91"
+      "idx_SuryoyoSat.se"
     ],
     "Switzerland": [
       "idx_SRF1.ch"
@@ -1217,16 +1210,14 @@
       "idx_1Plus1Ukraina.ua",
       "idx_SuspilneKultura.ua",
       "idx_SuspilneSport.ua",
-      "idx_ICTV2.ua",
       "idx_ICTVSerialy.ua",
       "idx_UNIANTV.ua",
-      "idx_Bigudi.ua",
       "idx_NovyKanal.ua",
       "idx_2Plus2.ua",
       "idx_M1.ua",
+      "idx_M2.ua",
       "idx_K1.ua",
       "idx_XSport.ua",
-      "idx_EnterFilm.ua",
       "idx_5Kanal.ua",
       "idx_SuspilneKropyvnytskyi.ua",
       "idx_FREEDOM.ua",
@@ -1303,7 +1294,6 @@
     ],
     "News es": [
       "idx_EuronewsSpanish.fr",
-      "idx_CGTNSpanish.cn",
       "idx_RTenEspanol.ru"
     ],
     "Vod italy": [
@@ -1330,25 +1320,25 @@
     ],
     "United states": [
       "free_pluto_b93b85a3",
-      "free_pluto_3078ce32",
       "free_pluto_66375c15",
       "free_pluto_e466d164",
       "free_pluto_85e5595f",
       "free_pluto_17eca7ff",
       "free_pluto_833410b3",
-      "free_pluto_572cd084",
       "free_pluto_481418e4",
       "free_pluto_58e52f0e",
       "free_pluto_4cd55811",
       "free_pluto_da229486",
       "free_pluto_83aa41da",
-      "free_pluto_f36ee715",
       "free_pluto_1595170c",
       "free_pluto_035ceb84",
       "free_pluto_c6c3464c",
-      "free_pluto_b04ba4b0",
       "free_pluto_6fb31d9f",
-      "free_pluto_4c50e322"
+      "free_pluto_15598703",
+      "free_pluto_75482ed8",
+      "free_pluto_c8c64ea9",
+      "free_plex_bc088da4",
+      "free_plex_324edb95"
     ],
     "United kingdom": [
       "free_pluto_69e02606",
@@ -1425,7 +1415,6 @@
       "free_roku_21fb30d2",
       "free_roku_960ef9d4",
       "free_roku_63d1be22",
-      "free_roku_246dbee5",
       "free_roku_9805cb02",
       "free_roku_1aa598e9",
       "free_roku_b69c5521",
@@ -1440,23 +1429,13 @@
       "free_roku_3ed6532a",
       "free_roku_1127ff8b",
       "free_roku_6023c30e",
-      "free_roku_698eacfd"
+      "free_roku_698eacfd",
+      "free_roku_8a5a4b1d"
     ],
     "Sports on now": [
       "free_tubi_ba9b37b5",
       "free_tubi_a3b792c5",
       "free_tubi_94a17db6"
-    ],
-    "Local news": [
-      "free_tubi_f1c63592",
-      "free_tubi_03fe5924",
-      "free_tubi_ad986fb4",
-      "free_tubi_62387222",
-      "free_tubi_1c66e6a0",
-      "free_tubi_b2d28e9b",
-      "free_tubi_f41e68eb",
-      "free_tubi_a8afde88",
-      "free_tubi_3448ec45"
     ],
     "Movie channels": [
       "free_tubi_2e7d684c"
@@ -1464,6 +1443,19 @@
     "Pop culture": [
       "free_tubi_eddbbd59",
       "free_tubi_697d097a"
+    ],
+    "Local news": [
+      "free_tubi_1438a7e4",
+      "free_tubi_0c7d9b03",
+      "free_tubi_26f766fc",
+      "free_tubi_03fe5924",
+      "free_tubi_ad986fb4",
+      "free_tubi_f1219f4f",
+      "free_tubi_abd61863",
+      "free_tubi_cfdedb6e",
+      "free_tubi_77217721",
+      "free_tubi_79891dc6",
+      "free_tubi_4e9467c7"
     ],
     "Espaol": [
       "free_tubi_ffb37b76"
@@ -1600,24 +1592,24 @@
     "Radio": [
       "radio_d1a54d2e-623e-4970-ab11-35f7b56c5ec3",
       "radio_78012206-1aa1-11e9-a80b-52543be04c81",
+      "radio_9617a958-0601-11e8-ae97-52543be04c81",
       "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
       "radio_7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d",
-      "radio_9617a958-0601-11e8-ae97-52543be04c81",
+      "radio_dfcef843-6bf9-40f6-b3fe-2b224df86e48",
       "radio_9e8ccaf9-99b1-4b80-ac33-66b3b5057745",
       "radio_d28420a4-eccf-47a2-ace1-088c7e7cb7e0",
       "radio_240d28b9-7858-48d2-a816-9cf8e1875fe8",
-      "radio_dfcef843-6bf9-40f6-b3fe-2b224df86e48",
       "radio_1c3e8be2-5b14-4933-bad3-87cbc227cba4",
       "radio_1b762b21-2ec6-412a-a231-fa34a96f4f99",
-      "radio_962cc6df-0601-11e8-ae97-52543be04c81",
-      "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
-      "radio_9606f727-0601-11e8-ae97-52543be04c81",
       "radio_313046e3-b203-4b9d-bc3e-393da7d97126",
+      "radio_962cc6df-0601-11e8-ae97-52543be04c81",
+      "radio_9606f727-0601-11e8-ae97-52543be04c81",
+      "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
+      "radio_ea8059be-d119-4de3-b27b-0d9bd6aedb17",
       "radio_96126f56-0601-11e8-ae97-52543be04c81",
-      "radio_692a3b69-0f68-11ea-a87e-52543be04c81",
-      "radio_da5f481e-f7d6-49b3-b213-514027740d39",
       "radio_902ea231-d537-4dc8-8708-6819418086d0",
-      "radio_ea8059be-d119-4de3-b27b-0d9bd6aedb17"
+      "radio_960c37c6-0601-11e8-ae97-52543be04c81",
+      "radio_b81c57c3-eb05-47ac-a0ea-eb01a6960cc4"
     ],
     "Premium": [
       "up_stmify_hbo-plus"
