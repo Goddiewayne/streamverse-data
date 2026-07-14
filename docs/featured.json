@@ -832,15 +832,6 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_13T.cl@SD",
-    "displayName": "13 Teleseries",
-    "logoUrl": "https://i.imgur.com/csBNi2L.png",
-    "category": "Entertainment",
-    "country": "CL",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
     "channelId": "idx_16tvBudapest.hu@SD",
     "displayName": "16 TV Budapest",
     "logoUrl": "https://i.imgur.com/04fCzHl.png",
@@ -880,6 +871,15 @@
     "logoUrl": "https://i.imgur.com/i3YwORV.png",
     "category": "Music",
     "country": "CR",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_100NEWS.ua@SD",
+    "displayName": "100% News",
+    "logoUrl": "https://i.imgur.com/bSXKdK5.png",
+    "category": "Business",
+    "country": "UA",
     "priority": 1,
     "reason": "Multi-source"
   }
