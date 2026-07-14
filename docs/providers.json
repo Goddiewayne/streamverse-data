@@ -9,7 +9,7 @@
   {
     "sourceType": "FREE_CHANNEL",
     "providerName": "FREE_CHANNEL",
-    "channelCount": 4180,
+    "channelCount": 4385,
     "healthyCount": 0,
     "healthPct": 0.0
   },
@@ -37,14 +37,14 @@
   {
     "sourceType": "GLOBAL_INDEX",
     "providerName": "GLOBAL_INDEX",
-    "channelCount": 11948,
+    "channelCount": 11927,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "RADIO",
     "providerName": "RADIO",
-    "channelCount": 727,
+    "channelCount": 728,
     "healthyCount": 0,
     "healthPct": 0.0
   },
@@ -65,7 +65,7 @@
   {
     "sourceType": "FAMELACK",
     "providerName": "FAMELACK",
-    "channelCount": 6289,
+    "channelCount": 6383,
     "healthyCount": 0,
     "healthPct": 0.0
   }

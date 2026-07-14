@@ -63,7 +63,7 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_BBCEarth.uk@Poland",
+    "channelId": "idx_BBCEarth.uk@US",
     "displayName": "BBC Earth",
     "logoUrl": "https://i.imgur.com/nGSsUd4.png",
     "category": "Documentary",
@@ -832,24 +832,6 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_13Kids.cl@SD",
-    "displayName": "13 Kids",
-    "logoUrl": "https://i.imgur.com/8WJUbSD.png",
-    "category": "Kids",
-    "country": "CL",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_13Realities.cl@SD",
-    "displayName": "13 Realities",
-    "logoUrl": "https://i.imgur.com/m0SuwMU.png",
-    "category": "Entertainment",
-    "country": "CL",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
     "channelId": "idx_13T.cl@SD",
     "displayName": "13 Teleseries",
     "logoUrl": "https://i.imgur.com/csBNi2L.png",
@@ -880,6 +862,24 @@
     "logoUrl": "https://i.imgur.com/iSVnzR1.png",
     "category": "Movies",
     "country": "US",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_24News.in@SD",
+    "displayName": "24 News",
+    "logoUrl": "https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png",
+    "category": "News",
+    "country": "IN",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_88Stereo.cr@SD",
+    "displayName": "88 Stereo",
+    "logoUrl": "https://i.imgur.com/i3YwORV.png",
+    "category": "Music",
+    "country": "CR",
     "priority": 1,
     "reason": "Multi-source"
   }
