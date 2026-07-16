@@ -782,7 +782,7 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_iptv_69feb58e2269",
+    "channelId": "idx_iptv_2b5425ecdd33",
     "displayName": "4 K Travel TV",
     "category": "Undefined",
     "priority": 1,
@@ -792,6 +792,15 @@
     "channelId": "idx_iptv_b30c85b93bc1",
     "displayName": "4UV",
     "category": "Undefined",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_6ter.fr@SD",
+    "displayName": "6TER",
+    "logoUrl": "https://i.imgur.com/2nd5Cox.png",
+    "category": "Entertainment",
+    "country": "FR",
     "priority": 1,
     "reason": "Multi-source"
   },
@@ -832,6 +841,15 @@
     "reason": "Multi-source"
   },
   {
+    "channelId": "idx_13C.cl@SD",
+    "displayName": "13C",
+    "logoUrl": "https://i.imgur.com/Zfe2f5j.png",
+    "category": "Culture",
+    "country": "CL",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
     "channelId": "idx_16tvBudapest.hu@SD",
     "displayName": "16 TV Budapest",
     "logoUrl": "https://i.imgur.com/04fCzHl.png",
@@ -862,24 +880,6 @@
     "logoUrl": "https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png",
     "category": "News",
     "country": "IN",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_88Stereo.cr@SD",
-    "displayName": "88 Stereo",
-    "logoUrl": "https://i.imgur.com/i3YwORV.png",
-    "category": "Music",
-    "country": "CR",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_100NEWS.ua@SD",
-    "displayName": "100% News",
-    "logoUrl": "https://i.imgur.com/bSXKdK5.png",
-    "category": "Business",
-    "country": "UA",
     "priority": 1,
     "reason": "Multi-source"
   }
