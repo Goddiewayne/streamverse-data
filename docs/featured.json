@@ -1,14 +1,5 @@
 [
   {
-    "channelId": "idx_2M.ma@SD",
-    "displayName": "MA-2 M 1",
-    "logoUrl": "https://i.imgur.com/PJYTfHi.png",
-    "category": "General",
-    "country": "MA",
-    "priority": 0,
-    "reason": "Broadcaster"
-  },
-  {
     "channelId": "idx_3sat.de@SD",
     "displayName": "3SAT",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
@@ -666,6 +657,15 @@
     "reason": "Broadcaster"
   },
   {
+    "channelId": "br_2m_ma",
+    "displayName": "MA-2 M 2",
+    "logoUrl": "https://i.imgur.com/PJYTfHi.png",
+    "category": "General",
+    "country": "MA",
+    "priority": 0,
+    "reason": "Broadcaster"
+  },
+  {
     "channelId": "br_ard_de",
     "displayName": "ARD Das Erste",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ARD_Das_Erste_Logo.svg/512px-ARD_Das_Erste_Logo.svg.png",
@@ -841,10 +841,19 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_13C.cl@SD",
-    "displayName": "13C",
-    "logoUrl": "https://i.imgur.com/Zfe2f5j.png",
-    "category": "Culture",
+    "channelId": "idx_13Kids.cl@SD",
+    "displayName": "13 Kids",
+    "logoUrl": "https://i.imgur.com/8WJUbSD.png",
+    "category": "Kids",
+    "country": "CL",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_13Realities.cl@SD",
+    "displayName": "13 Realities",
+    "logoUrl": "https://i.imgur.com/m0SuwMU.png",
+    "category": "Entertainment",
     "country": "CL",
     "priority": 1,
     "reason": "Multi-source"
@@ -871,15 +880,6 @@
     "logoUrl": "https://i.imgur.com/iSVnzR1.png",
     "category": "Movies",
     "country": "US",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_24News.in@SD",
-    "displayName": "24 News",
-    "logoUrl": "https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png",
-    "category": "News",
-    "country": "IN",
     "priority": 1,
     "reason": "Multi-source"
   }
