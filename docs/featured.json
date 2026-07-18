@@ -520,11 +520,11 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "idx_TV5.mn@SD",
+    "channelId": "idx_TV5.ph@SD",
     "displayName": "TV5",
-    "logoUrl": "https://i.imgur.com/asGQfGN.png",
-    "category": "General",
-    "country": "MN",
+    "logoUrl": "https://i.imgur.com/PYJhTiq.png",
+    "category": "Undefined",
+    "country": "PH",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -859,6 +859,15 @@
     "reason": "Multi-source"
   },
   {
+    "channelId": "idx_13T.cl@SD",
+    "displayName": "13 Teleseries",
+    "logoUrl": "https://i.imgur.com/csBNi2L.png",
+    "category": "Entertainment",
+    "country": "CL",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
     "channelId": "idx_16tvBudapest.hu@SD",
     "displayName": "16 TV Budapest",
     "logoUrl": "https://i.imgur.com/04fCzHl.png",
@@ -871,15 +880,6 @@
     "channelId": "idx_iptv_2eb6f280088a",
     "displayName": "21 Jump Street",
     "category": "Undefined",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_24HourFreeMovies.us@SD",
-    "displayName": "24 Hour Free Movies",
-    "logoUrl": "https://i.imgur.com/iSVnzR1.png",
-    "category": "Movies",
-    "country": "US",
     "priority": 1,
     "reason": "Multi-source"
   }
