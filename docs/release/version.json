@@ -1,15 +1,15 @@
 {
-  "versionName": "1.4.0",
-  "versionCode": 17,
-  "releaseNotes": "v1.4.0: DRM DASH fix — extract Widevine license from MPD PSSH, parse binary CENC box + UTF-16LE WRMHeader. TV app gets Widevine UUID support.",
+  "versionName": "1.6.0",
+  "versionCode": 21,
+  "releaseNotes": "Fixes a crash where pressing OK on a search result (or any channel) dropped you to the home screen instead of playing — the TV player now opens reliably. Fixes DLHD sports channels (e.g. Supersport Grandstand) that showed a black screen, so all 710 DLHD-only channels tune correctly. Restores brand logos for logo-less channels (the old logo service was shut down). New on Android TV: a broadcast-style TV Guide (filter chips, favourites-first, GUIDE remote button). Adaptive EPG window (6h normal, 2h low-RAM). Instant-visuals tuning: the player now picks the first feed verified to actually stream, so a dead source never parks you on a black screen; fixed a tuning freeze. Mobile guide: correct clock labels, 6h scroll, no overlaps. Fixed ~940 channel logos (e.g. TSN 2). Typo-tolerant search fix. Player minimize is now a down-chevron. First automated test suite.",
   "apks": {
     "phone": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.4.0/StreamVerse-Phone-v1.4.0-release.apk",
-      "sha256": "75bf3fbf8878462ba2ecaa326ce51c9a0df95771076ca99f00dc4a7a6c1e7034"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.6.0/StreamVerse-Phone-v1.6.0-release.apk",
+      "sha256": "a07f3ca0f93e91ee8313fb1f9b24c1554a1565ea2d6a7f1abbc113bab2cb0a35"
     },
     "tv": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.4.0/StreamVerse-TV-v1.4.0-release.apk",
-      "sha256": "c939d29d4bbb325911446c47e182d0af9781b3b642f92c9f12dfb7c33abc7112"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.6.0/StreamVerse-TV-v1.6.0-release.apk",
+      "sha256": "8b6c01400e76e3bd47b65847ca244319bcb6e8d324b08f84cabab9f18bde4a46"
     }
   }
 }
