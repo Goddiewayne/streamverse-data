@@ -841,19 +841,10 @@
     "reason": "Multi-source"
   },
   {
-    "channelId": "idx_13Kids.cl@SD",
-    "displayName": "13 Kids",
-    "logoUrl": "https://i.imgur.com/8WJUbSD.png",
-    "category": "Kids",
-    "country": "CL",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_13Realities.cl@SD",
-    "displayName": "13 Realities",
-    "logoUrl": "https://i.imgur.com/m0SuwMU.png",
-    "category": "Entertainment",
+    "channelId": "idx_13C.cl@SD",
+    "displayName": "13C",
+    "logoUrl": "https://i.imgur.com/Zfe2f5j.png",
+    "category": "Culture",
     "country": "CL",
     "priority": 1,
     "reason": "Multi-source"
@@ -880,6 +871,15 @@
     "channelId": "idx_iptv_2eb6f280088a",
     "displayName": "21 Jump Street",
     "category": "Undefined",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_24HourFreeMovies.us@SD",
+    "displayName": "24 Hour Free Movies",
+    "logoUrl": "https://i.imgur.com/iSVnzR1.png",
+    "category": "Movies",
+    "country": "US",
     "priority": 1,
     "reason": "Multi-source"
   }
