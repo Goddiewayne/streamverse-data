@@ -4,7 +4,6 @@
     "idx_CBS.us@East",
     "idx_CGTN.cn@SD",
     "idx_France24.fr@English",
-    "idx_AlJazeera.qa@Arabic",
     "idx_BBCNews.uk@Europe",
     "idx_CBC.eg@SD",
     "idx_GBNews.uk@SD",
@@ -13,6 +12,7 @@
     "idx_SABCNews.za@SD",
     "idx_TV5.ph@SD",
     "idx_3sat.de@SD",
+    "idx_AlJazeera.qa@Arabic",
     "idx_ArirangTV.kr@SD",
     "idx_CNA.al@SD",
     "idx_France2.fr@SD",
@@ -39,7 +39,6 @@
     "idx_CTV.bo@SD",
     "idx_DasErste.de@HD",
     "idx_DeluxeMusic.de@SD",
-    "idx_DisneyJr.fr@SD",
     "idx_DisneyXD.us@East",
     "idx_Fox.pl@SD",
     "idx_iptv_0c92eec97946",
@@ -47,16 +46,16 @@
     "idx_France5.fr@SD",
     "idx_FuboSportsNetwork.us@SD",
     "idx_GalaxyTV.ug@SD",
-    "idx_GlobalTelevision.bd@SD",
     "idx_HGTV.nz@SD",
-    "idx_iNews.id@SD"
+    "idx_iNews.id@SD",
+    "idx_ITV.ua@SD",
+    "idx_K24.ke@SD"
   ],
   "trending": [
     "idx_BloombergTV.us@US",
     "idx_CBS.us@East",
     "idx_CGTN.cn@SD",
     "idx_France24.fr@English",
-    "idx_AlJazeera.qa@Arabic",
     "idx_BBCNews.uk@Europe",
     "idx_CBC.eg@SD",
     "idx_GBNews.uk@SD",
@@ -65,6 +64,7 @@
     "idx_SABCNews.za@SD",
     "idx_TV5.ph@SD",
     "idx_3sat.de@SD",
+    "idx_AlJazeera.qa@Arabic",
     "idx_ArirangTV.kr@SD",
     "idx_CNA.al@SD",
     "idx_France2.fr@SD",
@@ -74,7 +74,6 @@
     "idx_NewsmaxTV.us@SD"
   ],
   "recentlyAdded": [
-    "flk_2hs4FzDgKk1l2e",
     "flk_4C34DA8hS5DUmR",
     "flk_DYBLtycErqVQgF",
     "flk_ZOTkMMGUEIitr9",
@@ -85,15 +84,16 @@
     "flk_AtEof85QR5byYd",
     "flk_QMsKW2NGa9ux0Z",
     "flk_MHC3rqs2EaQPud",
-    "flk_MfDlDysNg98qvg",
+    "flk_2hs4FzDgKk1l2e",
     "flk_3BsCNdHaOVE1Yl",
     "flk_0laAjuD1d9fLmq",
     "flk_zhwxNZSEDp40Xw",
     "flk_O6eYFjK7oE7tnx",
+    "flk_MfDlDysNg98qvg",
     "flk_SQGH8tX9KocSpb",
-    "flk_qO9vRi6qWS9n0t",
     "flk_CncAKwrkDhOIFe",
-    "flk_AlDXkZl2YdyPD4"
+    "flk_AlDXkZl2YdyPD4",
+    "flk_qO9vRi6qWS9n0t"
   ],
   "topPicks": [
     "idx_00sReplay.us@SD",
@@ -893,6 +893,7 @@
       "free_pluto_85aa8e35",
       "free_pluto_bdd3b4ce",
       "free_pluto_4e894d51",
+      "free_pluto_10add365",
       "free_pluto_293e6091"
     ],
     "Greece": [
@@ -1072,6 +1073,7 @@
       "idx_Kanal10Norway.no",
       "free_pluto_4f4ef5c0",
       "free_pluto_35b59ee6",
+      "free_pluto_7ca8d724",
       "free_pluto_e9b88598"
     ],
     "Peru": [
@@ -1363,6 +1365,7 @@
       "free_pluto_14f53bb7",
       "free_pluto_f2af878c",
       "free_pluto_4fa99e15",
+      "free_pluto_1308688f",
       "free_plex_a376c0e4",
       "free_plex_4f1791d9",
       "free_plex_6f5a3045",
@@ -1376,8 +1379,7 @@
       "free_plex_3201ace5",
       "free_plex_33e9444b",
       "free_plex_1335ce22",
-      "free_plex_d6238a06",
-      "free_plex_dffe67cb"
+      "free_plex_d6238a06"
     ],
     "Animals": [
       "free_roku_bfb2d338",
@@ -1606,25 +1608,25 @@
     ],
     "Radio": [
       "radio_c76686ca-a8b9-4db9-9839-1470c9599623",
-      "radio_7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d",
       "radio_d1a54d2e-623e-4970-ab11-35f7b56c5ec3",
-      "radio_78012206-1aa1-11e9-a80b-52543be04c81",
-      "radio_9617a958-0601-11e8-ae97-52543be04c81",
-      "radio_692a3b69-0f68-11ea-a87e-52543be04c81",
-      "radio_756c4ac1-c020-4139-86c2-57cc4dd12643",
       "radio_dfcef843-6bf9-40f6-b3fe-2b224df86e48",
-      "radio_1c3e8be2-5b14-4933-bad3-87cbc227cba4",
-      "radio_da5f481e-f7d6-49b3-b213-514027740d39",
+      "radio_9617a958-0601-11e8-ae97-52543be04c81",
+      "radio_78012206-1aa1-11e9-a80b-52543be04c81",
       "radio_d28420a4-eccf-47a2-ace1-088c7e7cb7e0",
-      "radio_962cc6df-0601-11e8-ae97-52543be04c81",
+      "radio_7a3a3989-8f26-44f7-9ae5-fa91e5cf4f9d",
       "radio_240d28b9-7858-48d2-a816-9cf8e1875fe8",
-      "radio_1b762b21-2ec6-412a-a231-fa34a96f4f99",
-      "radio_09f4d466-1ab2-4b61-a180-96409adc5d80",
-      "radio_96126f56-0601-11e8-ae97-52543be04c81",
-      "radio_96185693-0601-11e8-ae97-52543be04c81",
-      "radio_ac15c045-6f16-4021-b35c-00b265b7201d",
+      "radio_4260f1f5-d5b3-44d5-9666-355da4da0b21",
+      "radio_1c3e8be2-5b14-4933-bad3-87cbc227cba4",
+      "radio_313046e3-b203-4b9d-bc3e-393da7d97126",
+      "radio_962cc6df-0601-11e8-ae97-52543be04c81",
+      "radio_ba3ad919-0516-485c-bce6-b27c4492ab14",
       "radio_d39ab442-6c34-4097-afd0-e298ac21e50c",
-      "radio_ba3ad919-0516-485c-bce6-b27c4492ab14"
+      "radio_1b762b21-2ec6-412a-a231-fa34a96f4f99",
+      "radio_da5f481e-f7d6-49b3-b213-514027740d39",
+      "radio_ac15c045-6f16-4021-b35c-00b265b7201d",
+      "radio_6efe216d-bf7e-11e9-8502-52543be04c81",
+      "radio_ea8059be-d119-4de3-b27b-0d9bd6aedb17",
+      "radio_7ba4c184-fc2b-11e9-bbf2-52543be04c81"
     ],
     "Premium": [
       "up_stmify_hbo-plus"
