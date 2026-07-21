@@ -1,15 +1,15 @@
 {
-  "versionName": "1.6.0",
-  "versionCode": 21,
-  "releaseNotes": "Fixes a crash where pressing OK on a search result (or any channel) dropped you to the home screen instead of playing — the TV player now opens reliably. Fixes DLHD sports channels (e.g. Supersport Grandstand) that showed a black screen, so all 710 DLHD-only channels tune correctly. Restores brand logos for logo-less channels (the old logo service was shut down). New on Android TV: a broadcast-style TV Guide (filter chips, favourites-first, GUIDE remote button). Adaptive EPG window (6h normal, 2h low-RAM). Instant-visuals tuning: the player now picks the first feed verified to actually stream, so a dead source never parks you on a black screen; fixed a tuning freeze. Mobile guide: correct clock labels, 6h scroll, no overlaps. Fixed ~940 channel logos (e.g. TSN 2). Typo-tolerant search fix. Player minimize is now a down-chevron. First automated test suite.",
+  "versionName": "1.7.0",
+  "versionCode": 22,
+  "releaseNotes": "A living cinematic backdrop on Android TV — the home screen is now a layered ambient environment (depth gradient, soft category-driven glow, vignette, gentle motion) instead of a black void. Channels start faster and recover on their own: a channel that shows the no-signal screen now auto-retries within ~2 seconds, so feeds that used to need a tap come up by themselves. The no-signal screen gains on-screen controls (minimise, previous/next channel, fullscreen). Opening a channel from any home rail (My Favourites, Continue Watching, Kids…) now shows that rail as the player's channel list, matching Search. Fixed duplicated channel names in search results (e.g. M-Net). Favourited channels reliably appear in the Favourites view. Fixes DLHD sports channels that showed a black screen; restores brand logos for many channels. Also includes the broadcast-style TV Guide, 6h adaptive EPG, typo-tolerant search, and the down-chevron player minimise.",
   "apks": {
     "phone": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.6.0/StreamVerse-Phone-v1.6.0-release.apk",
-      "sha256": "a07f3ca0f93e91ee8313fb1f9b24c1554a1565ea2d6a7f1abbc113bab2cb0a35"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.7.0/StreamVerse-Phone-v1.7.0-release.apk",
+      "sha256": "585a2bf7de388f2a31bae6a76e689b21e84569f884e0e5aaf1a0088e40611412"
     },
     "tv": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.6.0/StreamVerse-TV-v1.6.0-release.apk",
-      "sha256": "8b6c01400e76e3bd47b65847ca244319bcb6e8d324b08f84cabab9f18bde4a46"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.7.0/StreamVerse-TV-v1.7.0-release.apk",
+      "sha256": "0a6c6362bfff78881d56f576c7bbf3e475aebb223a24f2a46853c163cdc15153"
     }
   }
 }
