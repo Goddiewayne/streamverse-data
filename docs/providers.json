@@ -2,14 +2,14 @@
   {
     "sourceType": "BROADCASTER",
     "providerName": "BROADCASTER",
-    "channelCount": 82,
+    "channelCount": 68,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "FREE_CHANNEL",
     "providerName": "FREE_CHANNEL",
-    "channelCount": 4394,
+    "channelCount": 2442,
     "healthyCount": 0,
     "healthPct": 0.0
   },
@@ -30,42 +30,42 @@
   {
     "sourceType": "WORLD_TV",
     "providerName": "WORLD_TV",
-    "channelCount": 296,
+    "channelCount": 449,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "GLOBAL_INDEX",
     "providerName": "GLOBAL_INDEX",
-    "channelCount": 11941,
+    "channelCount": 11935,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "RADIO",
     "providerName": "RADIO",
-    "channelCount": 727,
+    "channelCount": 725,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "UPSTREAM_CDN",
     "providerName": "UPSTREAM_CDN",
-    "channelCount": 319,
+    "channelCount": 297,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "STARTIMES",
     "providerName": "STARTIMES",
-    "channelCount": 64,
+    "channelCount": 50,
     "healthyCount": 0,
     "healthPct": 0.0
   },
   {
     "sourceType": "FAMELACK",
     "providerName": "FAMELACK",
-    "channelCount": 6470,
+    "channelCount": 1902,
     "healthyCount": 0,
     "healthPct": 0.0
   }

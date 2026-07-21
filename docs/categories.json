@@ -5328,7 +5328,6 @@
       "idx_86.ru@SD",
       "idx_555.ru@SD",
       "yt_yt_azam_tv_tz",
-      "br_tv3_gh",
       "br_2m_ma",
       "br_ard_de",
       "br_tve_es",
@@ -5370,7 +5369,7 @@
       "star_startimes_183",
       "star_startimes_147"
     ],
-    "count": 2572
+    "count": 2571
   },
   {
     "category": "Sports",
@@ -7631,9 +7630,10 @@
       "idx_TodoNovelas.es@SD",
       "idx_Belarus2.by@SD",
       "free_tubi_7a80acf9",
-      "free_tubi_f93c13e9"
+      "free_tubi_f93c13e9",
+      "world_ACTIONMAX_HD_EAST"
     ],
-    "count": 1100
+    "count": 1101
   },
   {
     "category": "News",
@@ -8505,17 +8505,15 @@
       "br_reuters_now",
       "br_dw_de",
       "br_aljazeera_ar",
-      "br_cgtn_en_cn",
       "br_tve24_es",
       "br_ait_national_ng",
       "star_startimes_1602873311",
-      "star_startimes_755591261",
       "star_startimes_500",
       "star_startimes_365",
       "star_startimes_224",
       "star_startimes_175"
     ],
-    "count": 876
+    "count": 874
   },
   {
     "category": "Religious",
@@ -10029,7 +10027,6 @@
       "radio_03c2c0cb-0f42-411c-bfd3-51d74da92609",
       "radio_7dd71b85-139b-4362-81b1-4206133a517c",
       "radio_962dc110-0601-11e8-ae97-52543be04c81",
-      "radio_eb68658e-6039-4bef-924b-cfae14098abb",
       "radio_717e3749-b9e8-4497-bd6a-61ccec935922",
       "radio_960553a5-0601-11e8-ae97-52543be04c81",
       "radio_49902d2d-672d-4130-b42a-90592d0460c5",
@@ -10163,7 +10160,6 @@
       "radio_5dcbb03d-423a-4f97-8af5-b95981094c69",
       "radio_3e6e3252-dd81-4b07-baba-b61bf96cd457",
       "radio_96389fbf-0601-11e8-ae97-52543be04c81",
-      "radio_f0ab0c5c-7125-476c-97a4-2eabc14f5f05",
       "radio_96494925-0601-11e8-ae97-52543be04c81",
       "radio_9ff8c9b6-34d5-4457-befd-bdad9c218217",
       "radio_9614537a-0601-11e8-ae97-52543be04c81",
@@ -10609,7 +10605,7 @@
       "radio_b1a564ae-5f48-48f9-ac09-666756caaf17",
       "radio_00c5f7bd-03af-441e-8be4-465be329aed9"
     ],
-    "count": 680
+    "count": 678
   },
   {
     "category": "Movies",
@@ -11182,9 +11178,13 @@
       "up_stmify_viva-cinema",
       "up_stmify_tvn-movies-pinoy",
       "up_stmify_tap-movies",
-      "star_startimes_1901571686"
+      "star_startimes_1901571686",
+      "world_CINEMAX_WEST",
+      "world_HBO_EAST",
+      "world_HBO_WEST",
+      "world_MOREMAX_HD_EAST"
     ],
-    "count": 569
+    "count": 573
   },
   {
     "category": "United states",
@@ -11212,7 +11212,6 @@
       "free_pluto_15598703",
       "free_pluto_d7065c08",
       "free_pluto_75482ed8",
-      "free_pluto_c8c64ea9",
       "free_plex_bc088da4",
       "free_plex_324edb95",
       "free_plex_489c2712",
@@ -11495,7 +11494,7 @@
       "free_plex_192ccfa4",
       "free_plex_e37ba0ef"
     ],
-    "count": 305
+    "count": 304
   },
   {
     "category": "Kids",
@@ -12161,7 +12160,6 @@
       "idx_freetv_a6751fd8fe2d",
       "idx_freetv_166f249471ec",
       "idx_freetv_e345ac7f9efc",
-      "idx_freetv_9e9fd3bc0830",
       "idx_freetv_4e4ee9a68428",
       "idx_freetv_117fac86fa49",
       "idx_freetv_b5f7901de988",
@@ -12186,7 +12184,7 @@
       "idx_freetv_010ee2d05c95",
       "free_pluto_c2b9b849"
     ],
-    "count": 193
+    "count": 192
   },
   {
     "category": "Legislative",
@@ -12542,7 +12540,6 @@
   {
     "category": "Vod italy",
     "channels": [
-      "idx_Sportitalia24.it",
       "idx_freetv_38f159b89391",
       "idx_freetv_19d64faf68cb",
       "idx_freetv_c27edf3b9df8",
@@ -12682,7 +12679,7 @@
       "idx_freetv_334481490a65",
       "idx_freetv_8f6c733a940a"
     ],
-    "count": 139
+    "count": 138
   },
   {
     "category": "Culture",
@@ -13439,7 +13436,6 @@
       "idx_La7.es",
       "idx_Canal4Tenerife.es",
       "idx_TelevisionMelilla.es",
-      "free_pluto_e6ac52a5",
       "free_pluto_397280ba",
       "free_pluto_a69a19c0",
       "free_pluto_905ff2ba",
@@ -13459,7 +13455,7 @@
       "free_plex_ec7e4c8a",
       "free_plex_df87d8bd"
     ],
-    "count": 40
+    "count": 39
   },
   {
     "category": "Canada",
@@ -13651,40 +13647,6 @@
     "count": 29
   },
   {
-    "category": "United kingdom",
-    "channels": [
-      "free_pluto_69e02606",
-      "free_pluto_66d69fca",
-      "free_pluto_14f53bb7",
-      "free_pluto_f2af878c",
-      "free_pluto_4fa99e15",
-      "free_pluto_1308688f",
-      "free_plex_a376c0e4",
-      "free_plex_4f1791d9",
-      "free_plex_6f5a3045",
-      "free_plex_f4e4db9d",
-      "free_plex_7fe27487",
-      "free_plex_1340108d",
-      "free_plex_603127b9",
-      "free_plex_6e640ea2",
-      "free_plex_2e5786bc",
-      "free_plex_73baa3be",
-      "free_plex_3201ace5",
-      "free_plex_33e9444b",
-      "free_plex_1335ce22",
-      "free_plex_d6238a06",
-      "free_plex_dffe67cb",
-      "free_plex_4aee6d11",
-      "free_plex_a72785e5",
-      "free_plex_38f1ede1",
-      "free_plex_0c7f035c",
-      "free_plex_2897efc0",
-      "free_plex_03c370f0",
-      "free_plex_e5d07612"
-    ],
-    "count": 28
-  },
-  {
     "category": "Tv \u0026 entertainment",
     "channels": [
       "free_roku_60aeef6a",
@@ -13719,39 +13681,6 @@
     "count": 28
   },
   {
-    "category": "Mexico",
-    "channels": [
-      "idx_HipodromodelasAmericas.mx",
-      "idx_MVMNoticias.mx",
-      "idx_RCGTV3.mx",
-      "idx_noticiasnrt.com",
-      "free_pluto_63af74da",
-      "free_pluto_35f8d219",
-      "free_pluto_971b84d5",
-      "free_pluto_2fbd2582",
-      "free_plex_2b8df36e",
-      "free_plex_eb1cdc73",
-      "free_plex_1f3c30ea",
-      "free_plex_b8d66e07",
-      "free_plex_fb9b4542",
-      "free_plex_357fa892",
-      "free_plex_6cdffda9",
-      "free_plex_a8326fe9",
-      "free_plex_7a3e746d",
-      "free_plex_250ea134",
-      "free_plex_cfe1f9a9",
-      "free_plex_b2f99579",
-      "free_plex_db2835b1",
-      "free_plex_768e624a",
-      "free_plex_9ad417c3",
-      "free_plex_430d4968",
-      "free_plex_f72b6a04",
-      "free_plex_c56e0dec",
-      "free_plex_1ffe2148"
-    ],
-    "count": 27
-  },
-  {
     "category": "Usa vod",
     "channels": [
       "idx_BumblebeeTVAuroraLive.us",
@@ -13783,6 +13712,71 @@
       "idx_BumblebeeTVTropicsLive.us"
     ],
     "count": 27
+  },
+  {
+    "category": "United kingdom",
+    "channels": [
+      "free_pluto_66d69fca",
+      "free_pluto_14f53bb7",
+      "free_pluto_f2af878c",
+      "free_pluto_4fa99e15",
+      "free_pluto_1308688f",
+      "free_plex_a376c0e4",
+      "free_plex_4f1791d9",
+      "free_plex_6f5a3045",
+      "free_plex_f4e4db9d",
+      "free_plex_7fe27487",
+      "free_plex_1340108d",
+      "free_plex_603127b9",
+      "free_plex_6e640ea2",
+      "free_plex_2e5786bc",
+      "free_plex_73baa3be",
+      "free_plex_3201ace5",
+      "free_plex_33e9444b",
+      "free_plex_1335ce22",
+      "free_plex_d6238a06",
+      "free_plex_dffe67cb",
+      "free_plex_4aee6d11",
+      "free_plex_a72785e5",
+      "free_plex_38f1ede1",
+      "free_plex_0c7f035c",
+      "free_plex_2897efc0",
+      "free_plex_03c370f0",
+      "free_plex_e5d07612"
+    ],
+    "count": 27
+  },
+  {
+    "category": "Mexico",
+    "channels": [
+      "idx_HipodromodelasAmericas.mx",
+      "idx_MVMNoticias.mx",
+      "idx_RCGTV3.mx",
+      "idx_noticiasnrt.com",
+      "free_pluto_63af74da",
+      "free_pluto_35f8d219",
+      "free_pluto_971b84d5",
+      "free_plex_2b8df36e",
+      "free_plex_eb1cdc73",
+      "free_plex_1f3c30ea",
+      "free_plex_b8d66e07",
+      "free_plex_fb9b4542",
+      "free_plex_357fa892",
+      "free_plex_6cdffda9",
+      "free_plex_a8326fe9",
+      "free_plex_7a3e746d",
+      "free_plex_250ea134",
+      "free_plex_cfe1f9a9",
+      "free_plex_b2f99579",
+      "free_plex_db2835b1",
+      "free_plex_768e624a",
+      "free_plex_9ad417c3",
+      "free_plex_430d4968",
+      "free_plex_f72b6a04",
+      "free_plex_c56e0dec",
+      "free_plex_1ffe2148"
+    ],
+    "count": 26
   },
   {
     "category": "France",
@@ -13868,30 +13862,6 @@
     "count": 20
   },
   {
-    "category": "Korea",
-    "channels": [
-      "idx_KBS1TV.kr",
-      "idx_KBS2TV.kr",
-      "idx_KBSNewsD.kr",
-      "idx_SBSTV.kr",
-      "idx_KNNTV.kr",
-      "idx_KBCTV.kr",
-      "idx_TJBTV.kr",
-      "idx_UBCTV.kr",
-      "idx_OBSGyeonginTV.kr",
-      "idx_EBSPlus1.kr",
-      "idx_EBSPlus2.kr",
-      "idx_KBSDrama.kr",
-      "idx_KBSJoy.kr",
-      "idx_KBSKids.kr",
-      "idx_KBSLife.kr",
-      "idx_KBSStory.kr",
-      "idx_KBSKorea.kr",
-      "idx_AlltheKPop.kr"
-    ],
-    "count": 18
-  },
-  {
     "category": "Spain vod",
     "channels": [
       "idx_HQMArabic.es",
@@ -13916,24 +13886,24 @@
     "count": 18
   },
   {
-    "category": "Greece",
+    "category": "Korea",
     "channels": [
-      "idx_ERT1.gr",
-      "idx_ERT2.gr",
-      "idx_ERTSports3.gr",
-      "idx_ERTSports4.gr",
-      "idx_ERTKids.gr",
-      "idx_AlphaTV.gr",
-      "idx_OpenTV.gr",
-      "idx_MakTV.gr",
-      "idx_4E.gr",
-      "idx_pontostv.gr",
-      "idx_lychnostv.gr",
-      "idx_epsilon.gr",
-      "idx_digitalstar.gr",
-      "idx_thessaliatv.gr",
-      "idx_DeltaTV.gr",
-      "idx_Kriti1Tv.gr"
+      "idx_KBS1TV.kr",
+      "idx_KBS2TV.kr",
+      "idx_KBSNewsD.kr",
+      "idx_SBSTV.kr",
+      "idx_KNNTV.kr",
+      "idx_KBCTV.kr",
+      "idx_TJBTV.kr",
+      "idx_UBCTV.kr",
+      "idx_OBSGyeonginTV.kr",
+      "idx_KBSDrama.kr",
+      "idx_KBSJoy.kr",
+      "idx_KBSKids.kr",
+      "idx_KBSLife.kr",
+      "idx_KBSStory.kr",
+      "idx_KBSKorea.kr",
+      "idx_AlltheKPop.kr"
     ],
     "count": 16
   },
@@ -13955,6 +13925,27 @@
       "idx_ShiftTV.hr@SD",
       "idx_SPEEDVISION.us@SD",
       "idx_wedotvAuta.pl@FAST"
+    ],
+    "count": 15
+  },
+  {
+    "category": "Greece",
+    "channels": [
+      "idx_ERT1.gr",
+      "idx_ERT2.gr",
+      "idx_ERTSports3.gr",
+      "idx_ERTSports4.gr",
+      "idx_ERTKids.gr",
+      "idx_OpenTV.gr",
+      "idx_MakTV.gr",
+      "idx_4E.gr",
+      "idx_pontostv.gr",
+      "idx_lychnostv.gr",
+      "idx_epsilon.gr",
+      "idx_digitalstar.gr",
+      "idx_thessaliatv.gr",
+      "idx_DeltaTV.gr",
+      "idx_Kriti1Tv.gr"
     ],
     "count": 15
   },
@@ -14554,15 +14545,6 @@
     "count": 3
   },
   {
-    "category": "Somalia",
-    "channels": [
-      "idx_MMSomaliTV.uk",
-      "idx_SBCTV.so",
-      "idx_SomaliCableTV.uk"
-    ],
-    "count": 3
-  },
-  {
     "category": "News ar",
     "channels": [
       "idx_AlJazeeraChannel.qa",
@@ -14577,15 +14559,6 @@
       "free_roku_bfb2d338",
       "free_roku_87d70a6e",
       "free_roku_19e95699"
-    ],
-    "count": 3
-  },
-  {
-    "category": "Sports on now",
-    "channels": [
-      "free_tubi_ba9b37b5",
-      "free_tubi_a3b792c5",
-      "free_tubi_94a17db6"
     ],
     "count": 3
   },
@@ -14690,6 +14663,14 @@
     "count": 2
   },
   {
+    "category": "Somalia",
+    "channels": [
+      "idx_MMSomaliTV.uk",
+      "idx_SomaliCableTV.uk"
+    ],
+    "count": 2
+  },
+  {
     "category": "News es",
     "channels": [
       "idx_EuronewsSpanish.fr",
@@ -14710,6 +14691,14 @@
     "channels": [
       "free_roku_9d46c150",
       "free_roku_d0aee566"
+    ],
+    "count": 2
+  },
+  {
+    "category": "Sports on now",
+    "channels": [
+      "free_tubi_ba9b37b5",
+      "free_tubi_94a17db6"
     ],
     "count": 2
   },
