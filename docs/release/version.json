@@ -1,15 +1,17 @@
 {
-  "versionName": "1.7.0",
-  "versionCode": 22,
-  "releaseNotes": "A living cinematic backdrop on Android TV — the home screen is now a layered ambient environment (depth gradient, soft category-driven glow, vignette, gentle motion) instead of a black void. Channels start faster and recover on their own: a channel that shows the no-signal screen now auto-retries within ~2 seconds, so feeds that used to need a tap come up by themselves. The no-signal screen gains on-screen controls (minimise, previous/next channel, fullscreen). Opening a channel from any home rail (My Favourites, Continue Watching, Kids…) now shows that rail as the player's channel list, matching Search. Fixed duplicated channel names in search results (e.g. M-Net). Favourited channels reliably appear in the Favourites view. Fixes DLHD sports channels that showed a black screen; restores brand logos for many channels. Also includes the broadcast-style TV Guide, 6h adaptive EPG, typo-tolerant search, and the down-chevron player minimise.",
+  "versionName": "1.7.1",
+  "versionCode": 23,
+  "releaseNotes": "Channels now tune on their own — no more tapping a source button to make a channel start, and no more sitting on \"Connecting\" while the audio already plays. Encrypted MBC channels (MBC MAX, MBC 2, MBC Action and family) now decrypt and play. Over 550 channels carried on YouTube's privacy domain were unplayable and now work, including FOX 5 New York. Live streams hold the live edge instead of drifting behind and dying (fixes TSN 3 and every short-window feed). The double-picture glitch — the same channel drawn twice, overlapping — is fixed on both phone and TV. TV boxes no longer see a phantom \"update available\" after every install. Behind the scenes: the channel catalogue regained 595 Stmify feeds with their decryption keys, duplicate feeds are merged so feed counts are honest, and failover always keeps a last-resort stream instead of showing static while holding a working URL.",
   "apks": {
     "phone": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.7.0/StreamVerse-Phone-v1.7.0-release.apk",
-      "sha256": "585a2bf7de388f2a31bae6a76e689b21e84569f884e0e5aaf1a0088e40611412"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.7.1/StreamVerse-Phone-v1.7.1-release.apk",
+      "sha256": "7781b07b4fc8b51984aaf3c2a49ffc016326b3a4eb20438e2ad5576182053ac2",
+      "versionCode": 23
     },
     "tv": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.7.0/StreamVerse-TV-v1.7.0-release.apk",
-      "sha256": "0a6c6362bfff78881d56f576c7bbf3e475aebb223a24f2a46853c163cdc15153"
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.7.1/StreamVerse-TV-v1.7.1-release.apk",
+      "sha256": "e784199611f7e90f581b58a9e74cb294f6124ad2bd26107a94c04cea1d80ad0b",
+      "versionCode": 21
     }
   }
 }
