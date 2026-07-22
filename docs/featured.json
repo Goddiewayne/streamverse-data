@@ -503,16 +503,16 @@
     "reason": "Broadcaster"
   },
   {
-    "channelId": "sport_374",
+    "channelId": "world_cinemax",
     "displayName": "Cinemax",
-    "category": "Sports",
+    "logoUrl": "https://stmify.com/wp-content/uploads/2024/10/241-s.webp",
     "priority": 0,
     "reason": "Broadcaster"
   },
   {
-    "channelId": "sport_321",
+    "channelId": "world_hbo",
     "displayName": "HBO",
-    "category": "Sports",
+    "logoUrl": "https://stmify.com/wp-content/uploads/2024/10/236-s.webp",
     "priority": 0,
     "reason": "Broadcaster"
   },
@@ -789,6 +789,15 @@
     "reason": "Multi-source"
   },
   {
+    "channelId": "idx_AccuWeatherNetwork.us@SD",
+    "displayName": "Accuweather Network",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AccuWeather.png/960px-AccuWeather.png",
+    "category": "Weather",
+    "country": "US",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
     "channelId": "idx_iptv_96caf9ceb763",
     "displayName": "Action Hollywood Movies",
     "category": "Undefined",
@@ -808,6 +817,15 @@
     "channelId": "idx_iptv_f0748203631f",
     "displayName": "Afrolandtv",
     "category": "Undefined",
+    "priority": 1,
+    "reason": "Multi-source"
+  },
+  {
+    "channelId": "idx_Alarabiya.ae@SD",
+    "displayName": "AL Arabiya",
+    "logoUrl": "https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height\u003dauto\u0026width\u003d512\u0026croppingPoint\u003d\u0026version\u003d1\u0026type\u003dpng",
+    "category": "News",
+    "country": "AE",
     "priority": 1,
     "reason": "Multi-source"
   },
@@ -862,22 +880,6 @@
     "logoUrl": "https://i.imgur.com/pzJAYan.png",
     "category": "General",
     "country": "ES",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_iptv_e95762f4a03b",
-    "displayName": "Alien Nation by DUST",
-    "category": "Undefined",
-    "priority": 1,
-    "reason": "Multi-source"
-  },
-  {
-    "channelId": "idx_AltitudeSports.us@SD",
-    "displayName": "Altitude Sports",
-    "logoUrl": "https://i.imgur.com/TzWflKZ.png",
-    "category": "Sports",
-    "country": "US",
     "priority": 1,
     "reason": "Multi-source"
   }
