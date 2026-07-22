@@ -5,12 +5,12 @@
   "apks": {
     "phone": {
       "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.8.0/StreamVerse-Phone-v1.8.0-release.apk",
-      "sha256": "86e7002dabf12bd08b0e82483f28920541cda1297295fca998c738a08b7ac2aa",
+      "sha256": "41823f276c73424dfceab00a31ba2fb630cbec709546fca20c19a72dd63b6827",
       "versionCode": 23
     },
     "tv": {
       "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.8.0/StreamVerse-TV-v1.8.0-release.apk",
-      "sha256": "3ac0460a19c53ecbf3ee25a0f34c093016ef63f3079783f49483140a643c5ba2",
+      "sha256": "3e43428d7b67ac470fb3ed9e381d6d2bf7721506ffc9edddff1ea88d14ccfa73",
       "versionCode": 21
     }
   }
