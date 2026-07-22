@@ -1,16 +1,16 @@
 {
-  "versionName": "1.7.1",
+  "versionName": "1.8.0",
   "versionCode": 23,
-  "releaseNotes": "Channels now tune on their own — no more tapping a source button to make a channel start, and no more sitting on \"Connecting\" while the audio already plays. Encrypted MBC channels (MBC MAX, MBC 2, MBC Action and family) now decrypt and play. Over 550 channels carried on YouTube's privacy domain were unplayable and now work, including FOX 5 New York. Live streams hold the live edge instead of drifting behind and dying (fixes TSN 3 and every short-window feed). The double-picture glitch — the same channel drawn twice, overlapping — is fixed on both phone and TV. TV boxes no longer see a phantom \"update available\" after every install. Behind the scenes: the channel catalogue regained 595 Stmify feeds with their decryption keys, duplicate feeds are merged so feed counts are honest, and failover always keeps a last-resort stream instead of showing static while holding a working URL.",
+  "releaseNotes": "Automated release",
   "apks": {
     "phone": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.7.1/StreamVerse-Phone-v1.7.1-release.apk",
-      "sha256": "7781b07b4fc8b51984aaf3c2a49ffc016326b3a4eb20438e2ad5576182053ac2",
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.8.0/StreamVerse-Phone-v1.8.0-release.apk",
+      "sha256": "86e7002dabf12bd08b0e82483f28920541cda1297295fca998c738a08b7ac2aa",
       "versionCode": 23
     },
     "tv": {
-      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.7.1/StreamVerse-TV-v1.7.1-release.apk",
-      "sha256": "e784199611f7e90f581b58a9e74cb294f6124ad2bd26107a94c04cea1d80ad0b",
+      "url": "https://github.com/Goddiewayne/StreamVerse-TV/releases/download/v1.8.0/StreamVerse-TV-v1.8.0-release.apk",
+      "sha256": "3ac0460a19c53ecbf3ee25a0f34c093016ef63f3079783f49483140a643c5ba2",
       "versionCode": 21
     }
   }
