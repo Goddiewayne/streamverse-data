@@ -1,0 +1,25 @@
+﻿{
+    "schemaVersion":  2,
+    "versionName":  "1.9.47",
+    "versionCode":  94,
+    "releaseNotes":  "Version 1.9.47: Channel Surf back returns to origin channel; exit confirmation on TV playback.",
+    "generatedAt":  "2026-10-23T05:34:42.7415791+00:00",
+    "apks":  {
+                 "phone":  {
+                               "url":  "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.47-release.apk",
+                               "versionCode":  94,
+                               "packageName":  "com.streamverse.app",
+                               "sizeBytes":  10814622,
+                               "sha256":  "4253319343788328143f29c460e1f52fa2a9e1f62e8a962251aa8a69a6506e01",
+                               "versionName":  "1.9.47"
+                           },
+                 "tv":  {
+                            "url":  "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.47-release.apk",
+                            "versionCode":  92,
+                            "packageName":  "com.streamverse.tv",
+                            "sizeBytes":  10827130,
+                            "sha256":  "b7a38b5a876b6328c44b07501631678f2d61f9c7288cd39a56968e717310e02b",
+                            "versionName":  "1.9.47"
+                        }
+             }
+}
