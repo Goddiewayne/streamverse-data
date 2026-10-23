@@ -1,25 +1,25 @@
 ﻿{
     "schemaVersion":  2,
-    "versionName":  "1.9.47",
-    "versionCode":  94,
-    "releaseNotes":  "Version 1.9.47: Channel Surf back returns to origin channel; exit confirmation on TV playback.",
-    "generatedAt":  "2026-10-23T05:34:42.7415791+00:00",
+    "versionName":  "1.9.48",
+    "versionCode":  95,
+    "releaseNotes":  "Version 1.9.48: Channel Surf Search tab up to 3 rows, My Channels up to 4 rows.",
+    "generatedAt":  "2026-10-23T05:52:41.0754729+00:00",
     "apks":  {
                  "phone":  {
-                               "url":  "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.47-release.apk",
-                               "versionCode":  94,
+                               "url":  "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.48-release.apk",
+                               "versionCode":  95,
                                "packageName":  "com.streamverse.app",
-                               "sizeBytes":  10814622,
-                               "sha256":  "4253319343788328143f29c460e1f52fa2a9e1f62e8a962251aa8a69a6506e01",
-                               "versionName":  "1.9.47"
+                               "sizeBytes":  10814618,
+                               "sha256":  "9fc54c79ee938d5f0d1c76ff40fa587536e72321780f1f64e87aa7deadb981af",
+                               "versionName":  "1.9.48"
                            },
                  "tv":  {
-                            "url":  "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.47-release.apk",
-                            "versionCode":  92,
+                            "url":  "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.48-release.apk",
+                            "versionCode":  93,
                             "packageName":  "com.streamverse.tv",
-                            "sizeBytes":  10827130,
-                            "sha256":  "b7a38b5a876b6328c44b07501631678f2d61f9c7288cd39a56968e717310e02b",
-                            "versionName":  "1.9.47"
+                            "sizeBytes":  10827128,
+                            "sha256":  "8ed7dd123b1262db2ddff09ea836daa7defb22ccb7241eba883090d35ed2bec1",
+                            "versionName":  "1.9.48"
                         }
              }
 }
