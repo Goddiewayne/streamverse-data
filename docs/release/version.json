@@ -1,17 +1,26 @@
 {
-  "versionName": "1.8.7",
-  "versionCode": 30,
-  "releaseNotes": "0.2.0 - ELahmad Shahid source, BabakTV dead-top-pick hardening, playback continuity and tuning improvements",
+  "schemaVersion": 2,
+  "versionName": "1.9.51",
+  "versionCode": 98,
+  "releaseNotes": "Native Mobile voice search synchronizes the selected TV. Android compatibility, encrypted offline catalogue, honest programme data, bounded remote commands, complete Mobile search and accessible guide reading. Physical speech, Fire TV installer UX, endurance and older-WebView browser proof remain open. Verified local release identity used because CI signing verification rejected its APKs.",
   "apks": {
     "phone": {
-      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.8.7-release.apk",
-      "sha256": "83c9194e3100b33cde6a15cfdc96e7e6763bfd04151cf0f525e83834eff210b7",
-      "versionCode": 30
+      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.51-release.apk",
+      "packageName": "com.streamverse.app",
+      "versionCode": 98,
+      "versionName": "1.9.51",
+      "sizeBytes": 10831222,
+      "sha256": "2bec08fcd78dc967b517e104f8c058a515b7c91338e712043471f550f68a45ae",
+      "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     },
     "tv": {
-      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.8.7-release.apk",
-      "sha256": "c7a9276209ac4ea9e6320e972cf837ade6a23eb42d6e4f2693e7fd917ebe24a8",
-      "versionCode": 28
+      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.51-release.apk",
+      "packageName": "com.streamverse.tv",
+      "versionCode": 96,
+      "versionName": "1.9.51",
+      "sizeBytes": 10843651,
+      "sha256": "6bc78463aca13e47d8f9f7787c5f6961c2c009bdbcbc9d28de355225cd03d953",
+      "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     }
   }
 }
