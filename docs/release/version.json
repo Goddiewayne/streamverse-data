@@ -1,25 +1,25 @@
 {
   "schemaVersion": 2,
-  "versionName": "1.9.59",
-  "versionCode": 106,
-  "releaseNotes": "Keep the focused Home tile visible across fast Right presses, direction-correct exit controls, 14-channel Home rows with motion, optional navigation sounds, and Navigation & help with Find Channel. Faster cached Schedule, continuous Mobile picture-in-picture, first-install notices, and automatic/manual signed updates with check history and resumable downloads.",
+  "versionName": "1.9.60",
+  "versionCode": 107,
+  "releaseNotes": "TV Right D-pad routes to the active catalogue, guide, schedule, or search controls. Home navigation moves on press and ignores the matching release.",
   "apks": {
     "phone": {
-      "url": "https://goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.59-release.apk",
+      "url": "https://goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.60-release.apk",
       "packageName": "com.streamverse.app",
-      "versionCode": 106,
-      "versionName": "1.9.59",
+      "versionCode": 107,
+      "versionName": "1.9.60",
       "sizeBytes": 7011400,
-      "sha256": "c6f7226eacb48d737409848abc604b8585ff2f863a6f16adefb5916e7b2b6d6d",
+      "sha256": "f92c37894791eafc71e00f117431bb0ba96a4339107ecaab7926330bbd0b88a1",
       "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     },
     "tv": {
-      "url": "https://goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.59-release.apk",
+      "url": "https://goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.60-release.apk",
       "packageName": "com.streamverse.tv",
-      "versionCode": 104,
-      "versionName": "1.9.59",
-      "sizeBytes": 6351230,
-      "sha256": "690647891a7a9473d7a3cf841266d8be3f196061141e01df2767ce16a0aa73a0",
+      "versionCode": 105,
+      "versionName": "1.9.60",
+      "sizeBytes": 6351225,
+      "sha256": "d2002cae52746d42dfb6e0d0f5845e1cd283b94c5b15d5ceb87710788022a8af",
       "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     }
   }
