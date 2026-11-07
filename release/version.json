@@ -1,25 +1,25 @@
 {
   "schemaVersion": 2,
-  "versionName": "1.9.66",
-  "versionCode": 113,
-  "releaseNotes": "Cinematic connection overlay, intelligent messaging, search improvements, decoder-ffmpeg module.",
+  "versionName": "1.9.67",
+  "versionCode": 114,
+  "releaseNotes": "Removed unused decoder-ffmpeg module; M3U8 plays like VLC with no unnecessary processing; smaller APKs.",
   "apks": {
     "phone": {
-      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.66-release.apk",
+      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.67-release.apk",
       "packageName": "com.streamverse.app",
-      "versionCode": 113,
-      "versionName": "1.9.66",
-      "sizeBytes": 19096612,
-      "sha256": "e0d5da96ee1e304d6cd2c2c5b5524f936eb8b28d27781cd0e90352682e66fc7b",
+      "versionCode": 114,
+      "versionName": "1.9.67",
+      "sizeBytes": 7027844,
+      "sha256": "7bd65c89470e2aa1a173fbf3934490a825fdd8faa29ec0ed6665c737ffece26c",
       "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     },
     "tv": {
-      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.66-release.apk",
+      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.67-release.apk",
       "packageName": "com.streamverse.tv",
-      "versionCode": 111,
-      "versionName": "1.9.66",
-      "sizeBytes": 18437276,
-      "sha256": "8245f7fb21250f19ea0c77961c930500e75a067d0c2c1519834b3e6947b486a4",
+      "versionCode": 112,
+      "versionName": "1.9.67",
+      "sizeBytes": 6351437,
+      "sha256": "afa8b089962a2cc8b13bb208bfd6d400149d3d28cbaf641ccd17c971ccf463ab",
       "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     }
   }
