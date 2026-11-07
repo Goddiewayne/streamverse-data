@@ -1,25 +1,25 @@
 {
   "schemaVersion": 2,
-  "versionName": "1.9.60",
-  "versionCode": 107,
-  "releaseNotes": "TV Right D-pad routes to the active catalogue, guide, schedule, or search controls. Home navigation moves on press and ignores the matching release.",
+  "versionName": "1.9.62",
+  "versionCode": 109,
+  "releaseNotes": "Right DPAD fix, seamless playback, smooth scroll, improved search, motion improvements, notification focus fix.",
   "apks": {
     "phone": {
-      "url": "https://goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.60-release.apk",
+      "url": "https://goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.62-release.apk",
       "packageName": "com.streamverse.app",
-      "versionCode": 107,
-      "versionName": "1.9.60",
-      "sizeBytes": 7011400,
-      "sha256": "f92c37894791eafc71e00f117431bb0ba96a4339107ecaab7926330bbd0b88a1",
+      "versionCode": 109,
+      "versionName": "1.9.62",
+      "sizeBytes": 7011420,
+      "sha256": "6b4dd3a272fc56e15e5f1bfbe4f5a818bc832369b267b97a8d969ad0f0c68a64",
       "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     },
     "tv": {
-      "url": "https://goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.60-release.apk",
+      "url": "https://goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.62-release.apk",
       "packageName": "com.streamverse.tv",
-      "versionCode": 105,
-      "versionName": "1.9.60",
-      "sizeBytes": 6351225,
-      "sha256": "d2002cae52746d42dfb6e0d0f5845e1cd283b94c5b15d5ceb87710788022a8af",
+      "versionCode": 107,
+      "versionName": "1.9.62",
+      "sizeBytes": 6351320,
+      "sha256": "7d22887f943eab48f7cffad72633186b3c8b31e3fe8281656c8a060af459034d",
       "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     }
   }
