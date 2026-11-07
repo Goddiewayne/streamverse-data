@@ -1,25 +1,25 @@
 {
   "schemaVersion": 2,
-  "versionName": "1.9.62",
-  "versionCode": 109,
-  "releaseNotes": "Right DPAD fix, seamless playback, smooth scroll, improved search, motion improvements, notification focus fix.",
+  "versionName": "1.9.63",
+  "versionCode": 110,
+  "releaseNotes": "Remove ABI splits build bottleneck; universal-only APKs; faster build and publish.",
   "apks": {
     "phone": {
-      "url": "https://goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.62-release.apk",
+      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.63-release.apk",
       "packageName": "com.streamverse.app",
-      "versionCode": 109,
-      "versionName": "1.9.62",
+      "versionCode": 110,
+      "versionName": "1.9.63",
       "sizeBytes": 7011420,
-      "sha256": "6b4dd3a272fc56e15e5f1bfbe4f5a818bc832369b267b97a8d969ad0f0c68a64",
+      "sha256": "a158cea39589449242144ccd3f89cef9ca9be0e761523d90033ab35317c4d78a",
       "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     },
     "tv": {
-      "url": "https://goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.62-release.apk",
+      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.63-release.apk",
       "packageName": "com.streamverse.tv",
-      "versionCode": 107,
-      "versionName": "1.9.62",
-      "sizeBytes": 6351320,
-      "sha256": "7d22887f943eab48f7cffad72633186b3c8b31e3fe8281656c8a060af459034d",
+      "versionCode": 108,
+      "versionName": "1.9.63",
+      "sizeBytes": 6351313,
+      "sha256": "a6724c74bb4eb0261fe22adde6428ee7bced2f7656d832170b6970bde5606459",
       "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     }
   }
