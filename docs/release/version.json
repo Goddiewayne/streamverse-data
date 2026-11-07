@@ -1,25 +1,25 @@
 {
   "schemaVersion": 2,
-  "versionName": "1.9.68",
-  "versionCode": 115,
-  "releaseNotes": "Restored FFmpeg decoder fallback for M3U8/HLS audio (AC-3 etc.) so channels like Unimas Mountain play with sound; smaller APKs via universal-only builds.",
+  "versionName": "1.9.69",
+  "versionCode": 116,
+  "releaseNotes": "Honest connection status: 60s unreachable timeout, 'Connecting...' caption; FFmpeg decoder restored for HLS audio.",
   "apks": {
     "phone": {
-      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.68-release.apk",
+      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.69-release.apk",
       "packageName": "com.streamverse.app",
-      "versionCode": 115,
-      "versionName": "1.9.68",
+      "versionCode": 116,
+      "versionName": "1.9.69",
       "sizeBytes": 19096612,
-      "sha256": "18f6ffd5f0f820647ed1a9d1391979f47c715a6e8a763e187efe7c6e9592a5de",
+      "sha256": "d19da690a3f9c1cc9eb4d3da07b155bd43401e672ef07da751788959dceac8fd",
       "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     },
     "tv": {
-      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.68-release.apk",
+      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.69-release.apk",
       "packageName": "com.streamverse.tv",
-      "versionCode": 113,
-      "versionName": "1.9.68",
-      "sizeBytes": 18437291,
-      "sha256": "0e23db0f19b7edf2aa85282ac5422ccf088e34b0f7d93a50cc2a606d7fb2dbfd",
+      "versionCode": 114,
+      "versionName": "1.9.69",
+      "sizeBytes": 18437282,
+      "sha256": "ce4437e0f71c73765d8da78b18315826b8e261d7e5f5c2ac45eeeda5950ea6d4",
       "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     }
   }
