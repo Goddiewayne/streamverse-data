@@ -1,25 +1,25 @@
 {
   "schemaVersion": 2,
-  "versionName": "1.9.64",
-  "versionCode": 111,
-  "releaseNotes": "Improved search: separator/plural/typo tolerant matching (Mnet->DSTV M-NET, SuperSport variants).",
+  "versionName": "1.9.65",
+  "versionCode": 112,
+  "releaseNotes": "Cinematic connection overlay: breathing glow, connection rings, milestone indicator, progressive delay-aware messaging, retry action.",
   "apks": {
     "phone": {
-      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.64-release.apk",
+      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.65-release.apk",
       "packageName": "com.streamverse.app",
-      "versionCode": 111,
-      "versionName": "1.9.64",
-      "sizeBytes": 7011420,
-      "sha256": "038d5905567638b81cc86f4d3424badb32e939e37e836d1b8f1ee96b0e4c3f65",
+      "versionCode": 112,
+      "versionName": "1.9.65",
+      "sizeBytes": 7027804,
+      "sha256": "a49bdd2a0f25d60f7c6cfaf0652f4a4f6955ed1fe00605e85c47c4277fbf3f7f",
       "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     },
     "tv": {
-      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.64-release.apk",
+      "url": "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.65-release.apk",
       "packageName": "com.streamverse.tv",
-      "versionCode": 109,
-      "versionName": "1.9.64",
-      "sizeBytes": 6351313,
-      "sha256": "00408379f57751721709449e2fa008f277bae7dcbb4a7378677754f66ab66b7c",
+      "versionCode": 110,
+      "versionName": "1.9.65",
+      "sizeBytes": 6351325,
+      "sha256": "3be5d124461bbb4433a404cf4de9b6497874f55ee56be0ab0ef518ce5791b603",
       "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
     }
   }
