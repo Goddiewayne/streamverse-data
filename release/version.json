@@ -1,25 +1,26 @@
-﻿{
-    "schemaVersion":  2,
-    "versionName":  "1.9.48",
-    "versionCode":  95,
-    "releaseNotes":  "Version 1.9.48: Channel Surf Search tab up to 3 rows, My Channels up to 4 rows.",
-    "generatedAt":  "2026-10-23T05:52:41.0754729+00:00",
-    "apks":  {
-                 "phone":  {
-                               "url":  "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.48-release.apk",
-                               "versionCode":  95,
-                               "packageName":  "com.streamverse.app",
-                               "sizeBytes":  10814618,
-                               "sha256":  "9fc54c79ee938d5f0d1c76ff40fa587536e72321780f1f64e87aa7deadb981af",
-                               "versionName":  "1.9.48"
-                           },
-                 "tv":  {
-                            "url":  "https://Goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.48-release.apk",
-                            "versionCode":  93,
-                            "packageName":  "com.streamverse.tv",
-                            "sizeBytes":  10827128,
-                            "sha256":  "8ed7dd123b1262db2ddff09ea836daa7defb22ccb7241eba883090d35ed2bec1",
-                            "versionName":  "1.9.48"
-                        }
-             }
+{
+  "schemaVersion": 2,
+  "versionName": "1.9.62",
+  "versionCode": 109,
+  "releaseNotes": "Right DPAD fix, seamless playback, smooth scroll, improved search, motion improvements, notification focus fix.",
+  "apks": {
+    "phone": {
+      "url": "https://goddiewayne.github.io/streamverse-data/release/StreamVerse-Phone-v1.9.62-release.apk",
+      "packageName": "com.streamverse.app",
+      "versionCode": 109,
+      "versionName": "1.9.62",
+      "sizeBytes": 7011420,
+      "sha256": "6b4dd3a272fc56e15e5f1bfbe4f5a818bc832369b267b97a8d969ad0f0c68a64",
+      "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
+    },
+    "tv": {
+      "url": "https://goddiewayne.github.io/streamverse-data/release/StreamVerse-TV-v1.9.62-release.apk",
+      "packageName": "com.streamverse.tv",
+      "versionCode": 107,
+      "versionName": "1.9.62",
+      "sizeBytes": 6351320,
+      "sha256": "7d22887f943eab48f7cffad72633186b3c8b31e3fe8281656c8a060af459034d",
+      "certificateSha256": "f7e4f25a3721950238f8bdbb7f508275f02fd9de8781fa1d97e8032351adc647"
+    }
+  }
 }
